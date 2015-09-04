@@ -1,16 +1,31 @@
 @import 'foundation/settings';
 @import 'foundation';
 
-.hero{
-  background-color: #7FDBFF;
+@font-face {
+    font-family: 'victors-pixel-font';
+    src: url('/fonts/victor/victors.eot');
+    src: url('/fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/victor/victors.woff') format('woff'),
+         url('/fonts/victor/victors.ttf') format('truetype'),
+         url('/fonts/victor/victors.svg#victors-pixel-font') format('svg');
 }
 
-.projects{
-  background-color: #0074D9;
+h1, h2, h3, h4 {
+    font-family: 'victors-pixel-font', DejaVu Sans, Arial, sans-serif;
+}
+
+.hero{
+  background-color: #ff6959;
+}
+
+.projects {
+  background: #fbfbfb url('/images/transition-01.png') repeat-x 0 0;
+  padding-top: 40px;
 }
 
 .colaborate{
-  background-color: #FF4136;
+  background: #18ebc6 url('/images/transition-02.png') repeat-x 0 0;
+  padding-top: 40px;
 }
 
 .about{
