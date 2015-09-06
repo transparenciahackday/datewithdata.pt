@@ -61,6 +61,13 @@ gulp.task('favicons',function(){
   .pipe(gulp.dest(paths.dev + '/favicons'));
 })
 
+gulp.task('images',function(){
+  return gulp.src([
+    paths.assets + '/images/**/*.*'
+  ])
+  .pipe(gulp.dest(paths.dev + '/images'));
+})
+
 gulp.task('js-watch', ['scripts'], browserSync.reload);
 
 gulp.task('copyPublicHTML',function () {
@@ -99,7 +106,7 @@ gulp.task('watch',function(){
 });
 
 gulp.task("sequentialBuild",function(callback){
-  runSequence('styles','favicons','scripts','buildPublicHTML','watch','fonts',callback);
+  runSequence('styles','favicons','images','scripts','buildPublicHTML','watch','fonts',callback);
 });
 
 gulp.task('default',['sequentialBuild']);
