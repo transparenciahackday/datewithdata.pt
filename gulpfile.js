@@ -103,6 +103,7 @@ gulp.task('watch',function(){
   gulp.watch(paths.assets + '/styles/**/*.scss',['styles']);
   gulp.watch(paths.assets + '/scripts/**/*.js',['js-watch']);
   gulp.watch(paths.assets + '/fonts/**/*.*',['fonts']);
+  gulp.watch(paths.assets + '/images/**/*.*',['images']);
 });
 
 gulp.task("sequentialBuild",function(callback){
