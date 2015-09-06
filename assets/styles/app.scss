@@ -25,6 +25,12 @@ h6 { font-size: 12px; line-height: 14px; }
 .top-bar .name h1, .top-bar .name h2,
 .top-bar .name h3, .top-bar .name h4, { font-size: 16px; }
 
+/* Colours
+#18ebc6 - blue
+#ff6959 - shy red
+#fbfbfb - light gray
+*/
+
 /* Layout
 */
 
@@ -46,7 +52,7 @@ h6 { font-size: 12px; line-height: 14px; }
 }
 
 .about {
-  background-color: #FF851B;
+  background-color: #fbfbfb url('/images/transition-03.png') repeat-x 0 0;
 }
 
 .supportedBy {
