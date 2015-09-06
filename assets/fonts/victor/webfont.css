@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'victors-pixel-font';
+    src: url('victors.eot');
+    src: url('victors.eot?#iefix') format('embedded-opentype'),
+         url('victors.woff') format('woff'),
+         url('victors.ttf') format('truetype'),
+         url('victors.svg#victors-pixel-font') format('svg');
+}
+
