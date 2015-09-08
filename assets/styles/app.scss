@@ -75,12 +75,13 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     margin-top: 0.5rem;
 }
 
-.hero, .projects, .collaborate, .about, .supportedBy, .copyright {
+.hero, .next-dwd, .projects, .collaborate, .about, .supportedBy, .copyright {
     padding-top: 66px;
     padding-bottom: 20px;
 }
 
 .hero { background: $dwd-red; }
+.next-dwd { background: $dwd-lightgray url('/images/transition-01.png') repeat-x 0 0; }
 .projects { background: $dwd-lightgray url('/images/transition-01.png') repeat-x 0 0; }
 .collaborate { background: $dwd-blue url('/images/transition-02.png') repeat-x 0 0; }
 .about { background: $dwd-lightgray url('/images/transition-03.png') repeat-x 0 0; }
@@ -102,3 +103,4 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 }
 
 .supportedBy .row a {  display: block; }
+.supportedBy .row .columns p { margin-bottom: 0; }
