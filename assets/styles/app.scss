@@ -1,6 +1,7 @@
 @import 'foundation/settings';
 @import 'foundation';
 
+
 /* Type
 */
 
@@ -52,17 +53,15 @@ h1 { font-size: 64px; line-height: 66px; }
 
 /* Colours
 
-replaced foundation (line 120)
-$primary-color: #008CBA;
-$secondary-color: #e7e7e7;
+replaced primary and seconday in settings
+and added
+$dwd-darkblue: #333844;
 */
 
-$dwd-darkblue: #333844;
 $dwd-blue: #18ebc6;
 $dwd-red: #ff6959;
 $dwd-lightgray: #fbfbfb;
 
-body,
 h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 
 .top-bar { background-color: $dwd-darkblue; }
@@ -77,8 +76,8 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 }
 
 .hero, .projects, .collaborate, .about, .supportedBy, .copyright {
-    padding-top: 50px;
-    padding-bottom: 15px;
+    padding-top: 66px;
+    padding-bottom: 20px;
 }
 
 .hero { background: $dwd-red; }
@@ -88,9 +87,18 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 .supportedBy { background: $dwd-red url('/images/transition-04.png') repeat-x 0 0; }
 .copyright { background: $dwd-lightgray url('/images/transition-01.png') repeat-x 0 0; }
 
+.hero .next h2 em {
+    font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    font-style: normal;
+    border-bottom: 3px solid $dwd-darkblue;
+}
+
 
 #projects a[target=_blank] {
     white-space: nowrap;  
 }
 
-
+.supportedBy .row a {  display: block; }
