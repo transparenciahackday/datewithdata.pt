@@ -244,13 +244,13 @@ $body-font-color: $dwd-darkblue;
 // $subheader-bottom-margin: .5rem;
 
 // A general <small> styling
-// $small-font-size: 60%;
+$small-font-size: 70%;
 // $small-font-color: scale-color($header-font-color, $lightness: 35%);
 
 // We use these to style paragraphs
 // $paragraph-font-family: inherit;
 // $paragraph-font-weight: $font-weight-normal;
-// $paragraph-font-size: 1rem;
+$paragraph-font-size: .875rem;
 // $paragraph-line-height: 1.6;
 // $paragraph-margin-bottom: rem-calc(20);
 // $paragraph-aside-font-size: rem-calc(14);
@@ -452,8 +452,8 @@ $body-font-color: $dwd-darkblue;
 // $button-font-family: $body-font-family;
 // $button-font-color: $white;
 $button-font-color-alt: $dwd-darkblue;
-// $button-font-tny: rem-calc(11);
-// $button-font-sml: rem-calc(13);
+$button-font-tny: rem-calc(10);
+$button-font-sml: rem-calc(12);
 // $button-font-med: rem-calc(16);
 // $button-font-lrg: rem-calc(20);
 // $button-font-weight: $font-weight-normal;
@@ -1418,7 +1418,7 @@ $topbar-bg-color: $dwd-darkblue;
 // $topbar-link-color-active: $white;
 // $topbar-link-color-active-hover: $white;
 // $topbar-link-weight: $font-weight-normal;
-// $topbar-link-font-size: rem-calc(13);
+$topbar-link-font-size: .65rem; /*rem-calc(10.5);*/
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
 // $topbar-link-bg-hover: $jet;
@@ -1430,7 +1430,7 @@ $topbar-bg-color: $dwd-darkblue;
 // $topbar-link-padding: ($topbar-height / 3);
 // $topbar-back-link-size: rem-calc(18);
 // $topbar-link-dropdown-padding: rem-calc(20);
-// $topbar-button-font-size: .75rem;
+$topbar-button-font-size: .65rem;
 // $topbar-button-top: 7px;
 
 // Style the top bar dropdown elements
