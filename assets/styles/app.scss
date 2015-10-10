@@ -108,9 +108,42 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     border-bottom: 3px solid $dwd-darkblue;
 }
 
+.next-dwd {
+  .row .columns  {
+      h3 { margin-bottom: 1rem; }
+    }
+}
+
 #projects a[target=_blank] {
     white-space: nowrap;  
 }
 
+#about {
+  p {
+    margin-bottom: 0.5rem;
+    }
+  .social {
+    margin: 0;
+    li {
+      list-style-type: none;
+      
+      i {
+        font-size: 1.5rem;
+        line-height: 1;
+        padding-right: 0.45rem;
+        }
+      }
+    }
+}
+
 .supportedBy .row a {  display: block; }
 .supportedBy .row .columns p { margin-bottom: 0; }
+
+.copyright {
+  p {
+    margin-bottom: 0;
+    i { font-size: 1.5rem; padding: 0 0.5rem; }
+    }
+
+}
+
