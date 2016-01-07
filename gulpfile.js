@@ -10,7 +10,7 @@ var runSequence = require('run-sequence');
 var paths = {
   'assets':'./assets',
   'bower': './bower_components',
-  'build': './build',
+  'build': './_build',
   'dev': './dev'
 };
 
@@ -124,7 +124,7 @@ gulp.task('build',['buildFinalHTML'],function(){
     ))
     .pipe(concat("app.min.css"))
     .pipe(minifyCss())
-    .pipe(gulp.dest('./build/css'));
+    .pipe(gulp.dest(paths.build+'/css'));
 
     gulp.src([
       paths.assets + '/fonts/**/*.*'
@@ -144,9 +144,9 @@ gulp.task('build',['buildFinalHTML'],function(){
     ])
     .pipe(concat('app.min.js'))
     .pipe(uglify())
-    .pipe(gulp.dest('./build/js'));
+    .pipe(gulp.dest(paths.build + '/js'));
 
     return gulp.src(paths.bower + '/modernizr/modernizr.js')
-      .pipe(gulp.dest('./build/js'));
+      .pipe(gulp.dest(paths.build + '/js'));
 
 });
