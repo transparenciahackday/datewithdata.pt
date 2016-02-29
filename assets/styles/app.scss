@@ -111,6 +111,12 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 .next-dwd {
   .row .columns  {
       h3 { margin-bottom: 1rem; }
+      
+      .text-left span {
+        font-family: monospace;
+        margin-right: 10px;
+        opacity: 0.8;
+        }
     }
 }
 
