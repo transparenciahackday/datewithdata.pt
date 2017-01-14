@@ -18,6 +18,31 @@
   <meta property="og:description" content="Encontros mensais, ao segundo sábado do mês, dedicados à visualização e open data. Organizados pelo Transparência Hackday Portugal." />
   <meta property="og:url" content="http://datewithdata.pt" />
   <meta property="og:image" content="http://datewithdata.pt/images/datewithdata-share.png" />
+
+  <!-- URL shortener for Piratepads -->
+  <script type="text/javascript">
+
+    function piratepad_redirect() {
+      // Check if an hash exists
+      if(window.location.hash) {
+        url_hash = window.location.hash.substring(1);
+        console.log(url_hash);
+        // Check if hash is piratepad valid shortener
+        if (url_hash.match(/^p\d+$/) ) {
+          // Extract the number in the hash
+          hash_numbers = url_hash.match(/\d/g);
+          event_number = hash_numbers.join("");
+          console.log(event_number);
+          // Redirect to the piratepad
+          window.location = "http://piratepad.be/p/datewithdata" + event_number
+        }
+      }    
+    }
+
+    window.onload = piratepad_redirect();
+
+  </script>
+
 </head>
 <body>
 
