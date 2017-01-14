@@ -132,6 +132,11 @@ gulp.task('build',['buildFinalHTML'],function(){
     .pipe(gulp.dest(paths.build + '/fonts'));
 
     gulp.src([
+      paths.assets + '/images/**/*.*'
+    ])
+    .pipe(gulp.dest(paths.build + '/images'));    
+
+    gulp.src([
       paths.assets + '/foundation-icons/**/*.*'
     ])
     .pipe(gulp.dest(paths.build + '/foundation-icons'));
