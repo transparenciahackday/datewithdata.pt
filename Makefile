@@ -8,6 +8,6 @@ serve:
 	gulp watch
 
 deploy:
-	rsync -ar --delete --progress dev/ -e ssh dh:~/www/datewithdata.pt/
+	rsync -ar --delete --progress _build/ -e ssh dh:~/www/datewithdata.pt/
 dry-deploy:
-	rsync -arn --delete --progress dev/ -e ssh dh:~/www/datewithdata.pt/
+	rsync -arn --delete --progress _build/ -e ssh dh:~/www/datewithdata.pt/
