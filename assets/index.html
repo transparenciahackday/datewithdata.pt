@@ -18,6 +18,29 @@
   <meta property="og:description" content="Encontros mensais, ao segundo sábado do mês, dedicados à visualização e open data. Organizados pelo Transparência Hackday Portugal." />
   <meta property="og:url" content="http://datewithdata.pt" />
   <meta property="og:image" content="http://datewithdata.pt/images/datewithdata-share.png" />
+
+  <!-- URL shortener for Piratepads -->
+  <script type="text/javascript">
+
+    function piratepad_redirect() {
+      // Check if an hash exists
+      if(window.location.hash) {
+        url_hash = window.location.hash.substring(1);
+        // Check if hash is piratepad valid shortener
+        if (url_hash.match(/^p\d+$/) ) {
+          // Extract the number in the hash
+          hash_numbers = url_hash.match(/\d/g);
+          event_number = hash_numbers.join("");
+          // Redirect to the piratepad
+          window.location = "http://piratepad.be/p/datewithdata" + event_number
+        }
+      }    
+    }
+
+    window.onload = piratepad_redirect();
+
+  </script>
+
 </head>
 <body>
 
@@ -53,7 +76,7 @@
     <div class="row next">
       <h2 class="small-12 columns">
         <em>Próximo encontro:</em>
-        <span>14 de janeiro</span>
+        <span>11 de fevereiro</span>
       </h2>
     </div>
     <div class="row">
@@ -87,17 +110,17 @@
   <div class="next-dwd" id="next-dwd" data-magellan-destination="next-dwd">
       <div class="row text-center">
         <div class="small-12 columns">
-          <h2>Ano novo, dados novos</h2>
-          <h3>Date with Data #14</h3>
+          <h2>Vamos construir o dadosabertos.pt</h2>
+          <h3>Date with Data #15</h3>
         </div>
       </div>
       <div class="row text-center">
         <div class="small-12 medium-10 medium-offset-1 small-offset-0 columns">
-          <p>Sábado temos mais um Date With Data.<br>
-          Vamos ter muitos afazeres em cima da mesa: começar os preparativos para o <a target="_blank" href="http://opendataday.org/">Open Data Day 2017</a>; rever e juntar informação sobre Portugal no <a href="http://index.okfn.org/place/portugal">Global Open Data Index</a>; ao voltar à <a target="_blank" href="http://centraldedados.pt">Central de Dados</a>; preparar os textos que temos para publicação; entre outras.</p>
-          <p>Anda ter connosco!</p>
-          <p>14 de novembro, das 10:00 às 17:00, no UPTEC PINC (Praça Coronel Pacheco). Traz uma tripla, portátil e um caderno. Nós levamos os dados ;)</p>
-          <p>Podes ler sobre o que fizemos em 2016 <a href="http://www.transparenciahackday.org/2016/12/como-foi-2016-e-o-que-ai-vem-em-2017/">aqui</a>, e guardar a data do próximo encontro, que vai ser dia <strong>11 de feveiro</strong>.</p>
+          <p>Falta-nos um recurso para que qualquer pessoa possa compreender rapidamente o que são dados abertos, porque é que a abertura da informação e os dados públicos são um ponto fundamental para uma democracia efectiva.</p>
+          <p>Como o que nos move é sujar as mãos, vamos construir esse recurso! Temos várias bases e ideias sobre o que este site pode ser, e um conjunto de tarefas associadas desde alinhar HTML e CSS, desenhar ícones e mascotes, editar e rever textos, colecionar recursos e ligações relacionadas... qualquer que seja a tua apetência, haverá algo em que podes ajudar! E a isto juntamos uma motivação extra — queremos lançar este site no Open Data Day, 4 de março. Se te quiseres juntar a nós num sprint de produtividade para alcançarmos rapidamente resultados concretos e que façam a diferença, é aparecer ;-)</p>
+          <p>11 de fevereiro, das 10:00 às 17:00, no UPTEC PINC (Praça Coronel Pacheco). Traz uma tripla, portátil e um caderno. Nós levamos os dados ;)</p>
+          <hr>
+          <p><strong>Aproveita para marcar no teu calendário o <a href="http://opendataday.org/" target="_blank">Open Data Day</a>: no sábado, 4 de março, marcamos presença para mais uma celebração do dia mundial dos dados abertos!</strong></p>
         </div>
       </div>
   </div>
