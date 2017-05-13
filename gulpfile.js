@@ -104,6 +104,7 @@ gulp.task('watch',function(){
   gulp.watch(paths.assets + '/scripts/**/*.js',['js-watch']);
   gulp.watch(paths.assets + '/fonts/**/*.*',['fonts']);
   gulp.watch(paths.assets + '/images/**/*.*',['images']);
+  gulp.watch(paths.assets + '/favicons/**/*.*',['favicons']);
 });
 
 gulp.task("sequentialBuild",function(callback){
@@ -134,7 +135,12 @@ gulp.task('build',['buildFinalHTML'],function(){
     gulp.src([
       paths.assets + '/images/**/*.*'
     ])
-    .pipe(gulp.dest(paths.build + '/images'));    
+    .pipe(gulp.dest(paths.build + '/images'));
+  
+    gulp.src([
+      paths.assets + '/favicons/**/*.*'
+    ])
+    .pipe(gulp.dest(paths.build + '/favicons'));
 
     gulp.src([
       paths.assets + '/foundation-icons/**/*.*'
