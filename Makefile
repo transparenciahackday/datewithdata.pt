@@ -7,7 +7,7 @@ install:
 serve:
 	gulp watch
 
-deploy:
+deploy: build
 	rsync -ar --delete --progress _build/ -e ssh dh:/home/rlaf/www/datewithdata.pt/
-dry-deploy:
+dry-deploy: build
 	rsync -arn --delete --progress _build/ -e ssh dh:/home/rlaf/www/datewithdata.pt/
