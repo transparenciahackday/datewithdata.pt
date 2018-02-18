@@ -19,9 +19,9 @@
   <meta property="og:url" content="http://datewithdata.pt" />
   <meta property="og:image" content="http://datewithdata.pt/images/datewithdata-share.png" />
 
-  <!-- URL shortener for Piratepads -->
   <script type="text/javascript">
 
+    // URL shortener for Piratepads
     function piratepad_redirect() {
       // Check if an hash exists
       if(window.location.hash) {
@@ -37,7 +37,41 @@
       }    
     }
 
-    window.onload = piratepad_redirect();
+    // Calculate next event date
+    function next_event() {
+      // this array contains the "end hour" of the next predicted events
+      // WARNING: notice that 'Date' syntax sets up January as 0, December as 11
+      var nextDates = [
+        [new Date(2018, 1, 10, 17, 0, 0, 0), "10 de Fevereiro"],
+        [new Date(2018, 2, 03, 17, 0, 0, 0), "03 de Mar&ccedil;o"],
+      ];
+      // Now we need to calculate the next event date. 'next' will end up
+      // containing the index of the next event, or -1 if they're all in the
+      // past (we still don't know when the next one will be)
+      var next = -1;
+      if (nextDates.length !== 0) {
+        for (var i = 0 ; i < nextDates.length; i++) {
+          if (next === -1 && new Date < nextDates[i][0]) {
+            next = i;
+          }
+        }
+      }
+
+      // Actual show the next event date
+      if (next !== -1) {
+        document.getElementById("next_event").innerHTML = nextDates[next][1];
+      } else {
+        document.getElementById("next_event").innerHTML = "A definir";
+      }
+    }
+
+    // Things to do onload
+    function load_page() {
+      piratepad_redirect();
+      next_event();
+    }
+
+    window.onload = load_page;
 
   </script>
 
@@ -75,7 +109,7 @@
     <div class="row next">
       <h2 class="small-12 columns">
         <em>Próximo encontro:</em>
-        <span>10 de Fevereiro</span>
+        <span id="next_event"></span>
       </h2>
     </div>
     <div class="row">
