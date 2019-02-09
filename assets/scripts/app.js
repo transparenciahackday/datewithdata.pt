@@ -6,5 +6,3 @@ $(document).foundation();
         return $(this).attr('src').replace('.svg', '.png');
     });
   }
-
-console.log("ok funciona o reload");
