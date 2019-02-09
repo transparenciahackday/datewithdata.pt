@@ -1,18 +1,10 @@
 # datewithdata.pt
 
-## Instalação
-
-As dependências para gerar o site são o `npm`, `bower` e o `gulp`. Depois é só:
-
-    npm install && bower install
-
 ## Correr o site
 
-Para gerar a estrutura do site, é correr `gulp`.
+Para gerar a estrutura do site, é correr `make build`.
 
-Depois é só correr `gulp watch` que ele corre um webserver.
-
-E para fazer uma versão "final" e minificada, é `gulp build`.
+Depois é só correr `make serve` que ele inicia um webserver local em <http://localhost:8000>.
 
 ## Licenças
 
