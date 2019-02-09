@@ -8,7 +8,7 @@ build:
 	cp -ar assets/pages _build
 	cp -ar --no-target-directory assets/scripts _build/js
 	mkdir -p _build/css
-	./lib/sass --style compressed --quiet assets/styles/app.scss _build/css/app.min.css
+	./lib/sass --style compressed --no-source-map --quiet assets/styles/app.scss _build/css/app.min.css
 
 serve:
 	cd _build && python -m SimpleHTTPServer
