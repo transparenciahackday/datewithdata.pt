@@ -16,17 +16,17 @@
 
 @font-face {
     font-family: 'SinkinSans';
-    src: local('SinkinSans'), url('../theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
+    src: local('SinkinSans'), url('/theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans Bold';
-    src: local('SinkinSans Bold'), url('../theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
+    src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans Light';
-    src: local('SinkinSans Bold'), url('../theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
+    src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
 

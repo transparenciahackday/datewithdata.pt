@@ -42,7 +42,7 @@ help:
 	@echo '                                                                          '
 
 build: html
-	./lib/sass --style compressed --no-source-map --quiet theme/datewithdata/static/styles/app.scss output/css/app.min.css
+	./lib/sass --style compressed --no-source-map --quiet theme/datewithdata/static/styles/app.scss output/theme/styles/app.min.css
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
