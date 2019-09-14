@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} &mdash; {{ page.title }}{% endblock title %}
+
+{% block meta %}
+  <meta name="description" content="{{ page.summary|striptags }}">
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ SITENAME }} — {{ page.title }}" />
+  <meta property="og:description" content="{{ page.summary|striptags }}" />
+  <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}" />
+  <meta property="og:image" content="http://jplusplus.org/theme/images/cover-800x500.png" />
+  <meta property="fb:app_id" content="297433590661569" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ SITENAME }} — {{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.summary }}" />
+  <meta name="twitter:url" content="{{ SITEURL }}/{{ page.url }}" />
+  <meta name="twitter:image" content="http://jplusplus.org/theme/images/cover-800x500.png" />
+{% endblock meta %}
+
+{% block content %}
+
+    <header class="row expanded column">
+            <h2 class="plus-separator-title"><span>{{ page.title }}</span></h2>
+    </header>
+
+    <div class="row expanded">
+        {% if page.slug == 'contact' %}
+            {{ page.content }}
+        {% elif page.slug == 'manifesto' %}
+            <div id="manifesto" class="large-6 large-centered medium-8 medium-centered small-12 columns">
+                {{ page.content }}
+            </div>
+        {% else %}
+            <div class="large-6 large-centered medium-8 medium-centered small-12 columns">
+                {{ page.content }}
+            </div>
+        {% endif %}
+    </div><!-- /.entry-content -->
+{% endblock %}

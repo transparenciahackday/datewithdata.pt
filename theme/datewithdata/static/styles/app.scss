@@ -7,26 +7,26 @@
 
 @font-face {
     font-family: 'victors-pixel-font';
-    src: url('/fonts/victor/victors.eot');
-    src: url('/fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/victor/victors.woff') format('woff'),
-         url('/fonts/victor/victors.ttf') format('truetype'),
-         url('/fonts/victor/victors.svg#victors-pixel-font') format('svg');
+    src: url('/theme/fonts/victor/victors.eot');
+    src: url('/theme/fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
+         url('/theme/fonts/victor/victors.woff') format('woff'),
+         url('/theme/fonts/victor/victors.ttf') format('truetype'),
+         url('/theme/fonts/victor/victors.svg#victors-pixel-font') format('svg');
 }
 
 @font-face {
     font-family: 'SinkinSans';
-    src: local('SinkinSans'), url('../fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
+    src: local('SinkinSans'), url('../theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans Bold';
-    src: local('SinkinSans Bold'), url('../fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
+    src: local('SinkinSans Bold'), url('../theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans Light';
-    src: local('SinkinSans Bold'), url('../fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
+    src: local('SinkinSans Bold'), url('../theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
 

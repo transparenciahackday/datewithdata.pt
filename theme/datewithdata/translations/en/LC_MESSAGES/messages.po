@@ -1,0 +1,175 @@
+# English translations
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-04-08 13:35+0200\n"
+"PO-Revision-Date: 2017-09-04 11:10+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: templates/archives.html:2 templates/archives.html:7
+msgid "Archive"
+msgstr ""
+
+#: templates/article.html:54
+msgid "Tools"
+msgstr ""
+
+#: templates/author.html:3 templates/author.html:8
+msgid "Articles by "
+msgstr ""
+
+#: templates/authors.html:3
+msgid "Authors"
+msgstr ""
+
+#: templates/authors.html:9
+msgid "Authors on "
+msgstr ""
+
+#: templates/base.html:99
+msgid "Menu"
+msgstr ""
+
+#: templates/base.html:115 templates/base.html:158 templates/index.html:28
+msgid "Work"
+msgstr ""
+
+#: templates/base.html:118 templates/base.html:159 templates/index.html:170
+msgid "Manifesto"
+msgstr ""
+
+#: templates/base.html:121 templates/base.html:160 templates/index.html:53
+msgid "Team"
+msgstr ""
+
+#: templates/base.html:125 templates/base.html:162 templates/index.html:100
+msgid "Academy"
+msgstr ""
+
+#: templates/base.html:130 templates/base.html:165
+msgid "Blog"
+msgstr ""
+
+#: templates/base.html:134 templates/base.html:167
+msgid "Contact"
+msgstr ""
+
+#: templates/base.html:140
+msgid "English"
+msgstr ""
+
+#: templates/base.html:141
+msgid "Portuguese"
+msgstr ""
+
+#: templates/base.html:142
+msgid "Swedish"
+msgstr ""
+
+#: templates/base.html:153
+msgid "Copyright 2019 the J++ Network"
+msgstr ""
+
+#: templates/base.html:172
+msgid "Email us"
+msgstr ""
+
+#: templates/base.html:173
+msgid "J++ on Twitter"
+msgstr ""
+
+#: templates/base.html:174
+msgid "J++ on Facebook"
+msgstr ""
+
+#: templates/base.html:175
+msgid "J++ on Github"
+msgstr ""
+
+#: templates/categories.html:3
+msgid "Categories"
+msgstr ""
+
+#: templates/index.html:11 templates/index.html:18
+msgid "Rethinking journalism with data."
+msgstr ""
+
+#: templates/index.html:12 templates/index.html:21
+msgid ""
+"J++ is an international team of data journalism specialists, with offices"
+" in Stockholm and Porto. The team integrates experts in research, data "
+"analysis, data-driven storytelling, newsroom programming and full-stack "
+"design. J++ is for Journalism++."
+msgstr ""
+
+#: templates/index.html:48
+msgid "See more of our work"
+msgstr ""
+
+#: templates/index.html:64 templates/index.html:134 templates/index.html:158
+msgid "Email"
+msgstr ""
+
+#: templates/index.html:119
+msgid "Show older courses"
+msgstr ""
+
+#: templates/index.html:126 templates/index.html:150
+msgid "Newsletter"
+msgstr ""
+
+#: templates/index.html:130
+msgid ""
+"Stay update with our newsletter!<br>Previous editions are available <a "
+"href=\"http://us10.campaign-"
+"archive2.com/home/?u=f5c9b898477bcd7a7e64e37d9&id=bf2d183171\">here</a>. "
+"Note that earlier newsletters were in Swedish only. As of 2019 they are "
+"in English, or bilingual."
+msgstr ""
+
+#: templates/index.html:136 templates/index.html:160
+msgid "Send"
+msgstr ""
+
+#: templates/index.html:154
+msgid "Stay updated with our newsletter!"
+msgstr ""
+"Stay update with our newsletter!<br>Previous editions are available <a "
+"href=\"http://us10.campaign-"
+"archive2.com/home/?u=f5c9b898477bcd7a7e64e37d9&id=bf2d183171\">here</a>. "
+"Note that earlier newsletters were in Swedish only. As of 2019 they are "
+"in English, or bilingual."
+
+#: templates/index.html:174
+msgid ""
+"The J++ Network directs its actions according to a 10-point manifesto "
+"that lays out its vision and principles, proposing a consistent and "
+"ethical perspective over the practice of data journalism."
+msgstr ""
+
+#: templates/index.html:176
+msgid "Read our manifesto"
+msgstr ""
+
+#: templates/period_archives.html:3 templates/period_archives.html:8
+msgid "Archives for"
+msgstr ""
+
+#: templates/tags.html:3
+msgid "Tags"
+msgstr ""
+
+#~ msgid "MAILCHIMP_USER"
+#~ msgstr "f5c9b898477bcd7a7e64e37d9"
+
+#~ msgid "MAILCHIMP_LIST_ID"
+#~ msgstr "bf2d183171"
+

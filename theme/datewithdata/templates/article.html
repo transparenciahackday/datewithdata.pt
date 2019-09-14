@@ -1,0 +1,135 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} &mdash; {{ article.title }}{% endblock title %}
+
+{% block meta %}
+  <meta name="description" content="{{ article.summary|striptags }}">
+
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ SITENAME }} — {{ article.title }}" />
+  <meta property="og:description" content="{{ article.summary|striptags }}" />
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+  <meta property="og:image" content="http://jplusplus.org/theme/images/cover-800x500.png" />
+  <meta property="fb:app_id" content="297433590661569" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ SITENAME }} — {{ article.title }}" />
+  <meta name="twitter:description" content="{{ article.summary|striptags }}" />
+  <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}" />
+  <meta name="twitter:image" content="http://jplusplus.org/theme/images/cover-800x500.png" />
+
+  {% for keyword in article.keywords %}
+    <meta name="keywords" content="{{keyword}}" />
+  {% endfor %}
+
+  {% for tag in article.tags %}
+    <meta name="tags" content="{{tag}}" />
+  {% endfor %}
+{% endblock meta %}
+
+{% block content %}
+
+<div class="row expanded small-collapse">
+      <div class="large-9 large-push-3 small-12 columns">
+          {% if article.category.name == 'work' %}
+              <article class="h-entry">
+                  <header class="row">
+                    <h2 class="p-name small-12 columns">{{ article.title }}</h2>
+                  </header>
+                  <div class="image row">
+                      <p class="small-12 columns"><img class="u-photo" src="{{ article.image }}" alt="{{ article.title }}"></p>
+                  </div>
+                  <div class="e-content row">
+                      <div class="small-12 medium-8 columns">
+                          {{ article.content }}
+                      </div>
+                      <div class="small-12 medium-4 columns">
+                          <ul class="no-bullet">
+                            {% if article.clienturl %}
+                            <li><a href="{{ article.clienturl }}" target="_blank">{{ article.client }}</a></li>
+                            {% endif %}
+                            <li class="dt-published">{{ article.date|strftime("%B %Y") }}</li>
+                            {% if article.tools %}
+                              <li class="tools">
+                                    <strong>Tools:</strong>{{ " · ".join(article.tools.split(",")) }}
+                              </li>
+                            {% endif %}
+                            {% if article.externalurltext %}
+                                <li class="project-link u-url"><a href="{{ article.projecturl }}" rel="external">+ {{ article.externalurltext }}</a></li>
+                            {% endif %}
+                          </ul>
+                      </div>
+                  </div>
+              </article>
+          {% elif article.category.name == 'blog' %}
+              <article class="h-entry blogpost">
+                  <header class="row">
+                      <h2 class="p-name small-12 columns">{{ article.title }}</h2>
+                  </header>
+                  <div class="e-content row">
+                       <div class="small-12 medium-8 columns">
+                          {{ article.content }}
+                      </div>
+                      <div class="article-details small-12 medium-4 columns">
+                            <p class="date dt-published"><span>{{ article.locale_date }}</span></p>
+                            {% if article.authors %}{% for author in article.authors %}
+                                <p class="author p-author"><strong>{{ author }}</strong></p>
+                            {% endfor %}{% endif %}
+                            {#
+                            {% if article.tags %}
+                                <ul class="tags no-bullet">{% for tag in article.tags %}<li>{{ tag }}</li>{% endfor %}</ul>
+                            {% endif %}
+                            #}
+                      </div>
+                  </div>
+              </article>
+              <div class="pagination row">
+                  {% include 'pagination.html' %}
+              </div><!-- /.pagination -->
+          {% elif article.category.name == 'academy' %}
+              <article class="h-entry">
+                  {% if article.image %}
+                    <div class="image row">
+                        <p class="small-12 columns"><img src="{{ article.image }}" alt="{{ article.title }}"></p>
+                    </div>
+                  {% endif %}
+                  <header class="row">
+                      <h2 class="p-name small-12 columns">{{ article.title }}</h2>
+                  </header>
+                  <div class="e-content row">
+                      <div class="small-12 columns">
+                          {{ article.content }}
+                      </div>
+                  </div>
+              </article>
+          {% else %}
+            <article>
+              {% if article.image %}
+                <div class="image row">
+                  <p class="small-12 columns"><img class="u-photo" src="{{ article.image }}" alt="{{ article.title }}"></p>
+                </div>
+              {% endif %}
+              <header class="row">
+                <h2 class="small-12 columns">{{ article.title }}</h2>
+              </header>
+              <div class="row">
+                <div class="small-12 columns">
+                  {{ article.content }}
+                </div>
+              </div>
+            </article>
+          {% endif %}
+      </div>
+      <div id="side-nav" class="large-3 large-pull-9 small-12 columns">
+          <ul class="vertical menu">
+            {% for a in articles %}
+              {% if a.category == article.category %}
+              <li>
+                  <a href="{{ SITEURL }}/{{ a.url }}" rel="bookmark" title="Permalink to {{ a.title|striptags }}">{{ a.title }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+      </div>
+  </div>
+{% endblock %}

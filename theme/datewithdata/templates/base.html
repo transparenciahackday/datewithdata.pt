@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html  class="no-js" lang="{{ DEFAULT_LANG }}">
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        {% block head %}
+            <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+
+            {% block meta %}
+            <meta name="description" content="{{ SITE_DESCRIPTION }}">
+
+            <meta property="og:type" content="website" />
+            <meta property="og:title" content="{{ SITENAME }}" />
+            <meta property="og:description" content="{{ SITE_DESCRIPTION }}" />
+            <meta property="og:url" content="{{ SITEURL }}" />
+            <meta property="og:image" content="http://jplusplus.org/theme/images/cover-800x500.png" />
+            <meta property="fb:app_id" content="297433590661569" />
+
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:title" content="{{ SITENAME }}" />
+            <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}" />
+            <meta name="twitter:url" content="{{ SITEURL }}" />
+            <meta name="twitter:image" content="http://jplusplus.org/theme/images/cover-800x500.png" />
+
+            <meta name="theme-color" content="#3ad0d0" />
+
+            {% endblock meta %}
+            {% block extra_meta %}
+            {% endblock extra_meta %}
+
+            <link rel="alternate" href="http://jplusplus.org/sv/{{i18n_slug}}" hreflang="sv" />
+            <link rel="alternate" href="http://jplusplus.org/pt/{{i18n_slug}}" hreflang="pt-PT" />
+            <link rel="alternate" href="http://jplusplus.org/en/{{i18n_slug}}" hreflang="en" />
+
+            {% if FEED_ALL_ATOM %}
+            <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed">
+            {% endif %}
+            {% if FEED_ALL_RSS %}
+            <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed">
+            {% endif %}
+            {% if FEED_ATOM %}
+            <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed">
+            {% endif %}
+            {% if FEED_RSS %}
+            <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed">
+            {% endif %}
+            {% if CATEGORY_FEED_ATOM and category and (category.slug.length) %}
+            <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed">
+            {% endif %}
+            {% if CATEGORY_FEED_RSS and category %}
+            <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed">
+            {% endif %}
+            {% if TAG_FEED_ATOM and tag %}
+            <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed">
+            {% endif %}
+            {% if TAG_FEED_RSS and tag %}
+            <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed">
+            {% endif %}
+        {% endblock head %}
+
+        <link rel="stylesheet" href="/theme/css/style.css">
+        <!-- Foundation icon font -->
+        <link rel="stylesheet" href="/theme/fonts/foundation-icons/foundation-icons.css">
+
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="/theme/images/favicon.png">
+        <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon.png">
+
+</head>
+
+{% if output_file == 'index.html' %}
+    <body class="home">
+{% else %}
+    <body class="other">
+{% endif %}
+
+  <div id="wrapper">
+      <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+        <span class="logo">
+            <a href="{{ SITEURL }}/"><img src="/theme/images/jplusplus_mobile-menu.svg" onerror="this.src='/theme/images/jplusplus_mobile-menu.png'" alt="{{ SITENAME }}"></a>
+        </span>
+        <span class="button-icon">
+           <strong>Menu</strong>
+           <button class="menu-icon" type="button" data-toggle="main-menu"></button>
+       </span>
+    </div>
+    <nav class="top-bar" id="main-menu">
+        <div class="top-bar-title hide-for-small-only">
+            <a href="{{ SITEURL }}/"><img src="/theme/images/jplusplus_gray.svg" onerror="this.src='/theme/images/jplusplus_gray.png'" alt="{{ SITENAME }}"></a>
+        </div><!-- /.top-bar-title -->
+        <div class="top-bar-left">
+            <ul class="menu vertical medium-horizontal">
+              {% if page_name == "index" or page or article %}
+                {% set article_list = articles %}
+              {% else %}
+                {% set article_list = all_articles %}
+              {% endif %}
+              <li {% if category == "work" %}class="active"{% endif %}>
+                <a href="{{ SITEURL }}/work/">Work</a>
+              </li>
+              <li {% if page and page.slug == "manifesto" %}class="active"{% endif %}>
+                <a href="{{ SITEURL }}/manifesto/">Manifesto</a>
+              </li>
+              <li {% if category == "team" %}class="active"{% endif %}>
+                <a href="{{ SITEURL }}/#team">Team</a>
+              </li>
+              {% if article_list|selectattr("category", "equalto", "academy")|list %}
+                <li {% if category == "academy" %}class="active"{% endif %}>
+                  <a href="{{ SITEURL }}/academy/">Academy</a>
+                </li>
+              {% endif %}
+              {% if article_list|selectattr("category", "equalto", "blog")|list %}
+                <li {% if category == "blog" %}class="active"{% endif %}>
+                  <a href="{{ SITEURL }}/blog/">Blog</a>
+                </li>
+              {% endif %}
+              <li>
+                <a href="{{ SITEURL }}/contact/">Contact</a>
+              </li>
+            </ul>
+        </div><!-- /.top-bar-left -->
+        <div class="top-bar-right">
+            <ul class="menu  horizontal">
+              <li {% if DEFAULT_LANG == "en" %}class="active"{% endif %}><a href="http://jplusplus.org/en/{{ i18n_slug }}"><abbr title="English">EN</abbr></a></li>
+              <li {% if DEFAULT_LANG == "pt" %}class="active"{% endif %}><a href="http://jplusplus.org/pt/{{ i18n_slug }}"><abbr title="Portuguese">PT</abbr></a></li>
+              <li {% if DEFAULT_LANG == "sv" %}class="active"{% endif %}><a href="http://jplusplus.org/sv/{{ i18n_slug }}"><abbr title="Swedish">SV</abbr></a></li>
+            </ul>
+        </div><!-- /.top-bar-right -->
+    </nav><!-- /.top-bar #main-menu -->
+
+    {% block content %}
+    {% endblock %}
+
+  </div><!-- /#wrapper -->
+      <footer id="footer">
+        <div class="row column expanded">
+            <p>Copyright 2019 the J++ Network</p>
+        </div>
+        <div  class="row expanded large-collapse">
+            <div  class="medium-6 small-12 columns">
+                <ul class="menu horizontal">
+                  <li><a href="{{ SITEURL }}/work/">Work</a></li>
+                  <li><a href="{{ SITEURL }}/manifesto/">Manifesto</a></li>
+                  <li><a href="{{ SITEURL }}/#team">Team</a></li>
+                  {% if article_list|selectattr("category", "equalto", "academy")|list %}
+                    <li><a href="{{ SITEURL }}/academy/">Academy</a></li>
+                  {% endif %}
+                  {% if article_list|selectattr("category", "equalto", "blog")|list %}
+                    <li><a href="{{ SITEURL }}/blog/">Blog</a></li>
+                  {% endif %}
+                  <li><a href="{{ SITEURL }}/contact/">Contact</a></li>
+                </ul>
+            </div>
+            <div class="medium-6 small-12 columns social">
+              <ul class="menu horizontal">
+                <li><a href="mailto:contact@jplusplus.org" title="Email us"><i class="step fi-mail"></i> contact@jplusplus.org</a></li>
+                <li><a href="https://twitter.com/jplusplus_" target="_blank" title="J++ on Twitter"><i class="step fi-social-twitter"></i> Twitter</a></li>
+                <li><a href="https://www.facebook.com/journalismplusplus/" target="_blank" title="J++ on Facebook"><i class="step fi-social-facebook"></i> Facebook</a></li>
+                <li><a href="https://github.com/jplusplus" target="_blank" title="J++ on Github"><i class="step fi-social-github"></i> Github</a></li>
+              </ul>
+            </div>
+          </div>
+      </footer><!-- /#footer -->
+
+    {% include 'analytics.html' %}
+    <script src="/theme/js/vendor/jquery.min.js"></script>
+    <script src="/theme/js/vendor/foundation.min.js"></script>
+    <script src="/theme/js/app.js"></script>
+
+</body>
+</html>
