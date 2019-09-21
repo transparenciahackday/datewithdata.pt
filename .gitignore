@@ -6,3 +6,4 @@ package-lock.json
 .DS_Store
 /output/
 /.env/
+/__pycache__/

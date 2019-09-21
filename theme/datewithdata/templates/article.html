@@ -5,32 +5,32 @@
 {% block meta %}
   <meta name="description" content="{{ article.summary|striptags }}">
 
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="{{ SITENAME }} — {{ article.title }}" />
-  <meta property="og:description" content="{{ article.summary|striptags }}" />
-  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
-  <meta property="og:image" content="http://datewithdata.pt/theme/images/cover-800x500.png" />
-  <meta property="fb:app_id" content="297433590661569" />
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ SITENAME }} — {{ article.title }}">
+  <meta property="og:description" content="{{ article.summary|striptags }}">
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta property="og:image" content="http://datewithdata.pt/theme/images/cover-800x500.png">
+  <meta property="fb:app_id" content="297433590661569">
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="{{ SITENAME }} — {{ article.title }}" />
-  <meta name="twitter:description" content="{{ article.summary|striptags }}" />
-  <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}" />
-  <meta name="twitter:image" content="http://datewithdata.pt/theme/images/cover-800x500.png" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ SITENAME }} — {{ article.title }}">
+  <meta name="twitter:description" content="{{ article.summary|striptags }}">
+  <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta name="twitter:image" content="http://datewithdata.pt/theme/images/cover-800x500.png">
 
   {% for keyword in article.keywords %}
-    <meta name="keywords" content="{{keyword}}" />
+    <meta name="keywords" content="{{keyword}}">
   {% endfor %}
 
   {% for tag in article.tags %}
-    <meta name="tags" content="{{tag}}" />
+    <meta name="tags" content="{{tag}}">
   {% endfor %}
 {% endblock meta %}
 
 {% block content %}
 
 <div class="row expanded small-collapse">
-      <div class="large-9 large-push-3 small-12 columns">
+      <div class="small-12 columns">
           {% if article.category.name == 'work' %}
               <article class="h-entry">
                   <header class="row">

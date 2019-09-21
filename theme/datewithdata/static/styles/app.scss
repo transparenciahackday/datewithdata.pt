@@ -32,13 +32,13 @@
 
 body { font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif; }
 
-h2 { font-family: 'SinkinSans Light', 'DejaVu Sans', Arial, sans-serif; }
+h1, h2 { font-family: 'SinkinSans Light', 'DejaVu Sans', Arial, sans-serif; }
 h3, h4, h5, h6 { font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif; }
 h4 { font-size: 1rem; }
 
 /* Pixel Font */
-h1, .top-bar .name h1 { font-family: 'victors-pixel-font', DejaVu Sans, Arial, sans-serif; }
-h1 { font-size: 64px; line-height: 66px; }
+.home h1, .top-bar .name h1 { font-family: 'victors-pixel-font', DejaVu Sans, Arial, sans-serif; }
+.home h1 { font-size: 64px; line-height: 66px; }
 
 .top-bar .name h1, .top-bar .name h2,
 .top-bar .name h3, .top-bar .name h4, { font-size: 16px; }
