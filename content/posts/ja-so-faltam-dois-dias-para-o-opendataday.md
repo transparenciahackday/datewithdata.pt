@@ -10,8 +10,6 @@ Status: published
 
 <!--more-->
 
-<iframe name="embed_readwrite" src="http://piratepad.be/p/opendataday-pt?showControls=true&amp;showChat=true&amp;showLineNumbers=true&amp;useMonospaceFont=false" height="400" width="600"></iframe>
-
 [Link para o pad](http://piratepad.be/p/opendataday-pt "Pad colaborativo do Open Data Day 2014 Porto")
 
 ------------------------------------------------------------------------
