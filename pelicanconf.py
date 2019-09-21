@@ -14,6 +14,8 @@ PATH = 'content'
 THEME = 'theme/datewithdata'
 
 DEFAULT_PAGINATION = False
+# limitar palavras no resumo do índice de posts
+SUMMARY_MAX_LENGTH = 30
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
