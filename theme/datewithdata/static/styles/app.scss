@@ -16,18 +16,25 @@
 
 @font-face {
     font-family: 'SinkinSans';
+    font-weight: 400;
+    font-style: normal;
     src: local('SinkinSans'), url('/theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'SinkinSans Bold';
+    font-family: 'SinkinSans';
+    font-weight: 700;
+    font-style: normal;
     src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'SinkinSans Light';
-    src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
+    font-family: 'SinkinSans';
+    font-weight: 200;
+    font-style: normal;
+    src: local('SinkinSans Light'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
+
 
 
 body { font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif; }
@@ -101,7 +108,7 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 
 .hero .next h2 em {
     font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 0.85rem;
     text-transform: uppercase;
     font-style: normal;
@@ -159,3 +166,42 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 
 }
 
+/* Blog
+*/
+
+#post-list .hentry h3.entry-title {
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+
+.post-info {
+    font-size: 75%;
+    text-align: right;
+    text-transform: uppercase;
+    border-top: 3px solid $dwd-blue;
+    margin-top: 0.25rem;
+    padding-top: 0.25rem;
+}
+
+#post-list .hentry .entry-content {
+    font-size: 0.875rem;
+    line-height: 1.3;
+}
+
+#post-list .hentry .entry-content h1,
+#post-list .hentry .entry-content h2,
+#post-list .hentry .entry-content h3,
+#post-list .hentry .entry-content h4,
+#post-list .hentry .entry-content h5,
+#post-list .hentry .entry-content h6 {
+    font-size: 100%;
+    line-height: 1.3;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+
+#post-list .hentry .entry-content p {
+    margin-bottom: 0.15rem;
+}
