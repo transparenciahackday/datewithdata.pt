@@ -13,7 +13,7 @@
             <meta property="og:title" content="{{ SITENAME }}">
             <meta property="og:description" content="{{ SITE_DESCRIPTION }}">
             <meta property="og:url" content="{{ SITEURL }}">
-    	    <meta property="og:image" content="http://datewithdata.pt/images/datewithdata-share.png">
+            <meta property="og:image" content="{{ SITEURL }}/images/datewithdata-share.png">
 
             <meta name="twitter:card" content="summary">
             <meta name="twitter:title" content="{{ SITENAME }}">
@@ -231,9 +231,10 @@
       </div>
 
     {% include 'analytics.html' %}
-    <script src="/theme/js/vendor/jquery.min.js"></script>
-    <script src="/theme/js/vendor/foundation.min.js"></script>
-    <script src="/theme/js/app.js"></script>
+    <script src="{{ SITEURL }}/theme/scripts/vendor/jquery.min.js"></script>
+    <script src="{{ SITEURL }}/theme/scripts/vendor/foundation.js"></script>
+    <script src="{{ SITEURL }}/theme/scripts/vendor/foundation.magellan.js"></script>
+    <script src="{{ SITEURL }}/theme/scripts/app.js"></script>
 
 </body>
 </html>
