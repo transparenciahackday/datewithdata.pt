@@ -7,24 +7,246 @@ Slug: airbnb-o-sarampo-do-porto
 Status: draft
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/07/aribnb-varicela-loop.gif
 
-## Novos alojamentos por data de início de funcionamento
 
-A plataforma de alojamento local Airbnb chegou ao Porto em 2009 e desde essa altura não parou de crescer. É de longe a plataforma mais popular do seu género, uma vez que 90% dos AL anunciados pela internet nesta cidade estão nesta plataforma. Em Junho de 2019 contavam-se 5115 alojamentos ativos - ou seja, que receberam gente no ano de 2019 - no concelho do Porto, estando 3181 - 62% - localizados no centro histórico da cidade. As rua com mais alojamentos é a de Santa Catarina, com 179, seguindo-se a Rua da Alegria e a Rua do Almada com cerca de 130 cada.
-5115
+# Airbnb - o sarampo do Porto
 
-Anuncios Airbnb no concelho do Porto
-90% dos anúncios de AL online
-3181
+<iframe src="https://whiskas123.carto.com/builder/9651d97d-a9f4-446c-854d-8e40f3b43fe8/embed" 
+        width="100%" height="520" frameborder="0" 
+        allowfullscreen webkitallowfullscreen mozallowfullscreen 
+        oallowfullscreen msallowfullscreen></iframe>
 
-Anuncios Airbnb no centro histórico
-62% dos anúncios no Porto
+_Novos alojamentos por data de início de funcionamento_
 
-A Airbnb apresenta-se como uma plataforma facilitadora da economia de partilha, que ajuda pessoas comuns - chamados anfitriões - a arrendar um quartinho vazio e com isso ganhar algum dinheiro extra. Na verdade, a escala do negócio é outra. A economia de partilha existe, mas o peso de anúncios referentes a alojamentos ou quartos partilhados é muitíssimo reduzida - pouco mais de 10%. A esmagadora maioria dos anúncios referem-se a apartamentos completos, casas que ficam vazias assim que os turistas as deixam. Geralmente, também não são pequenos proprietários que colocam os alojamentos na Airbnb. Cerca de 70% dos anúncios são colocados por utilizadores com mais de um anúncio.
+A plataforma de alojamento local Airbnb chegou ao Porto em 2009 e
+desde essa altura não parou de crescer. É de longe a plataforma mais
+popular do seu género, uma vez que 90% dos AL anunciados pela internet
+nesta cidade estão no Airbnb.
 
-Existem ainda utilizadores com números anormalmente altos de anúncios publicados. Alguns dos nomes desses utilizadores sugerem que a plataforma possa estar a ser utilizada como ferramenta de negócio por empresas para anunciar alojamentos, algo que vai contra aquilo que a própria plataforma sugere na sua página.
-Marketing presente na página da Airbnb
-Azul - Anúncios cujos proprietários têm mais de um anúncio; Magenta - Anúncios singulares
+Em junho de 2019 contavam-se 5115 alojamentos ativos - ou seja, que
+receberam gente no ano de 2019 - no concelho do Porto, estando 3181 -
+quase dois terços - localizados no centro histórico da cidade.
 
-Segundo a legislação em vigor, os alojamentos locais têm de estar registados no Registo Nacional de Alojamento Local (RNAL). Cada AL tem um número de registo que deve ser indicado na página do anúncio na Airbnb. No entanto, há 607 anúncios - 12% - em situação irregular: ora porque não apresentam esse número, porque dizem estar isentos, porque apresentam um número que não se encontra no RNAL ou ainda porque apresentam um número que aponta para um registo de um AL fora do Porto. Outra informação importante presente no registo é a data de abertura do Alojamento Local. No entanto, há 650 ALs presentes na Airbnb que não apresentam esse dado, e mais relevante ainda, existem 1350 anúncios que à partida terão começado a operar antes da data de abertura que apresentam no registo, uma vez que receberam alguma avaliação antes dessa data.
+<div class="column">
+  <div class="card">
+    <strong>5115</strong>
+    Anuncios Airbnb no concelho do Porto
+    <small> <em>90%</em> dos anúncios de AL online</small>
+  </div>
+</div>
+<div class="column">
+  <div class="card"><strong>3181</strong>
+    Anuncios Airbnb no centro histórico
+    <small> <em>62%</em> dos anúncios no Porto</small></div>
+  </div>
+</div>
 
 
+## O top 10 das ruas com alojamentos no Airbnb
+
+A rua com mais alojamentos é a de Santa Catarina, com 179,
+seguindo-se a Rua da Alegria e a Rua do Almada com cerca de 130 cada.
+
+
+<canvas id="myChart" width="400" height="100"></canvas>
+<script>
+  var ctx = document.getElementById('myChart').getContext('2d');
+  var myChart = new Chart(ctx, {
+      type: 'horizontalBar',
+      data: {
+          labels: ['Rua de Santa Catarina', 'Rua da Alegria', 'Rua do Almada', 
+                   'Av. da  Boavista', 'Rua de Santo Ildefonso','Rua de Cedofeita',
+                   'Rua do Bonjardim','Rua Formosa','Rua do Visconde de Setúbal'],
+          datasets: [{
+              label: 'Número de Anúncios',
+              data: [179,130,126,116,105,101,98,97,94],
+              backgroundColor: 
+                  'rgba(255, 90, 95, 1)'
+              
+          }]
+      },
+      options: {
+          scales: {
+              yAxes: [{
+                  ticks: {
+                      beginAtZero: true
+                  }
+              }]
+          }
+      }
+  });
+</script>
+
+## Quartos para alugar são uma pequena minoria
+
+A Airbnb apresenta-se como uma plataforma facilitadora da economia
+de partilha, que ajuda pessoas comuns - chamados anfitriões - a
+arrendar um quartinho vazio e, com isso, ganhar algum dinheiro extra.
+
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/VdpqdAt.png" style="max-height:100%; max-width:100%">
+  <span>Marketing presente na página da Airbnb</span>
+</div>
+
+Na verdade, a escala do negócio é outra. A economia de partilha existe,
+mas o peso de anúncios referentes a alojamentos ou quartos partilhados
+é muitíssimo reduzida - pouco mais de 10%. 
+
+<canvas id="myChart2" width="400" height="100"></canvas>
+<script>
+  var ctx = document.getElementById('myChart2').getContext('2d');
+  var myChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+      labels: ['Apartamentos Completos', 'Quartos Privativos', 'Quartos Partilhados'],
+      datasets: [{
+        label: 'Número de Alojamentos',
+        data: [4002,494,14],
+        backgroundColor: [
+          'rgba(255, 90, 95, 1)',
+          'rgba(0,166,153,1)',
+          'rgba(252,100,45,1)'
+        ]
+
+      }]
+    },
+    options: {
+
+    }
+  });
+</script>
+
+A esmagadora maioria dos anúncios referem-se a apartamentos
+completos, casas que ficam vazias assim que os turistas as deixam.
+
+## Objetivo: "Volume de faturação"
+
+Segundo os números, proprietários individuais com um anúncio único
+são uma minoria. Cerca de 70% dos anúncios são colocados por
+utilizadores com mais de um anúncio.
+
+<iframe src="https://whiskas123.carto.com/builder/b746c59c-ea7b-4e11-a662-729a6b92d4a0/embed"
+  width="100%" height="520" frameborder="0" 
+  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+_Azul - Anúncios cujos proprietários têm mais de um anúncio; Magenta - Anúncios singulares_
+
+Existem ainda utilizadores com números particularmente altos de
+anúncios publicados. Ao averiguar os nomes desses utilizadores, podemos
+constatar que a maioria são empresas de gestão de AL:
+
+<canvas id="myChart3" width="400" height="100"></canvas>
+<script>
+  var ctx = document.getElementById('myChart3').getContext('2d');
+  var myChart = new Chart(ctx, {
+    type: 'horizontalBar',
+    data: {
+      labels: ['Feels Like Home', 'Liiiving', 'Oporto City Flats', 
+               'Host Wise', 'Porto City Hosts','Oporto Rental Management',
+               'Home Me','Rui','Marta','Carolina'],
+      datasets: [{
+        label: 'Número de Anúncios',
+        data: [53,49,45,42,39,35,28,28,27,26],
+        backgroundColor: 
+        'rgba(0, 166, 153, 1)'
+      }]
+    },
+    options: {
+      scales: {
+        yAxes: [{
+          ticks: {
+            beginAtZero: true
+          }
+        }]
+      }
+    }
+  });
+</script>
+
+O sucesso deste tipo de mediação dá-nos um bom indício da dimensão
+do fenómeno: não estamos a falar apenas de um nicho "premium" dentro
+de uma variedade de ofertas, pois estas empresas claramente dominam as
+contagens.
+
+Consultar a lista de serviços de uma destas empresas dá-nos uma boa
+pista sobre o tipo de proprietário que a elas recorre:
+
+> Proprietários:
+>   - Estudo de rentabilidade estimada do seu imóvel;
+>   - Gestão do seu imóvel 365 dias por ano (check-in, check-out, gestão
+>     de reservas e optimização de preços, limpeza, apoio aos hóspedes,
+>     etc.);
+>   - Comunicação forte e criativa. Criação de conteúdo fotográfico e
+>     videográfico para posterior divulgação nos vários canais de
+>     comunicação (redes sociais, website e plataformas digitais).
+>   Objectivo: Aumentar a sua taxa de ocupação e consequente volume de facturação.
+> 
+>   Hóspedes:
+>   - Recepção de boas-vindas à sua estadia;
+>   - Limpeza;
+>   - Apoio durante toda a estadia (compras no supermercado, sugestão de
+>     restaurantes, programas especiais, actividades a realizar, etc.);
+>   - Serviço de guia e transfers exclusivos;
+>   Objectivo: Proporcionar uma estadia especial e inesquecível a todos os que visitam os nossos imóveis.
+
+_Fonte: Página de Serviços do site da [Liiiving](https://www.liiiving.pt/pt/Servicos)._
+
+Estas empresas propõem toda uma estrutura de serviços que promove e
+estabelece o modelo de hotel-fantasma: uma propriedade que funciona
+como hotel, com serviços de gestão profissionais, acordos com cafés
+próximos para providenciar o pequeno-almoço, transfers de e para o
+aeroporto, visitas guiadas, publicidade profissional nas redes
+sociais...
+
+Com isto, percebemos que a dimensão do negócio vai bem para além da
+pessoa que aluga um quarto por uns trocos, ou o casal que vai de férias
+e coloca a sua casa no Airbnb por umas semanas. É para quem procura
+"volume de facturação".
+
+É toda uma nova camada de negócio bem longe do modelo "sem
+intermediários" que a Airbnb apregoa, e um destino questionável para as
+propriedades no centro histórico, que se tornam hotéis em tudo menos no
+nome.
+
+
+## As discrepâncias do RNAL
+
+Segundo a legislação em vigor, os alojamentos locais têm de estar
+registados no Registo Nacional de Alojamento Local (RNAL). 
+
+Cada AL tem um número de registo que deve ser indicado na página do
+anúncio na Airbnb.
+
+No entanto, encontramos 607 anúncios - 12% - em aparente situação irregular.
+
+- XX (yy%) que não apresentam esse número
+- XX (yy%) que dizem estar isentos de registo
+- XX (yy%) que indicam um número que não existe no RNAL
+- XX (yy%) que indicam um número correspondente não à morada do anúncio, mas a um registo fora da cidade
+
+Outra informação importante presente no registo é a data de abertura
+do Alojamento Local. No entanto, há 650 ALs presentes na Airbnb que não
+apresentam esse dado, e mais relevante ainda, existem 1350 anúncios que
+à partida terão começado a operar antes da data de abertura que
+apresentam no registo, uma vez que receberam alguma avaliação antes
+dessa data.
+
+## Para terminar
+
+TODO: isto são só pontos soltos e ainda me falta cortar e ligar partes
+
+O fenómeno do Alojamento Local continua a ser um tema imensamente presente no nosso dia-a-dia. 
+
+É prejudicial que o acesso a este tipo de detalhes esteja limitado a quem sabe esmiuçar bases de dados
+
+Apelamos à publicação das fontes de dados detidas pelas autarquias que permitam um maior esclarecimento sobre o papel e as consequências do alastramento do Alojamento Local.
+
+Esperamos que este relato possa dar alento a outras explorações semelhantes, e para isso colocamos à disposição todo o código-fonte que conduziu aos resultados que aqui apresentamos.
+
+
+## Metodologia
+
+TODO
+
+## Autoria
+
+TODO
