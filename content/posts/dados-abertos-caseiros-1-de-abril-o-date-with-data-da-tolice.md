@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata, opendata
 Slug: dados-abertos-caseiros-1-de-abril-o-date-with-data-da-tolice
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/03/dwd-abril2017_newsletter.png){.alignnone .size-full .wp-image-1233 width="1000" height="750"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/03/dwd-abril2017_newsletter.png
 
 Hoje é dia de levar os dados abertos menos a sério!
 

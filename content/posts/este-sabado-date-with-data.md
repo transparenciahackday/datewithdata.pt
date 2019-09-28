@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata, dwd
 Slug: este-sabado-date-with-data
 Status: published
-
-![datewithdata-set2015-bigger](http://www.transparenciahackday.org/wp-content/uploads/2015/09/datewithdata-set2015-bigger.png){.alignnone .size-full .wp-image-960 width="867" height="600"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/09/datewithdata-set2015-bigger.png
 
 Em setembro, os encontros de open data no Porto ganham nova cara.  
 O próximo é já no sábado!
@@ -20,5 +19,3 @@ As palavras-chave serão dados eleitorais, textos legislativos, dinâmicas parla
 E precisamos sobretudo de ti! Temos projetos na calha que adorariam alguma atenção, e também procuramos ideias sobre o que se pode fazer em conjunto durante o dia do encontro. Não é preciso ser hacker para participar, nem saber programar — o que é importante é trazer boa disposição e vontade de trocar ideias, e o resto surge naturalmente!
 
 Sábado, dia 12, das 10:00 às 17:00 no UPTEC PINC (Praça Coronel Pacheco), temos encontro marcado. Traz o teu portátil!
-
-[**datewithdata.pt**](http://datewithdata.pt)

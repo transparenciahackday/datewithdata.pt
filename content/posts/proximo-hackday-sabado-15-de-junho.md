@@ -5,8 +5,7 @@ Category: Blog
 Tags: hackday
 Slug: proximo-hackday-sabado-15-de-junho
 Status: published
-
-[![15junho-cartaz](http://www.transparenciahackday.org/wp-content/uploads/2013/06/15junho-cartaz-212x300.png){.alignleft .size-medium .wp-image-357 width="212" height="300"}](http://www.transparenciahackday.org/wp-content/uploads/2013/06/15junho-cartaz.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2013/06/15junho-cartaz.png)
 
 O próximo Transparência Hackday é já no sábado, dia 15 de junho.  
 O plano é encontrarmo-nos às 10:00 na Confeitaria Ateneia (Praça da Liberdade), para seguirmos em busca de casas devolutas e contribuir para o [Geodevolutas](http://geovolutas.org "Geodevolutas, mapeando o património esquecido de Portugal").

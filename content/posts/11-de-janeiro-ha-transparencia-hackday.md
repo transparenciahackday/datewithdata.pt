@@ -4,8 +4,7 @@ Author: Ana
 Category: Blog
 Slug: 11-de-janeiro-ha-transparencia-hackday
 Status: published
-
-[![R Quinton, The Chromatographic Chronicle of English History (London 1864)](http://www.transparenciahackday.org/wp-content/uploads/2014/01/QUINTON__R._The_Chromatographic_Chronicle_of_English_History__illustrated_by_..._coloured_charts__London__1864-e1389136426106.jpg){.alignnone .size-full .wp-image-454 width="587" height="594"}](http://www.transparenciahackday.org/wp-content/uploads/2014/01/QUINTON__R._The_Chromatographic_Chronicle_of_English_History__illustrated_by_..._coloured_charts__London__1864-e1389136426106.jpg)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/01/QUINTON__R._The_Chromatographic_Chronicle_of_English_History__illustrated_by_..._coloured_charts__London__1864-e1389136426106.jpg
 
 Dia 11 de janeiro temos mais um Transparência Hackday, das 14:30 às 18:30 no [Maus Hábitos](http://maushabitos.com/ "Maus Hábitos, espaço de intervenção cultural").  
 Entre outros planos e conspirações vamos alinhar o plano para a [International Open Data Hackdathon](%20http://opendataday.org/index_pt.html%20 "International Open Data Hackdathon"), que acontece em 22 de fevereiro.

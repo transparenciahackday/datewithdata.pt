@@ -5,8 +5,7 @@ Category: Blog
 Tags: hackday, opendata
 Slug: 9-de-maio-transparencia-hackday-no-jardim
 Status: published
-
-[![thackday-maio2014](http://www.transparenciahackday.org/wp-content/uploads/2014/05/thackday-maio2014.png){.alignleft .size-full .wp-image-641 width="600" height="849"}](http://www.transparenciahackday.org/wp-content/uploads/2014/05/thackday-maio2014.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/05/thackday-maio2014.png
 
 Este **sábado, 10 de maio**, temos mais um Transparência Hackday, com horário estendido.
 

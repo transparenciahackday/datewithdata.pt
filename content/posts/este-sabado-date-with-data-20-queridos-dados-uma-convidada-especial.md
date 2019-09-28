@@ -5,8 +5,7 @@ Category: Blog, Newsletter
 Tags: datewithdata, opendata
 Slug: este-sabado-date-with-data-20-queridos-dados-uma-convidada-especial
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/08/dwd-setembro2017.jpg){.alignnone .size-full .wp-image-1278 width="864" height="611"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/08/dwd-setembro2017.jpg
 
 Neste regresso do verão vamos abordar a visualização de dados de uma forma diferente: desenhar em papel, com lápis e caneta!
 

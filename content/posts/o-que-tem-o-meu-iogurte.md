@@ -5,12 +5,11 @@ Category: Blog
 Tags: iogurtes-abertos, openfoodfacts
 Slug: o-que-tem-o-meu-iogurte
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/11/iogurte.png
 
 **Os dados abertos ajudam-nos a conhecer o que comemos**
 
 O projecto **[O que tem o meu iogurte?](http://whatsinmyyogurt.com/ "What's in my yogurt")** foi lançado no último [Open Data Day](http://opendataday.org "Open Data Day"), em 22 de fevereiro de 2014. O título do projecto é um apelo simples, lançado em forma de desafio, para abrir os dados dos iogurtes consumidos por esse mundo fora.
-
-[![iogurte](http://www.transparenciahackday.org/wp-content/uploads/2014/11/iogurte.png){.alignnone .size-full .wp-image-759 width="800" height="199"}](http://www.transparenciahackday.org/wp-content/uploads/2014/11/iogurte.png)
 
 **Abrir um iogurte é fácil:** basta olhar para a embalagem e preencher um formulário muito simples com a informação aí descrita: composição (ingredientes), informação nutricional, data de validade, código de barras, local de produção… O formulário pode ser preenchido no site do [Open Food Facts](http://pt.openfoodfacts.org/ "Open Food Facts") ou através de uma aplicação Android/iPhone disponível para o efeito. Os dados inseridos – que devem incluir também uma fotografia do iogurte e indicação do local de compra – são depois incorporados numa base de dados que armazena e cataloga dados relativos a iogurtes das mais variadas origens!
 

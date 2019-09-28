@@ -4,8 +4,7 @@ Author: Ana
 Category: Blog
 Slug: quarenta-anos-de-abstencao
 Status: published
-
-![40-Anos-de-Abstencao](http://www.transparenciahackday.org/wp-content/uploads/2015/10/40-Anos-de-Abstencao-1024x751.png){.alignnone .size-large .wp-image-971 width="584" height="428"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/10/40-Anos-de-Abstencao-1024x751.png
 
 Já há algum tempo que nos temos interessado pelo assunto da abstenção e da participação real nos atos eleitorais.
 

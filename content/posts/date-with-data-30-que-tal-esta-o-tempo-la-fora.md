@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: date-with-data-30-que-tal-esta-o-tempo-la-fora
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/09/datewithdata30.jpg){.alignnone .size-full .wp-image-1392 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/09/datewithdata30.jpg
 
 No próximo encontro, vamos olhar para a meteorologia: temperaturas, ventos, pressões, previsões, registos históricos, marés e o que mais por aí houver.
 

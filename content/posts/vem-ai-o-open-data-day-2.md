@@ -5,7 +5,6 @@ Category: Blog
 Tags: opendata, opendataday
 Slug: vem-ai-o-open-data-day-2
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/02/Opendataday-banner-1024x513.jpeg){.alignnone .size-large .wp-image-1176 width="584" height="293"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/02/Opendataday-banner-1024x513.jpeg
 
 Vem aí o Open Data Day 2017: no sábado, 4 de março, marcamos presença para mais uma celebração do dia mundial dos dados abertos! Mais detalhes em breve!

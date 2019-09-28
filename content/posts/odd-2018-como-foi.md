@@ -5,8 +5,7 @@ Category: Blog
 Tags: odd, opendataday
 Slug: odd-2018-como-foi
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/04/IMG_3289-1024x768.jpg){.alignnone .size-large .wp-image-1349 width="584" height="438"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/04/IMG_3289-1024x768.jpg
 
 O [Open Data Day](http://opendataday.org/) deste ano foi dedicado ao tema dos mapas abertos. De manhã à tarde, aprendemos, conversamos e olhamos para informação geográfica aberta, para perceber os recursos que existem, como podemos usá-los e contribuir para que se tornem ainda mais completos.
 

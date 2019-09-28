@@ -5,6 +5,7 @@ Category: Blog
 Tags: gitorious
 Slug: hackday-sessao-6
 Status: published
+Image: http://transparencia.hacklaviva.net/wp-content/uploads/2010/11/IMAG0009_a-300x179.jpg
 
 Nesta sessão foram integrados novos elementos com competências que estavam a ser necessárias. Aliás, este reforço representa uma injecção de mais dinamismo e energia. Ricardo, Rizo, Rui, Zé, são das ciências de computação, manifestando interesse também pela inteligência artificial, algoritmia. Um outro elemento, Eduardo, está confortável na área do multimédia, cinema, mas lida também com o php e html, xml. O João, das matemáticas, está ligado mais ao software de gestão, mas pretende fazer incursões por campos mais alargados de aplicação da informática. A este conhecimento novo que chega ao grupo, tínhamos já dentro de portas pessoas que trabalham com o Drupal, processing, agora também com o contributo da Sara.
 

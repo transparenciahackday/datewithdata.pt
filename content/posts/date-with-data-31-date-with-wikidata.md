@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: date-with-data-31-date-with-wikidata
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/10/dwd-novembro2018.png){.alignnone .size-full .wp-image-1407 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/10/dwd-novembro2018.png
 
 Para o próximo sábado, temos preparado um encontro especial, cozinhado em conjunto com a [WikiMedia Portugal](https://pt.wikimedia.org/wiki/Wikimedia_Portugal) e a [OSGeo-PT](https://www.osgeopt.pt/).
 

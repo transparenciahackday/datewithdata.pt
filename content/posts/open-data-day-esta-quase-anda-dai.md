@@ -5,10 +5,9 @@ Category: Blog, Newsletter
 Tags: opendata, opendataday
 Slug: open-data-day-esta-quase-anda-dai
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/02/cartaz-odd2017.jpg
 
 **Nós é mais dados!** Dia 4 de março juntamo-nos à celebração mundial dos Dados Abertos para mais um sábado em cheio. O [Open Data Day](http://opendataday.org/) é uma iniciativa da [Open Knowledge International](http://okfn.org/), um dia por ano para mostrar, ensinar e levar mais além a agenda dos [dados abertos](https://pt.wikipedia.org/wiki/Dados_abertos).
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/02/cartaz-odd2017-724x1024.jpg){.alignnone .size-large .wp-image-1187 width="584" height="826"}
 
 A [Open Knowledge Portugal](http://opendataday.org/), em colaboração com o [Date With Data](http://datewithdata.pt/) e o Transparência Hackday, organiza o Open Data Day 2017 no Porto. Um dia de actividades, apresentações e convívio sobre o tema dos dados, aberto a toda a gente.
 

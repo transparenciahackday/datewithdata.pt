@@ -4,8 +4,7 @@ Author: admin
 Category: Blog
 Slug: date-with-data-17-13-mai-os-nossos-meninos-ja-estao-tao-grandes
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/05/dwd-maio2017-02.png){.alignnone .size-full .wp-image-1249 width="800" height="600"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/05/dwd-maio2017-02.png
 
 No próximo Date With Data (13 de maio), vamos pôr as mãos na massa como de costume, mas vamos também debruçar-nos sobre o que fizemos e o que aí vem.
 

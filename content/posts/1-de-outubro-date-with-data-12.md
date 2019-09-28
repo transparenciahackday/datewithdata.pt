@@ -5,10 +5,9 @@ Category: Blog, Newsletter
 Tags: datewithdata
 Slug: 1-de-outubro-date-with-data-12
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/09/dwd-outubro2016.png
 
 Vamos falar de turismo? Na nossa demanda por informação pública acessível a todas as pessoas, o tema do turismo veio ao de cima como algo que devíamos debruçar-nos. E é exatamente isso que vamos fazer no próximo [Date With Data](http://datewithdata.pt)!
-
-![dwd-outubro2016](http://www.transparenciahackday.org/wp-content/uploads/2016/09/dwd-outubro2016.png){.alignnone .size-full .wp-image-1114 width="608" height="408"}
 
 O aparecimento de novas formas de abordar e servir o turismo em Portugal, como as plataformas de aluguer a curto prazo, trouxeram um grande interesse ao tema do turismo e das cidades. É também incontornável a explosão que temos vivido no Porto no que toca a novas ofertas turísticas e os efeitos do turismo na cidade.
 

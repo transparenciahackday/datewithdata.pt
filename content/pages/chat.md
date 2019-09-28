@@ -4,7 +4,6 @@ Author: ricardo
 Slug: chat
 Status: published
 
-<!-- <iframe src="http://webchat.freenode.net?channels=opendata-pt&uio=MT1mYWxzZSYyPXRydWUmOT10cnVlJjExPTMx1b" width="647" height="400"></iframe> -->  
 <iframe src="https://kiwiirc.com/client/irc.freenode.net/#opendata-pt" style="border:0; width:100%; height:450px;"></iframe>
 
 O canal \#opendata-pt na rede Freenode é o ponto de encontro para os entusiastas de dados abertos e as suas aplicações possíveis.

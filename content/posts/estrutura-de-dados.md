@@ -4,6 +4,7 @@ Author: vsilva
 Category: Blog
 Slug: estrutura-de-dados
 Status: published
+Image: http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/schema.png
 
 Por enquanto estamos a recolher a informação para 3 tabelas:
 
@@ -50,4 +51,3 @@ KEY \`FactType\` (\`FactType\`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1\_general\_ci AUTO\_INCREMENT=23342 ;  
 Facts
 
-![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/schema.png "schema"){.alignnone .size-full .wp-image-31 width="786" height="456"}

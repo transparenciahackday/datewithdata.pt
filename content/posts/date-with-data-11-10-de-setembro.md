@@ -4,8 +4,7 @@ Author: admin
 Category: Blog
 Slug: date-with-data-11-10-de-setembro
 Status: published
-
-![dwd-11](http://www.transparenciahackday.org/wp-content/uploads/2016/09/dwd-11.png){.alignleft .size-full .wp-image-1109 width="800" height="339"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/09/dwd-11.png
 
 O [próximo encontro Date With Data](http://datewithdata.pt) vai ser dedicado à **informação legislativa e parlamentar**. Este tema já nos é caro por ter sido o primeiro assunto em que nos debruçámos quando começámos os hackdays em 2010. Em segundo lugar, na semana entre 12 e 18 de setembro assinala-se a [Global Legislative Openness Week](http://openparlweek.org/). Não podia haver altura mais oportuna para olhar para o trabalho que fomos fazendo ao longo de 6 anos na frente legislativa e eleitoral, e congeminar sobre as novas direções que podemos encontrar.
 

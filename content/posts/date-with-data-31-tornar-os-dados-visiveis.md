@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: date-with-data-31-tornar-os-dados-visiveis
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/09/datewithdata_31.jpg){.alignnone .size-full .wp-image-1399 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/09/datewithdata_31.jpg
 
 Devido a um pequeno contratempo vemo-nos obrigados a cancelar o evento deste mês.  
 O próximo será a 03/Novembro, organizado em parceria com a Wikimedia Portugal, para marcar as celebrações do sexto aniversário do Wikidata ([https://www.wikidata.org/<wbr></wbr>wiki/Wikidata:Sixth\_Birthday/<wbr></wbr>Date\_With\_Data\_(Porto)](https://www.wikidata.org/wiki/Wikidata:Sixth_Birthday/Date_With_Data_(Porto))), em breve enviaremos mais informações.

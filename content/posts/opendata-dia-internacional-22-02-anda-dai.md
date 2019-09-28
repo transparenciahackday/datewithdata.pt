@@ -4,8 +4,7 @@ Author: saritamoreira
 Category: Blog, Newsletter
 Slug: opendata-dia-internacional-22-02-anda-dai
 Status: published
-
-![opendataday2014\_newsletter](http://www.transparenciahackday.org/wp-content/uploads/2014/02/opendataday2014_newsletter.png){.alignnone .size-full .wp-image-465 width="600" height="453"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/02/opendataday2014_newsletter.png
 
 #### **Estás convidado. De novo.**
 

@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata
 Slug: date-with-data-4-o-primeiro-de-2016
 Status: published
-
-![datewithdata-janeiro2016\_big](http://www.transparenciahackday.org/wp-content/uploads/2016/01/datewithdata-janeiro2016_big.png){.alignnone .size-full .wp-image-990 width="700" height="400"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/01/datewithdata-janeiro2016_big.png
 
 Abrimos 2016 com um Date With Data dedicado aos datasets!  
 Que é já este sábado, 9 de janeiro de 2016.

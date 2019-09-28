@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata, opendata
 Slug: date-with-data-14-ano-novo-dados-novos
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/01/dwd-janeiro2017.png){.alignnone .size-full .wp-image-1159 width="899" height="600"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/01/dwd-janeiro2017.png
 
 Sábado temos mais um Date With Data.  
   

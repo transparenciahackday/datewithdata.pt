@@ -5,8 +5,7 @@ Category: Blog, Destaque
 Tags: hackday, opendataday
 Slug: open-data-day-2015
 Status: published
-
-[![Open Data Day 2015](http://www.transparenciahackday.org/wp-content/uploads/2015/02/5wKbdAH-723x1024.png){.alignnone .size-large .wp-image-835 width="584" height="827"}](http://www.transparenciahackday.org/wp-content/uploads/2015/02/5wKbdAH.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/02/5wKbdAH.png)
 
 Sábado, 21 de fevereiro, comemoramos mais um [Open Data Day](http://opendataday.org/ "International Open Data Day") com uma edição especial do Transparência Hackday. Para participar só tens de te inscrever [**aqui**](https://www.eventbrite.com/e/open-data-day-porto-tickets-15237998263 "Bilhetes - EventBrite").
 

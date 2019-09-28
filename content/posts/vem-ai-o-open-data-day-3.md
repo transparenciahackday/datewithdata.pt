@@ -4,8 +4,7 @@ Author: admin
 Category: Blog
 Slug: vem-ai-o-open-data-day-3
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/02/ODD-map-00.png){.alignnone .size-full .wp-image-1320 width="766" height="612"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/02/ODD-map-00.png
 
 Vem aí o [Dia Mundial dos Dados Abertos](http://opendataday.org) 2018!
 ----------------------------------------------------------------------

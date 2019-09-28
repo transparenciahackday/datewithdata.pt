@@ -13,13 +13,13 @@
             <meta property="og:title" content="{{ SITENAME }}">
             <meta property="og:description" content="{{ SITE_DESCRIPTION }}">
             <meta property="og:url" content="{{ SITEURL }}">
-            <meta property="og:image" content="{{ SITEURL }}/images/datewithdata-share.png">
+    	    <meta property="og:image" content="{{ SITEURL }}/theme/images/datewithdata-share.png">
 
             <meta name="twitter:card" content="summary">
             <meta name="twitter:title" content="{{ SITENAME }}">
             <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}">
             <meta name="twitter:url" content="{{ SITEURL }}">
-            <meta name="twitter:image" content="/theme/images/datewithdata-share.png">
+            <meta name="twitter:image" content="{{ SITEURL }}/theme/images/datewithdata-share.png">
 
             <meta name="theme-color" content="#3ad0d0">
 
@@ -144,7 +144,6 @@
         <li class="name">
           <h1><a href="{{ SITEURL }}">Date with Data</a></h1>
         </li>
-        <li><a href="{{ SITEURL }}/blog">Blog</a></li>
         <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
         <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
       </ul>
@@ -156,32 +155,39 @@
           <li data-magellan-arrival="collaborate"><a href="#collaborate">O que é</a></li>
           <li data-magellan-arrival="about"><a href="#about">Onde</a></li>
         </ul>
+	    <!-- Left Nav Section -->
+        <ul class="left">
+            <li class="divider"></li>
+            <li><a href="{{ SITEURL }}/blog">Blog</a></li>
+        </ul>
       </section>
     </nav>
     </div>
 
-    {% block content %}
-    {% endblock %}
-
+    <section id="content">
+        {% block content %}
+        {% endblock %}
+    </section>
+    
     <div class="about" id="about" data-magellan-destination="about">
         <div class="row">
           <div class="medium-4 small-12 columns text-left">
             <h4>Quero ir!</h4>
-            <p>Os nossos encontros são marcados ao segundo sábado de cada mês, no <a href="http://uptec.up.pt/uptec/polo-das-industrias-criativas" target="blank">UPTEC PINC</a>.<p>
+            <p>Os nossos encontros são marcados ao segundo sábado de cada mês, no <a href="https://cru-cowork.com/">CRU Cowork</a>.<p>
             <p>Das <strong>10:00 às 17:00</strong>, com pausa para almoço entre às 13:00 e as 14:00!</p>
             <p>Temos internet, projetor, whiteboards e alguns comes e bebes. Traz o teu <strong>portátil</strong> e outros acessórios que possam dar jeito para hackarmos em conjunto.</p>
           </div>
           <div class="medium-4 small-12 columns text-left">
             <h4>Mapa</h4>
-            <p><a href="http://www.openstreetmap.org/?mlat=41.15137&amp;mlon=-8.61555#map=19/41.15138/-8.61555" target="_blank"><img src="{{ SITEURL }}/theme/images/map_detail.png" alt="Mapa UPTEC PINC"></a></p>
-            <p><a href="http://www.openstreetmap.org/?mlat=41.15137&amp;mlon=-8.61555#map=19/41.15138/-8.61555" target="_blank">↗ Ver mapa</a></p>
+            <p><a href="http://www.openstreetmap.org/?mlat=41.14998&amp;mlon=-8.62106#map=19/41.14998/-8.62106" target="_blank"><img src="{{ SITEURL }}/theme/images/map_detail_CRU.png" alt="Mapa CRU Cowork"></a></p>
+            <p><a href="https://www.openstreetmap.org/#map=18/41.14998/-8.62106" target="_blank">↗ Ver mapa</a></p>
           </div>
           <div class="medium-4 small-12 columns text-left">
             <h4>Onde</h4>
             <p class="address">
-                <strong>Pavilhão Jardim</strong>, <a href="http://uptec.up.pt/uptec/polo-das-industrias-criativas">UPTEC PINC</a> <br>
-                Praça Coronel Pacheco, 2 <br>
-                4050-453 Porto
+                <a href="https://cru-cowork.com/"><strong>CRU Cowork</strong></a> <br>
+                Rua do Rosário 211 <br>
+                4050-524 Porto
             </p>
             <p><strong>Segue-nos para ficares a par das novidades:</strong></p>
             <ul class="social">

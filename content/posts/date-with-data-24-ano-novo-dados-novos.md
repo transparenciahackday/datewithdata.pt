@@ -4,8 +4,7 @@ Author: joao
 Category: Blog, Destaque, Newsletter
 Slug: date-with-data-24-ano-novo-dados-novos
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/01/datewithdata24.png){.alignnone .size-full .wp-image-1306 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/01/datewithdata24.png
 
 O primeiro Date With Data de 2018 é já este sábado 13 de Janeiro.  
 Para começar o novo ano vamos pesquisar e reunir referências online de informação pública para adicionar à Central de Dados ao longo deste ano. Existe muita informação pública disponível em websites institucionais, contudo não se encontra estruturada para fácil processamento e visualização.

@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: open-data-day-2018
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/02/cartaz-eventbrite-1024x512.png){.alignnone .wp-image-1343 .size-large width="584" height="292"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/02/cartaz-eventbrite-1024x512.png
 
 Sábado, 3 de Março, assinalamos o Open Data Day na cidade do Porto.
 

@@ -4,10 +4,9 @@ Author: camorim
 Category: Na estrada
 Slug: transparencia-vai-a-vigo
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2011/05/IMG_7250.jpg
 
 No dia 9 de Abril, alguns elementos do Hacklaviva deslocaram-se a Vigo para uma sessão de partilha de informação no âmbito do tema Transparência. Outra motivação era conhecer o Hackerspace na  Cova de los Ratos, o [Kaleidoskopio](http://www.facebook.com/pages/kaleidoskopio/145363645476691 "Associação/ Hackerspace em Vigo").
-
-[![Ambiente na Cova dos Ratos](http://www.transparenciahackday.org/wp-content/uploads/2011/05/IMG_7250.jpg "Ambiente na Cova dos Ratos"){.size-full .wp-image-97 .aligncenter width="800" height="533"}](http://www.transparenciahackday.org/wp-content/uploads/2011/05/IMG_7250.jpg)
 
 A experiência ganhou logo sentido na visita ao espaço e na conversa informal sobre a actividade de cada um. A área disponível é bastante generosa e muito bem decorada e acolhedora. Aí desenvolvem ateliers de pintura, cozinha e tecnologia. Sim, porque a tónica dominante é mesmo a natureza, a alimentação saudável. Também a igualdade de género é um tema forte na cultura e programa deste Hackerspace.
 
@@ -23,7 +22,7 @@ As principais ideias vinculadas na nossa exposição, e que aliás são as que e
 
 Seguiu-se um almoço com umas "empanadas caseras" muito saborosas. Havia de algas, de legumes.
 
-[![Almoço ligeiro, mas saboroso](http://www.transparenciahackday.org/wp-content/uploads/2011/05/IMG_7279-300x199.jpg "Empanadas caseras"){.size-medium .wp-image-95 .alignright width="300" height="199"}](http://www.transparenciahackday.org/wp-content/uploads/2011/05/IMG_7279.jpg)
+[![Almoço ligeiro, mas saboroso](http://www.transparenciahackday.org/wp-content/uploads/2011/05/IMG_7279.jpg "Empanadas caseras")
 
 Reconfortados, pegámos de novo no batente e passámos à parte mais divertida - mostrar os scrapers, explicar o que fazem e explorar dados disponíveis. Picados pelo facto de terem referido existir um vazio no que respeitava a dados, pesquisámos e demos com o gato. Afinal havia um rabo de fora. E tal como seria razoável esperar, existem registos das sessões do parlamento da Comunidad [aqui](http://www.parlamentodegalicia.es/sites/ParlamentoGalicia/ContenidoGal/pargal_Colofon_Boletins.aspx "Transcrições das sessões do Parlamento da Galiza"), basta escolher a legislatura e lançar a pesquisa para obter o conjunto das transcrições desssa legislatura em concreto. Esta descoberta ainda deu mais entusiasmo e sentido à explicação.
 

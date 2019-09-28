@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata
 Slug: date-with-data-12-novembro-f___-it-ship-it
 Status: published
-
-![datewithdata-nov2016](http://www.transparenciahackday.org/wp-content/uploads/2016/11/datewithdata-nov2016.png){.alignnone .size-full .wp-image-1119 width="800" height="600"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/11/datewithdata-nov2016.png
 
 No Date With Data deste mês vamos dedicar esforços e atenção aos projetos em curso. Cada edição traz para a mesa um tema — em setembro olhámos para os dados parlamentares, em outubro para os dados do turismo — que serve de ponto de partida para experiências visuais, análises estatísticas, recolha de dados para novos datasets... e um sem fim de ideias. Apesar da nossa metodologia intensiva — "Fuck it! Ship it!" é um dos nossos lemas — nem sempre conseguimos chegar ao final do encontro com tudo terminado. Assim, chega a altura de olhar para o que temos, fazer um plano e meter as mãos na massa para acabar e lançar.
 

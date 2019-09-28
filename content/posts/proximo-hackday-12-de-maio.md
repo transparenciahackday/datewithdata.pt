@@ -4,8 +4,9 @@ Author: ricardo
 Category: Blog
 Slug: proximo-hackday-12-de-maio
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2012/05/IMG_20111020_183549.jpg
 
-[![](http://www.transparenciahackday.org/wp-content/uploads/2012/05/IMG_20111020_183549-300x225.jpg "Open Governament Data Camp 2012 - Warsaw"){.alignleft .size-medium .wp-image-114 width="300" height="225"}](http://www.transparenciahackday.org/wp-content/uploads/2012/05/IMG_20111020_183549.jpg)Vamos juntar-nos outra vez para matar as saudades de hackar pela cidadania!
+Vamos juntar-nos outra vez para matar as saudades de hackar pela cidadania!
 
 Vai ser no dia **12 de Maio**, sábado, a partir das **14:00** na **[Gesto](http://www.gesto-coop-cultural.pt/ "Gesto Cooperativa Cultural")** (Rua José Falcão 107).
 

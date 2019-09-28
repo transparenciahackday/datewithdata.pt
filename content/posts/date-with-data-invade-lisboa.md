@@ -5,10 +5,9 @@ Category: Blog, Na estrada, Newsletter
 Tags: datewithdata, Lisboa, opendata
 Slug: date-with-data-invade-lisboa
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/04/festival_politica_banner.jpg
 
 **No próximo fim-de-semana, vamos levar o espírito [Date With Data](http://datewithdata.pt/) ao [Festival da Política](http://festivalpolitica.pt/), que decorrerá nos dias 21 e 22 de abril em Lisboa.**
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/04/festival_politica_banner.jpg){.alignnone .size-full .wp-image-1238 width="785" height="526"}
 
 No dia 22 teremos um painel dedicado ao tema **Civic Tech: Como juntar pessoas à volta da informação pública**, onde vamos falar da nossa experiência de 7 anos de encontros e hackdays à volta da informação sobre a sociedade em que vivemos. Discutiremos os desafios, resultados, dificuldades e próximos passos deste tipo de intervenção cidadã com as mãos na massa.
 

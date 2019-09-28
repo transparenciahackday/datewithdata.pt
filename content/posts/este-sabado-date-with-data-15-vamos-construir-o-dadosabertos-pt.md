@@ -5,8 +5,7 @@ Category: Blog
 Tags: datew
 Slug: este-sabado-date-with-data-15-vamos-construir-o-dadosabertos-pt
 Status: published
-
-![Date With Data \#15 - fevereiro 2017](http://www.transparenciahackday.org/wp-content/uploads/2017/02/dwd-fevereiro2017-2.png){.alignnone .size-large .wp-image-1177 width="584" height="438"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/02/dwd-fevereiro2017-2.png
 
 Falta-nos um recurso para que qualquer pessoa possa compreender rapidamente o que são dados abertos, porque é que a abertura da informação e os dados públicos são um ponto fundamental para uma democracia efectiva.
 

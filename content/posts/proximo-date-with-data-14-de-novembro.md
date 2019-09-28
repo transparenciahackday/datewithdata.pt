@@ -5,8 +5,8 @@ Category: Blog
 Tags: datewithdata
 Slug: proximo-date-with-data-14-de-novembro
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/11/datewithdata-nov20151.png
 
-![datewithdata-nov2015](http://www.transparenciahackday.org/wp-content/uploads/2015/11/datewithdata-nov20151.png){.alignnone .size-full .wp-image-984 width="927" height="616"}  
 **A proposta deste [Date With Data](http://datewithdata.pt) é abordarmos uma faceta específica da informação: o texto**.
 
 A revolução digital veio libertar o texto das amarras do papel e da tinta; a sua transmissão, edição, partilha e re-definição tornaram-se atos simples e imediatos. O texto digital trouxe-nos novas visões sobre formatos existentes: a Wikipédia começou como exercício modesto condenado ao fracasso para se tornar a hiper-enciclopédia veio suplantar Brittanicas e Larousses; os blogues, Twitters e murais de Facebook vieram dar novas facetas à publicação de texto.

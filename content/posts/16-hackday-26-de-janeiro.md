@@ -4,6 +4,7 @@ Author: Ana
 Category: Blog
 Slug: 16-hackday-26-de-janeiro
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2013/02/Manuela-Matos-Monteiro-Photo1.jpg
 
 Dia 26 de Janeiro revelou-se um dia sol esplêndido, perfeito para mais um Transparência Hackday. A manhã foi gasta a percorrer a Rua do Almada, uma das mais longas ruas da cidade do Porto. Lá, a Patrícia, a Ana, o Luís e o Ricardo fotografaram e anotarem as moradas de 68 casas abandonadas.
 
@@ -12,8 +13,6 @@ Dia 26 de Janeiro revelou-se um dia sol esplêndido, perfeito para mais um Trans
 Do parapeito da janela, uma vizinha que nos observava com interesse, disse "Olá" e para a seguir se desdobrar em ajudas. Do alto do terceiro andar, indicou-nos com interesse certeiro todas as casas vazias, à volta da sua.
 
 A tarde foi passada no [café livraria Gato Vadio](http://gatovadiolivraria.blogspot.pt), entre chás perfumados, triplas, extensões e bolachas caseiras de queijo e sésamo.
-
-[![](http://www.transparenciahackday.org/wp-content/uploads/2013/02/Manuela-Matos-Monteiro-Photo1-1024x768.jpg "Manuela Matos Monteiro-Photo1"){.alignnone .size-large .wp-image-300 width="584" height="438"}](http://www.transparenciahackday.org/wp-content/uploads/2013/02/Manuela-Matos-Monteiro-Photo1.jpg)
 
 Começamos com uma discussão sobre as metodologias do Hackday, centrada em dois temas importantes. Primeiro, como receber e integrar pessoas novas, que aparecem para participar. Segundo, como tornar as tardes de hacking mais organizadas e consolidar o seu planeamento. Em retrospetiva, para ambos os assunto podemos tirar pistas do Transparência Hackday de Lisboa: a ronda de apresentações no início da sessão facilita a comunicação entre os vários participantes (antigos e novos); os pontos de situação durante a tarde ajudam a manter o ritmo.  
 A pensar na integração de novos membros decidimos juntar uma lista de afazeres, com tarefas para todos os gostos e estilos. Quem aparecer sem um plano mas com vontade de ajudar já tem onde sujar as mãos. [No fórum há um fio com a lista de documentos](http://www.transparenciahackday.org/forum/discussion/33/help-traducoes-de-textos-para-portugues), ligados ao Open Data, que era importante traduzir para português. No início de cada hackday decidimos fazer uma lista de tarefas que é preciso executar em cada projeto. Neste hackday tínhamos duas ideias: fazer um protótipo para a versão simplificada do formulário do Geodevolutas; fazer um README.txt para o Mila; analisar os dados dos censos 2011 para fazer visualizações inspiradas nas da [Isotype](http://www.brainpickings.org/index.php/2012/11/13/only-an-ocean-between-isotype-infographics).

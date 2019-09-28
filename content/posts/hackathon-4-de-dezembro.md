@@ -4,8 +4,7 @@ Author: admin
 Category: Blog
 Slug: hackathon-4-de-dezembro
 Status: published
-
-![](http://transparenciahackday.org/wp-content/uploads/2010/11/hackathon.png "hackathon"){.alignnone .wp-image-67}
+Image: http://transparenciahackday.org/wp-content/uploads/2010/11/hackathon.png
 
 Dia 4 vai marcar a realização internacional da Open Data Hackathon, uma iniciativa de hacking com participantes do mundo inteiro que desenvolvem projectos à volta das bases de informações e dados públicos.  
 O núcleo de Transparência Hackday Porto do Hacklaviva [junta-se](http://www.opendataday.org/wiki/City_Events#Porto_-_Hacklaviva) a esta iniciativa com um programa que se estende pelo próximo sábado e domingo, 4 e 5 de Dezembro.

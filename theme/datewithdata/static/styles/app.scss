@@ -16,25 +16,98 @@
 
 @font-face {
     font-family: 'SinkinSans';
+    font-weight: 400;
+    font-style: normal;
     src: local('SinkinSans'), url('/theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'SinkinSans Bold';
+    font-family: 'SinkinSans';
+    font-weight: 700;
+    font-style: normal;
     src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'SinkinSans Light';
-    src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
+    font-family: 'SinkinSans';
+    font-weight: 200;
+    font-style: normal;
+    src: local('SinkinSans Light'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Bitter';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Bitter Regular'), url('/theme/fonts/Bitter/Bitter-Regular.ttf') format('truetype');
+}
 
-body { font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif; }
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Libre Baskerville Regular'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+}
 
-h1, h2 { font-family: 'SinkinSans Light', 'DejaVu Sans', Arial, sans-serif; }
-h3, h4, h5, h6 { font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif; }
-h4 { font-size: 1rem; }
+@font-face {
+    font-family: 'Lora';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Lora Regular'), url('/theme/fonts/Lora/Lora-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Volkorn';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Volkorn Regular'), url('/theme/fonts/Volkorn/Volkorn-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Amiri Regular'), url('/theme/fonts/Amiri/Amiri-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 400;
+    font-style: italic;
+    src: local('Amiri Italic'), url('/theme/fonts/Amiri/Amiri-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 700;
+    font-style: normal;
+    src: local('Amiri Bold'), url('/theme/fonts/Amiri/Amiri-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 700;
+    font-style: italic;
+    src: local('Amiri Bold Italic'), url('/theme/fonts/Amiri/Amiri-BoldItalic.ttf') format('truetype');
+}
+
+body {
+	font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 400;
+}
+
+h1, h2 {
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 200;
+}
+h3, h4, h5, h6 {
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 1rem;
+}
 
 /* Pixel Font */
 .home h1, .top-bar .name h1 { font-family: 'victors-pixel-font', DejaVu Sans, Arial, sans-serif; }
@@ -44,7 +117,8 @@ h4 { font-size: 1rem; }
 .top-bar .name h3, .top-bar .name h4, { font-size: 16px; }
 
 .top-bar-section ul li > a {
-    font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif;
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -81,6 +155,10 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     width: 225px;
 }*/
 
+.row.expanded {
+    max-width: 80rem;
+}
+
 .hero, .next-dwd, .projects, .collaborate, .about, .supportedBy, .copyright {
     padding-top: 5rem;
     padding-bottom: 2rem;
@@ -100,8 +178,8 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 .hero .row h1 { margin-bottom: 2rem; }
 
 .hero .next h2 em {
-    font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif;
-    font-weight: bold;
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 700;
     font-size: 0.85rem;
     text-transform: uppercase;
     font-style: normal;
@@ -157,5 +235,157 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     i { font-size: 1.5rem; padding: 0 0.5rem; }
     }
 
+}
+
+/* Blog
+*/
+
+#content {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#post-list .hentry a {
+    display: grid;
+    grid-template-columns: 0.8fr 1.6fr 1.6fr;
+    grid-gap: 0 1.5rem;
+    gap: 0 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    align-items: center;
+    color: $dwd-darkblue;
+}
+
+#post-list .hentry a:hover,
+#post-list .hentry a:focus,
+#post-list .hentry a:hover h3,
+#post-list .hentry a:focus h3 {
+    color: $dwd-red;
+}
+
+#post-list .hentry a img {
+    filter: grayscale(0%);
+}
+
+#post-list .hentry a:hover img {
+    filter: grayscale(100%);
+}
+
+#post-list .hentry header,
+#post-list .hentry footer.post-info,
+#post-list .hentry .entry-summary {
+    display: block;
+    margin-top: 0;
+}
+
+.hentry header h3.entry-title {
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+}
+
+#post-list .hentry .published {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-top: 1px solid $dwd-red;
+    padding-top: 0.5rem;
+}
+
+.hentry header .date {
+    font-size: 0.75rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-top: 1px solid $dwd-red;
+    padding-top: 0.5rem;
+}
+
+.hentry header .date .author {
+    opacity: 0.5;
+}
+
+
+#post-list .hentry footer.post-info p {
+    margin-bottom: 0;
+}
+
+#post-list .hentry .entry-summary {
+    font-size: 0.875rem;
+    line-height: 1.3;
+}
+
+#post-list .hentry .entry-summary * {
+    font-size: 90% !important;
+    line-height: 1.3;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+#post-list .hentry .entry-summary p {
+    margin-bottom: 0.15rem;
+}
+
+.hentry .entry-content p {
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+.hentry.longform header {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid $dwd-red;
+    margin-bottom: 2rem;
+}
+
+
+.hentry.longform h1 { font-size: 2.25rem; }
+.hentry.longform h2 { font-size: 1.95rem; }
+.hentry.longform h3 { font-size: 1.75rem; font-weight: 700; }
+.hentry.longform h4 { font-size: 1.5rem; font-weight: 700;}
+.hentry.longform h5 { font-size: 1.25rem; font-weight: 700;}
+.hentry.longform h6 { font-size: 1rem; font-weight: 700;}
+
+.hentry.longform header div:first-child {
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.hentry.longform .date {
+    border-top: 0;
+    padding-top: 0;
+}
+
+.hentry.longform .date .author {
+    opacity: 1;
+}
+
+.hentry.longform .post-info time {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.hentry.longform .entry-content {
+    font-size: 1.45rem;
+    line-height: 1.4;
+	font-family: 'Lora', 'DejaVu Serif', Georgia, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hentry.longform .entry-content em {
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+.hentry.longform .entry-content strong {
+    font-weight: 700;
+    font-style: normal;
 }
 

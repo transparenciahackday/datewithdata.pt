@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata
 Slug: proximo-date-with-data-10-de-outubro
 Status: published
-
-![datewithdata-out2015](http://www.transparenciahackday.org/wp-content/uploads/2015/10/datewithdata-out2015.png){.alignnone .size-full .wp-image-967 width="900" height="297"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/10/datewithdata-out2015.png
 
 Costumamos falar dos dados e da sua importância. Mas é difícil destacar os significados sem formas eficazes de ver essa informação. Uma representação visual é sempre mais eloquente do que qualquer folha Excel.
 

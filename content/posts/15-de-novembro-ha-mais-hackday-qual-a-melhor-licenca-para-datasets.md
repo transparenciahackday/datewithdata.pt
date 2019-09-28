@@ -4,8 +4,7 @@ Author: linkarte
 Category: Blog
 Slug: 15-de-novembro-ha-mais-hackday-qual-a-melhor-licenca-para-datasets
 Status: published
-
-[![cartaz\_800px\_hackday\_novembro\_web](http://www.transparenciahackday.org/wp-content/uploads/2014/11/cartaz_800px_hackday_novembro_web-723x1024.png){.alignnone .size-large .wp-image-744 width="584" height="827"}](http://www.transparenciahackday.org/wp-content/uploads/2014/11/cartaz_800px_hackday_novembro_web.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/11/cartaz_800px_hackday_novembro_web.png)
 
 O próximo Hackday acontece já no dia 15 de novembro. Vai ser uma sessão de trabalhos dedicada à introdução ao GitHub e discussão sobre licenças para datasets.
 
