@@ -28,27 +28,54 @@
 
 {% block content %}
 
-<div class="row expanded small-collapse">
-    <article class="hentry row">
-        <header class="medium-4 small-12 columns">
-            <h2>{{ article.title }}</h2>
-            <p class="date">
-                <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime("%A, %d de %B de %Y") }} </time>
-                <span class="author">por
-                  {% for author in article.authors %}
-                  <strong>{{ author }}</strong>
-                  {% endfor %}
-                </span>
-            </p>
-        </header>
-        <div class="medium-8 small-12 columns">
-            {% if article.image %}
-                <p><img class="u-photo" src="{{ article.image }}" alt="{{ article.title }}"></p>
+    <div class="row expanded small-collapse">
+
+            {% for tag in article.tags %}
+                {% if tag in ['Ensaio'] %}
+                <article class="hentry row longform">
+                    <header class="medium-4 small-12 columns">
+                        <h2>{{ article.title }}</h2>
+                        <p class="date">
+                            <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime("%A, %d de %B de %Y") }} </time>
+                            <span class="author">por
+                              {% for author in article.authors %}
+                              <strong>{{ author }}</strong>
+                              {% endfor %}
+                            </span>
+                        </p>
+                    </header>
+                    <div class="medium-8 small-12 columns">
+                        {% if article.image %}
+                            <p><img class="u-photo" src="{{ article.image }}" alt="{{ article.title }}"></p>
+                        {% endif %}
+                        <div class="entry-content">
+                            {{ article.content }}
+                        </div>
+                    </div>
+                </article>
+            {% else %}
+                <article class="hentry row">
+                    <header class="medium-4 small-12 columns">
+                        <h2>{{ article.title }}</h2>
+                        <p class="date">
+                            <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime("%A, %d de %B de %Y") }} </time>
+                            <span class="author">por
+                              {% for author in article.authors %}
+                              <strong>{{ author }}</strong>
+                              {% endfor %}
+                            </span>
+                        </p>
+                    </header>
+                    <div class="medium-8 small-12 columns">
+                        {% if article.image %}
+                            <p><img class="u-photo" src="{{ article.image }}" alt="{{ article.title }}"></p>
+                        {% endif %}
+                        <div class="entry-content">
+                            {{ article.content }}
+                        </div>
+                    </div>
+                </article>
             {% endif %}
-            <div class="entry-content">
-                {{ article.content }}
-            </div>
-        </div>
-    </article>
-</div>
+            {% endfor %}
+    </div>
 {% endblock %}

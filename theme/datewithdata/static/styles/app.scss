@@ -35,7 +35,61 @@
     src: local('SinkinSans Light'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Bitter';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Bitter Regular'), url('/theme/fonts/Bitter/Bitter-Regular.ttf') format('truetype');
+}
 
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Libre Baskerville Regular'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Lora';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Lora Regular'), url('/theme/fonts/Lora/Lora-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Volkorn';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Volkorn Regular'), url('/theme/fonts/Volkorn/Volkorn-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Amiri Regular'), url('/theme/fonts/Amiri/Amiri-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 400;
+    font-style: italic;
+    src: local('Amiri Italic'), url('/theme/fonts/Amiri/Amiri-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 700;
+    font-style: normal;
+    src: local('Amiri Bold'), url('/theme/fonts/Amiri/Amiri-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-weight: 700;
+    font-style: italic;
+    src: local('Amiri Bold Italic'), url('/theme/fonts/Amiri/Amiri-BoldItalic.ttf') format('truetype');
+}
 
 body {
 	font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
@@ -275,8 +329,25 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 
 .hentry .entry-content p {
     font-size: 1rem;
-    line-height: 1,4;
+    line-height: 1.4;
+}
+
+.hentry.longform .entry-content {
+    font-size: 1.25rem;
+    line-height: 1.4;
+	font-family: 'Lora', 'DejaVu Serif', Georgia, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hentry.longform .entry-content em {
+    font-weight: 400;
+    font-style: italic;
 }
 
 
+.hentry.longform .entry-content strong {
+    font-weight: 700;
+    font-style: normal;
+}
 
