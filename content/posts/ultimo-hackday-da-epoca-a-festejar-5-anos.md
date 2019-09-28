@@ -4,8 +4,7 @@ Author: admin
 Category: Blog
 Slug: ultimo-hackday-da-epoca-a-festejar-5-anos
 Status: published
-
-![2015-06-20\_THackday-5Anos](http://www.transparenciahackday.org/wp-content/uploads/2015/06/2015-06-20_THackday-5Anos-724x1024.png){.alignnone .size-large .wp-image-953 width="584" height="825"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/06/2015-06-20_THackday-5Anos-724x1024.png
 
 Para o último hackday da época 2014-2015, reuniremos o plantel habitual para fazer prognósticos no final do jogo: o que se produziu nos últimos 9 meses, o que ficou por fazer, e o que queremos pensar para o arranque em setembro próximo. E vamos também assinalar os 5 anos do Transparência Hackday Portugal!
 

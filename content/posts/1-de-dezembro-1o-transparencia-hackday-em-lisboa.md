@@ -4,8 +4,8 @@ Author: Ana
 Category: Blog, Na estrada
 Slug: 1-de-dezembro-1o-transparencia-hackday-em-lisboa
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2012/12/20121201-thackdaylx_04.jpg
 
-<!--:pt-->[![](http://www.transparenciahackday.org/wp-content/uploads/2012/12/20121201-thackdaylx_04.jpg "20121201-thackdaylx_04"){.alignnone .size-full .wp-image-224 width="800" height="600"}](http://www.transparenciahackday.org/wp-content/uploads/2012/12/20121201-thackdaylx_04.jpg)
 
 O [Hackday de 1 de Dezembro](http://www.transparenciahackday.org/forum/discussion/11/hackday-em-lisboa-dia-1-de-dezembro) aconteceu em Lisboa, na [MOB](http://goo.gl/maps/HyVEm). Foi a primeira vez que o Transparência rumou a outra cidade do país para organizar uma sessão de meter as mãos na massa e brincar com dados abertos. Em Outubro parte do coletivo participou no [Cidadania 2.0](http://cidadania20.com/), uma conferência anual sobre iniciativa cidadã. O interesse gerado foi a faísca que aqui nos trouxe.
 

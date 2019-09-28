@@ -4,11 +4,9 @@ Author: ricardo
 Category: Blog
 Slug: datacentral-um-frontend-estatico-para-colecoes-de-dados
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/09/datacentral.png
 
 \[Este post foi originalmente [publicado em inglês](http://okfnlabs.org/blog/2014/08/19/datacentral.html) na [OKFN Labs](http://okfnlabs.org), e traduzido pela Marta Pinto. É uma explicação técnica do software por trás do nosso mais recente projeto, a Central de Dados. Vamos brevemente publicar um novo post a explicar esse projeto em termos menos especializados.\] {#este-post-foi-originalmente-publicado-em-inglês-na-okfn-labs-e-traduzido-pela-marta-pinto.-é-uma-explicação-técnica-do-software-por-trás-do-nosso-mais-recente-projeto-a-central-de-dados.-vamos-brevemente-publicar-um-novo-post-a-explicar-esse-projeto-em-termos-menos-especializados. dir="ltr"}
-==============================================================================================================================================================================================================================================================================================================================================================================
-
-[![datacentral](http://www.transparenciahackday.org/wp-content/uploads/2014/09/datacentral-360x214.png){.alignnone .size-medium .wp-image-696 width="360" height="214"}](http://www.transparenciahackday.org/wp-content/uploads/2014/09/datacentral.png)
 
 Este texto explica as as questões com que nos deparámos em Portugal na frente sobre os dados abertos quando se trata de disponibilizar *datasets* em bruto de uma forma *standard* e fácil de processar. Vamos também apresentar a [Datacentral](http://github.com/datacentral/centraldedados), a nossa tentativa para dar uma solução a essas questões: uma ferramenta Python para gerar sites estáticos para as nossas data packages, que usamos para o nosso novo projeto [Central de Dados](http://centraldedados.pt).
 
@@ -42,8 +40,6 @@ Segundo problema: um sistema simples para publicar as data packages {#segundo-pr
 Ter um local central através da qual pudessemos distribuir os datasets era um dos aspetos que nos estava a faltar. Para alguns dos requisitos que tínhamos, seria necessário ter um site para agregar todas as nossas data packages:
 
 -   tornaria mais facil hospedar workshops sobre dados, providenciando um acesso rápido aos dados em bruto, e assim evitar as pens USB, documentos Google e links da Dropbox.
-
-<!-- -->
 
 -   daria mais visibilidade aos nossos esforços, agregando todo o nosso trabalho que está disperso e apresentá-lo de forma simples.
 

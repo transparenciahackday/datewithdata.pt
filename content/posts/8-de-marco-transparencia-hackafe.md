@@ -4,8 +4,7 @@ Author: Ana
 Category: Blog
 Slug: 8-de-marco-transparencia-hackafe
 Status: published
-
-[![hackcafe](http://www.transparenciahackday.org/wp-content/uploads/2014/03/hackcafe-270x360.png){.alignleft .size-medium .wp-image-522 width="270" height="360"}](http://www.transparenciahackday.org/wp-content/uploads/2014/03/hackcafe.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/03/hackcafe-270x360.png
 
 Este sábado, dia 8 de março, é dia de Hackcafé. No rescaldo de um Open Data Day preenchido ([lê mais aqui](http://www.transparenciahackday.org/2014/03/opendataday-odd14/ "Um dia para fortalecer a comunidade Open Data em Portugal")) decidimos aligeirar o habitual Hackday e fazer um Hackafé.
 

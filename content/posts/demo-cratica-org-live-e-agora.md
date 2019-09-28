@@ -4,6 +4,7 @@ Author: camorim
 Category: Blog
 Slug: demo-cratica-org-live-e-agora
 Status: published
+Image: http://farm4.static.flickr.com/3073/3027326598_34de2139ae_z.jpg
 
 Sem muito alarido, o [demo.cratica.org](http://demo.cratica.org "Sítio do demo.cratica.org") sai à rua no dia 21 de Maio. É o fruto de 9 meses de trabalho, mas muito know-how acumulado para projectos da mesma natureza ou simplesmente outros. (Uma hackathon do Parlamento da Galiza poderá vir a ser uma ideia).
 
@@ -20,4 +21,4 @@ Esta experiência de utilizador é seguramente determinante para mostrar aos res
 
 Sente-te parte deste projecto se achas que podes acrescentar-lhe valor. Há muitas pontas, alinhavos e nós por dar. Do trabalho de patchwork teremos mais cor, mais texturas, mais impacto visual, mais formas, mais técnicas de unir os fragmentos, que é como quem diz, melhor serviço à transparência.
 
-\[caption id="" align="aligncenter" width="640" caption="Créditos: net\_efekt"\]![](http://farm4.static.flickr.com/3073/3027326598_34de2139ae_z.jpg "Patchwork"){width="640" height="427"}\[/caption\]
+<small> Créditos: ["Patchwork"](http://farm4.static.flickr.com/3073/3027326598_34de2139ae_z.jpg) por net efekt</small>

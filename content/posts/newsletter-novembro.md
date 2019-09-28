@@ -5,28 +5,28 @@ Category: Newsletter
 Slug: newsletter-novembro
 Status: published
 
-<!--:pt-->Nas últimas semanas decorreram dois eventos onde o Transparência Hackday marcou presença. Proporcionámos uma oficina no festival [Future Places](http://futureplaces.org) dedicada ao mapeamento das casas abandonadas no Porto, um pretexto perfeito para apresentar publicamente o [GeoDevolutas.org](http://GeoDevolutas.org) e começar a colocar pontos no mapa. Na semana seguinte embarcámos no Intercidades para participar activamente no evento do momento no que toca à transparência, open data e envolvimento cidadão: o [Cidadania 2.0](http://cidadania20.com), onde apresentámos os projectos [GeoDevolutas](http://cidadania20.com/2012/09/26/geodevolutas/), [Mila](http://cidadania20.com/2012/09/26/mila/) e [Demo.cratica](http://cidadania20.com/2012/08/30/confirmada-participacao-demo-cratica/), e onde aproveitámos para criar laços com outras pessoas e esforços dedicados ao envolvimento cidadão activo e empenhado. Também houve tempo para hackar as bases de um novo projecto do THD, que anunciaremos muito em breve!  E ainda conseguimos dar um salto à 2ª conferência [Cultura Pirata na Sociedade da Informação](https://culturapirata2012.wordpress.com/).
+Nas últimas semanas decorreram dois eventos onde o Transparência Hackday marcou presença. Proporcionámos uma oficina no festival [Future Places](http://futureplaces.org) dedicada ao mapeamento das casas abandonadas no Porto, um pretexto perfeito para apresentar publicamente o [GeoDevolutas.org](http://GeoDevolutas.org) e começar a colocar pontos no mapa. Na semana seguinte embarcámos no Intercidades para participar activamente no evento do momento no que toca à transparência, open data e envolvimento cidadão: o [Cidadania 2.0](http://cidadania20.com), onde apresentámos os projectos [GeoDevolutas](http://cidadania20.com/2012/09/26/geodevolutas/), [Mila](http://cidadania20.com/2012/09/26/mila/) e [Demo.cratica](http://cidadania20.com/2012/08/30/confirmada-participacao-demo-cratica/), e onde aproveitámos para criar laços com outras pessoas e esforços dedicados ao envolvimento cidadão activo e empenhado. Também houve tempo para hackar as bases de um novo projecto do THD, que anunciaremos muito em breve!  E ainda conseguimos dar um salto à 2ª conferência [Cultura Pirata na Sociedade da Informação](https://culturapirata2012.wordpress.com/).
 
 **Conhece os projetos desvendados!**
 
-[![](http://www.transparenciahackday.org/wp-content/uploads/2012/11/geodevolutas.png "geodevolutas"){.alignleft .size-full .wp-image-186 width="250" height="174"}](http://www.transparenciahackday.org/wp-content/uploads/2012/11/geodevolutas.png)[GeoDevolutas.org](http://GeoDevolutas.org), uma plataforma de mapeamento fácil de propriedades devolutas, desenvolvida com base no exemplo do CasasTristes.org. A convite do Future Places organizámos o workshop [Forgotten City](http://futureplaces.org/labs/2012-forgotten-city/) e depois, no Maus Hábitos, houve apresentação pública e lançamento informal do site. Mas não nos ficamos por aí! Na semana seguinte, o [GeoDevolutas.org](http://GeoDevolutas.org) passou à escala nacional com uma apresentação no [Cidadania 2.0](http://cidadania20.com/2012/09/26/geodevolutas/).
+![](http://www.transparenciahackday.org/wp-content/uploads/2012/11/geodevolutas.png "geodevolutas")
 
-[![](http://www.transparenciahackday.org/wp-content/uploads/2012/11/mila-300x214.png "mila"){.alignright .size-medium .wp-image-187 width="250"}](http://www.transparenciahackday.org/wp-content/uploads/2012/11/mila.png) [Mila](http://www.mila.crowdmap.com/) é um mapa colaborativo de obstáculos para cidadãos com dificuldades motoras. Este work-in-progress também foi apresentado no [Cidadania 2.0](http://cidadania20.com/2012/09/26/mila/) pelo seu idealizador, Luis Lago, que se baseou na plataforma Crowdmap da Ushahidi e pretende vir a ser capaz de calcular os melhores percursos (não só o mais curto, mas também aquele com menos obstáculos) tendo em conta os dados inseridos na plataforma.
+[GeoDevolutas.org](http://GeoDevolutas.org), uma plataforma de mapeamento fácil de propriedades devolutas, desenvolvida com base no exemplo do CasasTristes.org. A convite do Future Places organizámos o workshop [Forgotten City](http://futureplaces.org/labs/2012-forgotten-city/) e depois, no Maus Hábitos, houve apresentação pública e lançamento informal do site. Mas não nos ficamos por aí! Na semana seguinte, o [GeoDevolutas.org](http://GeoDevolutas.org) passou à escala nacional com uma apresentação no [Cidadania 2.0](http://cidadania20.com/2012/09/26/geodevolutas/).
 
-<!--:--><!--:en-->
-==================
+![](http://www.transparenciahackday.org/wp-content/uploads/2012/11/mila.png)
 
-  
-<!--:--><!--more--><!--:pt-->
+[Mila](http://www.mila.crowdmap.com/) é um mapa colaborativo de obstáculos para cidadãos com dificuldades motoras. Este work-in-progress também foi apresentado no [Cidadania 2.0](http://cidadania20.com/2012/09/26/mila/) pelo seu idealizador, Luis Lago, que se baseou na plataforma Crowdmap da Ushahidi e pretende vir a ser capaz de calcular os melhores percursos (não só o mais curto, mas também aquele com menos obstáculos) tendo em conta os dados inseridos na plataforma.
 
-</h1>
+
 Surprise, surprise!
 ===================
 
-[![](http://www.transparenciahackday.org/wp-content/uploads/2012/11/orcamento-2013.png "orcamento-2013"){.aligncenter .size-full .wp-image-188 width="450"}](http://www.transparenciahackday.org/wp-content/uploads/2012/11/orcamento-2013.png)**Para onde vai o teu dinheiro?**  
+![](http://www.transparenciahackday.org/wp-content/uploads/2012/11/orcamento-2013.png "orcamento-2013")
+
+**Para onde vai o teu dinheiro?**  
 Quase em simultâneo com a apresentação da Proposta de Orçamento de Estado para 2013, o Nuno Moniz lançou a plataforma [O teu orçamento de estado](http://www.nunomoniz.com/orcamento2013/). A aplicação pretende clarificar os contribuintes sobre a aplicação das suas contribuições em impostos, através da geração de infografias com base em mapas e desenvolvimentos orçamentais disponíveis. Uma boa alternativa à quasi homónima ferramenta do [Portal do Governo](http://www.portugal.gov.pt/pt/para-onde-vao-os-seus-impostos.aspx), cuja "repartição da despesa por classificação funcional refere-se a 2010" (ai as letras pequenas!).
 
-<!--:--><!--more--><!--:pt-->Entras nessa?
+Entras nessa?
 ==========================================
 
 Os hackdays são pretextos para encontro, convívio e partilha de experiências, vontades e objectivos. Resposta a uma dúvida comum: Não é preciso ser hacker para aparecer! O Transparência Hackday é feito de muitos tipos de gente, e temos todo o gosto em mostrar a casa a quem se quiser juntar à festa.
@@ -39,7 +39,7 @@ Reserva já a data no teu calendário: na tarde do dia 1 de dezembro (sábado), 
 
 Para além do “show and tell” de projetos open data e conversas à volta do tema, o que gostavas de ver acontecer nesse dia? Manda as tuas ideias para o fórum, [neste fio](http://transparenciahackday.org/forum/discussion/11/encontro-em-lisboa-dia-1-de-dezembro)!
 
-<!--:--><!--more--><!--:pt-->Transparências sem fronteiras...
+Transparências sem fronteiras...
 =============================================================
 
 #### **Hackathon Anti-Corrupção no Brasil**
@@ -52,6 +52,4 @@ Mais informação sobre a Hackathon IACC [aqui](http://15iacc.org/get-involved/i
 
 Até onde chegam os lobbys na União Europeia? Considerando a relevância de análises mais alargadas sobre as ligações entre "lobistas", definição de políticas e o destino dos dinheiros da UE, a Open Knowledge Foundation e o European Journalism Centre organizam a Hackathon "Open Interests Europe" em Londres nos dias 24 e 25 de Novembro. O objectivo é criar ferramentas que permitam tornar mais transparentes as influências dos representantes de grupos de interesse na UE.
 
-Mais informação sobre a Hackathon Open Interests Europe, [aqui](http://okfnlabs.org/events/hackdays/lobbying.html). Acompanha no Twitter com a hashtag [\#oi12](https://twitter.com/search?q=%23oi12&src=hash).<!--:--><!--:en-->
-
-<!--:-->
+Mais informação sobre a Hackathon Open Interests Europe, [aqui](http://okfnlabs.org/events/hackdays/lobbying.html). Acompanha no Twitter com a hashtag [\#oi12](https://twitter.com/search?q=%23oi12&src=hash).

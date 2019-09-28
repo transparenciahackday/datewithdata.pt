@@ -5,8 +5,7 @@ Category: Blog, Newsletter
 Tags: balanço, datewithdata, opendata, visualização
 Slug: como-foi-2016-e-o-que-ai-vem-em-2017
 Status: published
-
-![dwd-balanco2016](http://www.transparenciahackday.org/wp-content/uploads/2016/12/dwd-balanco2016.png){.alignnone .size-full .wp-image-1127 width="800" height="600"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/12/dwd-balanco2016.png
 
 O ano está mesmo, mesmo a terminar, e sentámo-nos para olhar para o que fomos fazendo ao longo do ano. 2016 pode ter sido muita coisa para muita gente; para nós, foi sobretudo produtivo!
 

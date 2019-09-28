@@ -5,8 +5,7 @@ Category: Blog, Newsletter
 Tags: datewithdata, opendata
 Slug: date-with-data-23-por-coisas-no-ar
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/12/dwd-dezembro2017.png){.alignnone .size-full .wp-image-1301 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/12/dwd-dezembro2017.png
 
 No próximo Date With Data, sábado 9 de Dezembro, vamos olhar para a parte mais decisiva de um projeto: pô-lo no ar! Costuma ser o momento mais moroso e stressante de qualquer trabalho: limar as arestas, eliminar os últimos bugs e pôr tudo em ordem para poder seguir para as internetes.
 

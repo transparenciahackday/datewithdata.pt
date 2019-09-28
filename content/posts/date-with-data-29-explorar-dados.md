@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: date-with-data-29-explorar-dados
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/07/dwd-julho2018_web.jpg){.alignnone .size-full .wp-image-1384 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/07/dwd-julho2018_web.jpg
 
 Nos [encontros](http://datewithdata.pt) deste ano temos estado mais dedicados à aquisição de [conjuntos de dados abertos](https://github.com/centraldedados), desde a sua organização e limpeza, à actualização automática dos mesmos. Acaba por ser um trabalho moroso e por vezes não muito visível, ou até apelativo, contudo é a fundação essencial que facilita a posterior utilização dos dados em projectos.
 

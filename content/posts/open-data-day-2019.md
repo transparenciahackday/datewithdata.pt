@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: open-data-day-2019
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2019/03/odd19-03.png){.alignnone .size-full .wp-image-1665 width="533" height="589"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2019/03/odd19-03.png
 
 Sábado, 9 de Março, celebramos o [Open Data Day](https://opendataday.org/) 2019, em Portugal e na cidade do Porto.
 

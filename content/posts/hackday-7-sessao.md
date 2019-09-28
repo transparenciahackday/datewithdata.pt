@@ -4,12 +4,13 @@ Author: camorim
 Category: Blog
 Slug: hackday-7-sessao
 Status: published
+Image: 
 
 Esta sessão inclui uma breve introdução ao GIT, a apresentação de nova actividade e várias tarefas do projecto.
 
 **Hackathon**
 
-[As comunidades dedicadas à Transparência gostam de partilhar, por isso agendaram um evento super-original, uma maratona mundial dos trabalhos de Transparência. O RIcardo apresentou linhas gerais e modo de funcionamento e disse que ainda haveria um Hackday antes do evento para preparar ainda melhor o trabalho para a maratona.]{style="color: #000000;"}
+As comunidades dedicadas à Transparência gostam de partilhar, por isso agendaram um evento super-original, uma maratona mundial dos trabalhos de Transparência. O RIcardo apresentou linhas gerais e modo de funcionamento e disse que ainda haveria um Hackday antes do evento para preparar ainda melhor o trabalho para a maratona.
 
 -   Participantes - são uma série de [comunidades](http://www.opendataday.org/wiki/City_Events "OpenDataDay - comunidades por países") que estarão presentes
 -   Condições - uso IRC; logística; temas; datasets para trabalhar. A ideia está muito bem explicada [aqui](http://www.opendataday.org/wiki/Running_a_Hackathon "Preparar a Hackathon").

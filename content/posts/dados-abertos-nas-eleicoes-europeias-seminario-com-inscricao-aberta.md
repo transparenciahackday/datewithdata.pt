@@ -4,8 +4,7 @@ Author: saritamoreira
 Category: Blog
 Slug: dados-abertos-nas-eleicoes-europeias-seminario-com-inscricao-aberta
 Status: published
-
-\[caption id="attachment\_586" align="aligncenter" width="563"\][![Imagem retirada do site myvote2014.eu](http://www.transparenciahackday.org/wp-content/uploads/2014/04/electoral-data-header.png){.size-full .wp-image-586 width="563" height="259"}](http://myvote2014.eu) Imagem retirada do site myvote2014.eu\[/caption\]
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/04/electoral-data-header.png
 
 *Convocamos todos os entusiastas open data! **As** ***inscrições estão abertas [aqui](http://www.eventbrite.com/e/webinario-europeu-sobre-dados-eleitorais-tickets-11177098001)**.**
 
@@ -39,6 +38,4 @@ Como já é hábito todos os segundos sábados do mês, o hackday acontece no *
 
 Até já!
 
-</div>
-
-\* Imagem de destaque retirada do website [myvote2014.eu](https://www.myvote2014.eu/en/home/index).*
+<small>Créditos: Imagem retirada do site [myvote2014.eu]https://www.myvote2014.eu/en/home/index).</small>

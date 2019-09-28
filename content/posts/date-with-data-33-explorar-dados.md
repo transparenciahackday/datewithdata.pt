@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: date-with-data-33-explorar-dados
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2019/02/dwd-janeiro2019.jpg){.alignnone .size-full .wp-image-1423 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2019/02/dwd-janeiro2019.jpg
 
 Vamos envergar os chapéus de explorador e levar a cabo uma expedição pelos dados!
 

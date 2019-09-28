@@ -4,9 +4,7 @@ Author: saritamoreira
 Category: Blog
 Slug: ainda-no-rescaldo-do-dia-mundial-dos-dados-abertos
 Status: published
-
-\[caption id="attachment\_329" align="aligncenter" width="1020"\][![bethmaru.com/helloworld](http://www.transparenciahackday.org/wp-content/uploads/2013/03/opendataday-map.png){.size-full .wp-image-329 width="1020" height="509"}](http://bethmaru.com/helloworld) [Mapa](http://bethmaru.com/helloworld/) criado por Mary Beth Baker para o Open Data Day 2013.  [  
-](http://opendataday.org/index_pt.html)\[/caption\]
+Image: http://www.transparenciahackday.org/wp-content/uploads/2013/03/opendataday-map.png
 
 Já faz amanhã, 23/3, um mês que no Porto - e na rede - celebramos o terceiro [Dia Mundial dos Dados Abertos](http://opendataday.org/index_pt.html). A livraria [Gato Vadio](http://gatovadiolivraria.blogspot.pt/2013/02/20-24-de-fevereiro-livros-video-okupa.html) abriu as portas a mais um hackday, e o centro de operações montado incluía 15 participantes *in loco* e virtuais - um "recorde retumbante de audiências", disseram o Ricardo ([\@rlaf](https://twitter.com/rlaf)) e a Ana ([\@aiscarvalho](https://twitter.com/aiscarvalho)) a mais de 2.000km de distância.
 
@@ -72,3 +70,5 @@ Usamos também um [Google Docs](https://docs.google.com/document/d/1NlXxorrPrSZI
 A maratona permitiu colocar alguns desses países no [mapa](http://census.okfn.org/country/), com dados que vão desde orçamentos, a resultados eleitorais, registos empresariais, gastos públicos, legislação, poluição ambiental, etc.
 
 Mas não cessam os dados que ainda podemos lançar! Queres ajudar-nos a libertar? Fica atento aos nossos canais, em breve teremos mais um hackday!
+
+<small>Créditos: Mapa  criado por [Mary Beth Baker](http://bethmaru.com/helloworld/) para o [Open Data Day 2013](http://opendataday.org/index_pt.html)

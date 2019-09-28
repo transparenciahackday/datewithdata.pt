@@ -4,8 +4,7 @@ Author: admin
 Category: Blog, Newsletter
 Slug: date-with-data-18-presidencias
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/06/dwd-junho2017-1024x700.png){.alignnone .size-large .wp-image-1269 width="584" height="399"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/06/dwd-junho2017-1024x700.png
 
 Já em encontros anteriores abordámos as andanças do Presidente dos afectos, tendo começado um pequeno mapa das zonas "afectadas" pelas visitas do Presidente Marcelo.
 

@@ -4,10 +4,9 @@ Author: admin
 Category: Blog
 Slug: pure-de-noticias
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/05/screenshot-twitter.png
 
 No hackday de hoje, por entre experiências de catalogação de texto e text-to-speech construímos um [twitterbot](http://twitter.com/PureDeNoticias) que cria um imaginário de notícias paralelas.
-
-[![screenshot-twitter](http://www.transparenciahackday.org/wp-content/uploads/2015/05/screenshot-twitter.png){.alignleft .size-full .wp-image-929 .ujkbqzxbpmhzzthuvwng width="924" height="651"}](http://www.transparenciahackday.org/wp-content/uploads/2015/05/screenshot-twitter.png)
 
 A técnica é diretamente derivada do [*cut-up* de William Burroughs](https://en.wikipedia.org/wiki/Cut-up_technique), reencarnado em robots Python: os nossos scripts procuram possíveis palavras de ligação (como preposições), e retalha duas manchetes para as colar numa só. Nos resultados predomina o nonsense, mas por vezes encontram-se pérolas:
 

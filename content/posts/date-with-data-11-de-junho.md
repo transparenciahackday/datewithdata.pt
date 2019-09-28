@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata
 Slug: date-with-data-11-de-junho
 Status: published
-
-![datewithdata-junho2016](http://www.transparenciahackday.org/wp-content/uploads/2016/06/datewithdata-junho2016.png){.alignnone .size-full .wp-image-1093 width="1200" height="631"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/06/datewithdata-junho2016.png
 
 Este mês voltamos a arregaçar as mangas e meter as mãos na [Central de Dados](http://centraldedados.pt/). Estamos bem perto de chegar a uma versão 1.0 deste portal para publicar conjuntos de dados abertos! Mas ainda nos faltam fechar umas quantas entradas da nossa lista de tarefas.
 

@@ -4,10 +4,11 @@ Author: ricardo
 Category: Blog
 Slug: decifrando-o-diario-da-assembleia-da-republica
 Status: published
+Image: http://transparencia.hacklaviva.net/wp-content/uploads/2010/09/dars.jpg
 
 Um dos trabalhos que estamos a desenvolver no Transparência Hackday é o processamento do [Diário da Assembleia da República](http://www.parlamento.pt/DAR/Paginas/default.aspx).
 
-[![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/09/dars.jpg "dars"){.size-full .wp-image-39 .alignleft width="250" height="188"}](http://transparencia.hacklaviva.net/wp-content/uploads/2010/09/dars.jpg)Estamos, para já, a concentrar-nos na 1ª série do documento, que junta as transcrições de todas as sessões parlamentares desde 1998. Esta informação é um tesouro para cruzar informações e fazer vir ao de cima várias particularidades -- desde temas que foram discutidos, até expressões comuns. Queremos torná-la acessível através de uma base de dados simples, onde possamos cruzar as intervenções com as informações dos deputados.
+Estamos, para já, a concentrar-nos na 1ª série do documento, que junta as transcrições de todas as sessões parlamentares desde 1998. Esta informação é um tesouro para cruzar informações e fazer vir ao de cima várias particularidades -- desde temas que foram discutidos, até expressões comuns. Queremos torná-la acessível através de uma base de dados simples, onde possamos cruzar as intervenções com as informações dos deputados.
 
 O primeiro problema é que toda esta informação está disponível apenas em formato PDF no site do Parlamento, e não há forma de descarregar tudo de uma vez. Para isso, usámos a extensão [DownThemAll](https://addons.mozilla.org/firefox/addon/201) para o Mozilla Firefox de forma a poder baixar todos os links PDF que encontramos em cada página.
 

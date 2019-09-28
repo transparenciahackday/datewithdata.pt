@@ -4,6 +4,7 @@ Author: camorim
 Category: Blog
 Slug: hackday-sessao-4
 Status: published
+Image: 
 
 As sessões do Hacklaviva sucedem-se a bom ritmo, intercaladas por encontros como a das Redes comunitárias wi-fi no dia 15 com a presença de Al da Guifi.net e José Monteiro da Unimos.net
 

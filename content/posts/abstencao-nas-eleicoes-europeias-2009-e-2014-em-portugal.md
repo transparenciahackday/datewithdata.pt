@@ -5,8 +5,7 @@ Category: Blog
 Tags: eleições, estatísticas oficiais, europa, infografia, portugal
 Slug: abstencao-nas-eleicoes-europeias-2009-e-2014-em-portugal
 Status: published
-
-[![abstencao\_final-03](http://www.transparenciahackday.org/wp-content/uploads/2014/06/abstencao_final-03-e1403389307433-1010x1024.png){.alignnone .size-large .wp-image-672 width="584" height="592"}](http://www.transparenciahackday.org/wp-content/uploads/2014/06/abstencao_final-03.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/06/abstencao_final-03.png
 
 No Hackday de maio formou-se um grupo de trabalho à volta das eleições europeias.  
 A duas semanas das eleições, entre as campanhas dos partidos e as campanhas de apelo à participação, a [Sara](http://twitter.com/saritamoreira) lançou para a mesa uma ideia para uma infografia onde mostrássemos os resultados de 2009 e 2014, contabilizando e destacando a abstenção. Parte da motivação para esta infografia partia também da recolha de dados eleitorais que começamos no [Hackday de abril](http://www.transparenciahackday.org/2014/04/12-de-abril-especial-transparencia-hackday-dados-eleitorais/ "12 de Abril: Especial Transparência Hackday Dados Eleitorais"), dedicado ao tema das eleições e organizado em parceria com a [EPSIplatform](http://epsiplatform.eu/ "EPSI Platform").

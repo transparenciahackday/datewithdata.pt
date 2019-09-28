@@ -4,8 +4,7 @@ Author: admin
 Category: Blog, Newsletter
 Slug: este-sabado-date-with-data-19-abc-das-folhas-de-calculo
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/07/dwd-julho2017-1024x724.png){.alignnone .size-large .wp-image-1274 width="584" height="413"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/07/dwd-julho2017-1024x724.png
 
 Os dados e os datasets aparecem-nos na maioria de vezes na forma de tabelas. Umas das formas mais simples e comum de trabalhar com estas tabelas é usando programas de folha de cálculo, como o [LibreOffice Calc](https://en.wikipedia.org/wiki/LibreOffice_Calc), [Google Sheets](https://en.wikipedia.org/wiki/Google_Docs,_Sheets_and_Slides), [Excel](https://en.wikipedia.org/wiki/Microsoft_Excel).
 

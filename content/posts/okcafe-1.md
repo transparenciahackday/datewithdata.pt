@@ -4,10 +4,9 @@ Author: admin
 Category: Blog
 Slug: okcafe-1
 Status: published
+image: http://www.transparenciahackday.org/wp-content/uploads/2017/06/banner-okcafe-01.png
 
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/06/banner-okcafe-01.png){.alignnone .size-full .wp-image-1265 width="960" height="627"}
-
-OKcafé? O que é?
+## OKcafé? O que é?
 
 A nossa ideia com os OKcafés\* é ter um novo espaço para conversar e trocar ideias sobre dados abertos em particular, e sobre conhecimento aberto em geral.
 

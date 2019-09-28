@@ -5,8 +5,7 @@ Category: Blog
 Tags: opendataday, openfoodfacts
 Slug: junta-te-a-open-food-hunt
 Status: published
-
-![Open Food Hunt 2015](http://www.transparenciahackday.org/wp-content/uploads/2015/02/open-food-hunt-2015.652x4461.png){.alignnone .size-full .wp-image-868 width="652" height="446"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/02/open-food-hunt-2015.652x4461.png
 
 Ainda vais a tempo!
 

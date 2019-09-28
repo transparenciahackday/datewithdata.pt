@@ -5,6 +5,7 @@ Category: Blog
 Tags: europa, opendata challenge
 Slug: hackday-sessao-11
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2011/07/publicdataeu.png
 
 No último sábado, entre o Clube Literário do Porto e o HardClub Café desenrolou-se mais uma sessão de trabalho do Hacklaviva antes de Agosto. O objetivo principal do encontro foi fazer balanço das atividades e lançar novas ideias e projetos.
 
@@ -17,8 +18,6 @@ Foi referido que as iniciativas dos repositórios opendata nos 27 partem das mai
 Neste cenário, começa a impor-se como prioritário uma organização e congregação de esforços para uma visibilidade maior do opendata português.
 
 A iniciativa de reunir datasets dos vários países europeus num único local está a ser liderada pela [Open Knowledge Foundation](http://okfn.org/ "Open Knlowledge Foundation") com a qual o Hacklaviva já tem contactos e à guarda da qual já entregou os seus datasets, alojados e submetidos no [ckan.net](http://ckan.net "Ckan"), mas cuja consulta e interface público é o website [Publicdata.eu](http://publicdata.eu "PublicData Europe")
-
-[![publicdata.eu](http://www.transparenciahackday.org/wp-content/uploads/2011/07/publicdataeu.png "publicdata.eu"){.aligncenter .size-full .wp-image-103 width="915" height="727"}](http://www.transparenciahackday.org/wp-content/uploads/2011/07/publicdataeu.png)
 
 ### demo.cratica
 

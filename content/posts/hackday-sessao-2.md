@@ -5,6 +5,7 @@ Category: Blog
 Tags: case studies, drupal, feeds, notícias, parsing, visualização, wiki
 Slug: hackday-sessao-2
 Status: published
+Image: 
 
 Mais uma sessão de hackerismo radical com muito afinco e algumas dificuldades.  
 Passa-se a uma breve síntese do que cada elemento esteve a fazer e em que ponto ficou.

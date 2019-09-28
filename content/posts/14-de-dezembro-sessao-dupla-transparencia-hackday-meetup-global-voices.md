@@ -4,8 +4,7 @@ Author: Ana
 Category: Blog
 Slug: 14-de-dezembro-sessao-dupla-transparencia-hackday-meetup-global-voices
 Status: published
-
-[![Cartaz Meetup Global Voices & Transparência Hackday](http://www.transparenciahackday.org/wp-content/uploads/2013/12/cartaz-723x1024.png){.alignnone .size-large .wp-image-439 width="584" height="827"}](http://www.transparenciahackday.org/wp-content/uploads/2013/12/cartaz.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2013/12/cartaz.png)
 
 Dia 14 de dezembro encontramo-nos para mais um Transparência Hackday, das 14:30 às 18:30, no [Maus Hábitos](http://www.transparenciahackday.org/introducao-homepage/ "Maus Hábitos, espaço de intervenção cultural").  
 Neste que é o último hackday do ano vamos partilhar energias com o [Global Voices](http://pt.globalvoicesonline.org/2013/12/05/gvmeetup-porto-encontro-jornalismo-cidadania-novos-media/ "Meetup Global Voices Lusofonia") — uma rede internacional de cobertura de blogs e outros media de jornalismo cidadão —, no primeiro meetup presencial da comunidade lusófona em Portugal.

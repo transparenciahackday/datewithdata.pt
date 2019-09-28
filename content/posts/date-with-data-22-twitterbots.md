@@ -5,8 +5,7 @@ Category: Blog, Newsletter
 Tags: datewithdata, opendata
 Slug: date-with-data-22-twitterbots
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/11/unnamed.png){.alignnone .wp-image-1291 .size-full width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/11/unnamed.png
 
 No dia 11 de Novembro vamos aprender a fazer twitterbots. Um twitterbot é um programa que se encarrega de afixar mensagens no Twitter de acordo com uma série de regras, definidas por alguém. Mas para que servem ao certo os twitterbots? Muita coisa! Podem ser: um bom meio para a escrita conceptual, prestar serviço de informação útil (provavelmente repetitivo e chato para ser executado por um humano;), um objeto de memória histórica ou simplesmente uma brincadeira inconsequente. Aqui vão alguns que gostamos particularmente:
 

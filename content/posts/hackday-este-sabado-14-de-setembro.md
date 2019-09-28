@@ -4,8 +4,7 @@ Author: admin
 Category: Blog
 Slug: hackday-este-sabado-14-de-setembro
 Status: published
-
-[![cartaz-web](http://www.transparenciahackday.org/wp-content/uploads/2013/09/cartaz-web-1024x827.png){.alignleft .size-large .wp-image-384 width="584" height="471"}](http://www.transparenciahackday.org/wp-content/uploads/2013/09/cartaz-web.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2013/09/cartaz-web-1024x827.png
 
 No próximo sábado retomamos os nossos hackdays!
 
@@ -18,8 +17,6 @@ Não é preciso ser hacker pra aparecer, apenas ter vontade! Gostávamos muito d
 *Versão inglesa*
 
 #### Hackday next saturday!
-
-![cartaz-web](http://www.transparenciahackday.org/wp-content/uploads/2013/09/cartaz-web-1024x827.png){.alignleft .size-large .wp-image-384 width="584" height="471"}
 
 Next saturday we go back to our hackdays!
 

@@ -5,8 +5,7 @@ Category: Blog
 Tags: hackday
 Slug: notas-do-hackday-de-setembro
 Status: published
-
-![flyer\_hackday-01](http://www.transparenciahackday.org/wp-content/uploads/2014/09/flyer_hackday-01.png){.alignnone .size-full .wp-image-708 width="500" height="444"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/09/flyer_hackday-01.png
 
 Sábado 13 de setembro tivemos Hackday. Passada a interrupção para férias, durante agosto, voltamos em força aos hackdays regulares, sempre ao segundo sábado do mês.
 

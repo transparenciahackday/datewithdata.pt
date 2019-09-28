@@ -5,8 +5,7 @@ Category: Blog, Newsletter
 Tags: datewithdata, opendata, programação
 Slug: date-with-data-21-molhar-o-pe-na-programacao
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/10/dwd-outubro2017.png){.alignnone .size-full .wp-image-1284 width="800" height="566"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/10/dwd-outubro2017.png
 
 Na manhã do próximo [Date With Data](http://datewithdata.pt/), vamos olhar para a programação como se tivéssemos 5 anos: o que são os computadores? O que é isso de programar e como apareceu essa prática? E para que nos pode dar jeito?
 

@@ -5,15 +5,14 @@ Category: Blog
 Tags: datewithdata, opendata, opendataday
 Slug: open-data-day-portugal-2016
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/03/CIMG2871.jpg
 
-![CIMG2871](http://www.transparenciahackday.org/wp-content/uploads/2016/03/CIMG2871-360x270.jpg){.alignright .size-medium .wp-image-1028 width="360" height="270"} No dia 5 de março juntámo-nos pela quinta vez às comemorações do [Dia Mundial dos Dados Abertos](http://opendataday.org/). Foi um [Date With Data](http://datewithdata.pt/) especial, estruturado em duas partes: uma sessão prática durante a manhã, e uma sessão de apresentações e conversa durante a tarde. Entre atividades, aproveitámos para fazer pausas de café e partilhar um almoço com todos os participantes. Para fazer isto acontecer, tivemos o apoio precioso da [Open Knowledge](http://okfn.org/) e do seu generoso programa de micro-bolsas, bem como da [UPTEC](http://uptec.up.pt/uptec/polo-das-industrias-criativas) que mais uma vez aceitou albergar as nossas aventuras.
+No dia 5 de março juntámo-nos pela quinta vez às comemorações do [Dia Mundial dos Dados Abertos](http://opendataday.org/). Foi um [Date With Data](http://datewithdata.pt/) especial, estruturado em duas partes: uma sessão prática durante a manhã, e uma sessão de apresentações e conversa durante a tarde. Entre atividades, aproveitámos para fazer pausas de café e partilhar um almoço com todos os participantes. Para fazer isto acontecer, tivemos o apoio precioso da [Open Knowledge](http://okfn.org/) e do seu generoso programa de micro-bolsas, bem como da [UPTEC](http://uptec.up.pt/uptec/polo-das-industrias-criativas) que mais uma vez aceitou albergar as nossas aventuras.
 
 [![ODD 2016 IMG\_0189](http://www.transparenciahackday.org/wp-content/uploads/2016/03/IMG_0189-150x150.jpg){.alignleft .size-thumbnail .wp-image-1038 width="150" height="150"}](http://www.transparenciahackday.org/2016/03/open-data-day-portugal-2016/img_0189/) [![ODD 2016 CIMG2889](http://www.transparenciahackday.org/wp-content/uploads/2016/03/CIMG2889-150x150.jpg){.alignleft .size-thumbnail .wp-image-1032 width="150" height="150"}](http://www.transparenciahackday.org/2016/03/open-data-day-portugal-2016/cimg2889/) [![ODD 2016 CIMG2868](http://www.transparenciahackday.org/wp-content/uploads/2016/03/CIMG2868-150x150.jpg){.alignleft .size-thumbnail .wp-image-1027 width="150" height="150"}](http://www.transparenciahackday.org/2016/03/open-data-day-portugal-2016/cimg2868/)  
 
 Maratona de transcrição: English as she is spoke {#maratona-de-transcrição-english-as-she-is-spoke style="font-size: 120%;"}
 ------------------------------------------------
-
-![ODD 2016 CIMG2881](http://www.transparenciahackday.org/wp-content/uploads/2016/03/CIMG2881-360x270.jpg){.alignleft .size-medium .wp-image-1029 width="360" height="270"}
 
 Como sempre procurámos interessar-nos por tudo o que é livre e aberto, não nos ficamos pelas bases de dados; os livros e o conhecimento aberto são áreas que sempre gostámos e já algumas vezes trabalhámos. Assim, a proposta da manhã era arregaçar as mangas e trabalhar numa transcrição de uma obra no domínio público para, no final, re-publicá-la num formato aberto e estruturado.
 

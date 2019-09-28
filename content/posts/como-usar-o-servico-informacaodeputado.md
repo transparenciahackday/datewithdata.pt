@@ -23,14 +23,15 @@ Para já temos 5 opções principais:
 -   devolve os ids das legislaturas e as datas de vigência
 -   http://www.oportoemconversa.com/datagovpt/informacaoDeputado.php?key=aTuaChave&opcao=CaucusInfo
 
-![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/CaucusInfo.png "CaucusInfo"){width="357" height="214"}
+![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/CaucusInfo.png "CaucusInfo")
 
 **FactsType**
 
 -   devolve os nomes dos tipos de factos que podemos usar
 -   http://www.oportoemconversa.com/datagovpt/informacaoDeputado.php?key=aTuaChave&opcao=FactsType
 
-![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/factstype.png "factstype"){.alignnone .size-full .wp-image-19 width="229" height="82"}
+![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/factstype.png "factstype")
+
 
 **MP**
 
@@ -39,7 +40,8 @@ Para já temos 5 opções principais:
 -   http://www.oportoemconversa.com/datagovpt/informacaoDeputado.php?key=aTuaChave&opcao=MP
 -   http://www.oportoemconversa.com/datagovpt/informacaoDeputado.php?key=aTuaChave&opcao=MP&legislatura=XI
 
-![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/mp.png "mp"){.alignnone .size-full .wp-image-20 width="611" height="96"}
+![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/mp.png "mp")
+
 
 **Caucus**
 
@@ -48,7 +50,7 @@ Para já temos 5 opções principais:
 -   http://www.oportoemconversa.com/datagovpt/informacaoDeputado.php?key=aTuaChave&opcao=Caucus
 -   http://www.oportoemconversa.com/datagovpt/informacaoDeputado.php?key=aTuaChave&opcao=Caucus&legislatura=XI
 
-![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/caucus.png "caucus"){.alignnone .size-full .wp-image-21 width="478" height="65"}
+![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/caucus.png "caucus")
 
 **Facts**
 
@@ -60,13 +62,6 @@ Para já temos 5 opções principais:
 
 <div>
 
-[[![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/facts.png "facts"){.alignnone .size-full .wp-image-22 width="408" height="79"}]{style="line-height: 24px"}]{style="font-size: medium"}
+![](http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/facts.png "facts")
 
-</div>
 
-<div>
-
-[[  
-]{style="line-height: 24px"}]{style="font-size: medium"}
-
-</div>

@@ -4,8 +4,7 @@ Author: admin
 Category: Blog
 Slug: date-with-data-8-14-de-maio
 Status: published
-
-[![dwd-maio](http://www.transparenciahackday.org/wp-content/uploads/2016/05/dwd-maio.png){.alignleft .size-full .wp-image-1088 width="680" height="350"}](http://www.transparenciahackday.org/wp-content/uploads/2016/05/dwd-maio.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/05/dwd-maio.png
 
 Um ano depois do [Puré de Notícias](http://twitter.com/puredenoticias), voltamos a dedicar a nossa atenção ao texto. Os debates do Parlamento, um dataset que recolhemos e compilámos (usado no Demo.cratica), constituem uma base riquíssima para explorações semânticas da língua portuguesa. A curiosidade científica e precisa não é a nossa maior preocupação: gostamos de experiências e projetos alternativos como o [gerador de haikus](https://openparliament.ca/labs/haiku/) a partir dos debates do parlamento canadiano.
 

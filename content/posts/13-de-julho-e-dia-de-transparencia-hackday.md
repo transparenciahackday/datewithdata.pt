@@ -4,8 +4,7 @@ Author: Ana
 Category: Blog, Na estrada
 Slug: 13-de-julho-e-dia-de-transparencia-hackday
 Status: published
-
-[![cartaz-thd-contrastes-output1](http://www.transparenciahackday.org/wp-content/uploads/2013/07/cartaz-thd-contrastes-output1-1024x839.png){.alignnone .size-large .wp-image-375 width="584" height="478"}](http://www.transparenciahackday.org/wp-content/uploads/2013/07/cartaz-thd-contrastes-output1.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2013/07/cartaz-thd-contrastes-output1.png)
 
 No próximo sábado, 13 de julho, encontramo-nos para mais um Transparência Hackday. O programa segue a tradição dos últimos hackdays: uma manhã dedicada à caça de casas devolutas, no centro do Porto, e uma tarde de mãos na massa, a trabalhar com dados abertos.
 
@@ -19,4 +18,4 @@ Até sábado!
 
 ------------------------------------------------------------------------
 
-<small style="font-size: 85%;">Queres saber o que fizemos dia 15 de junho? As notas do hackday estão [aqui](http://piratepad.net/JMFcOOCOuc) (e em breve, serão compiladas para publicadar no blog).</small>
+<small>Queres saber o que fizemos dia 15 de junho? As notas do hackday estão [aqui](http://piratepad.net/JMFcOOCOuc) (e em breve, serão compiladas para publicadar no blog).</small>

@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata
 Slug: date-with-data-7-9-de-abril
 Status: published
-
-![dwd-abril2016](http://www.transparenciahackday.org/wp-content/uploads/2016/04/dwd-abril2016.png){.alignnone .size-full .wp-image-1082 width="650" height="371"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/04/dwd-abril2016.png
 
 Depois de um [excelente Open Data Day](http://www.transparenciahackday.org/2016/03/open-data-day-portugal-2016/), está a chegar o segundo sábado do mês — o que significa que é hora de mais um encontro Date With Data, com energia reforçada para retomar os projetos e ideias que temos congeminado nos últimos tempos.
 

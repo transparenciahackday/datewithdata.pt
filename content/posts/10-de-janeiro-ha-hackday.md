@@ -5,8 +5,7 @@ Category: Blog
 Tags: hackday
 Slug: 10-de-janeiro-ha-hackday
 Status: published
-
-[![cartaz\_web\_800px\_hackday\_janeiro](http://www.transparenciahackday.org/wp-content/uploads/2015/01/cartaz_web_800px_hackday_janeiro-723x1024.png){.alignnone .size-large .wp-image-777 width="584" height="827"}](http://www.transparenciahackday.org/wp-content/uploads/2015/01/cartaz_web_800px_hackday_janeiro.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2015/01/cartaz_web_800px_hackday_janeiro.png
 
 Abrimos 2015 com a projeção de [*Our Currency Is Information*](https://exposingtheinvisible.org/films/2/our-currency-is-information "Our Currency Is Information, Exposing the Invisible, part I"), a primeira parte de [Exposing the Invisible](https://exposingtheinvisible.org "Exposing the Invisible"), uma série de três documentários sobre jornalismo investigativo.
 

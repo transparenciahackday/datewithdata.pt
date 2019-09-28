@@ -5,8 +5,7 @@ Category: Blog
 Tags: hackday
 Slug: 11-de-outubro-ha-mais-hackday-datasets-vamos-apanha-los-todos
 Status: published
-
-[![Hackday Outubro](http://www.transparenciahackday.org/wp-content/uploads/2014/10/cartaz_800px_hackday_outubro-724x1024.png){.alignnone .size-large .wp-image-717 width="584" height="825"}](http://www.transparenciahackday.org/wp-content/uploads/2014/10/cartaz_800px_hackday_outubro.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/10/cartaz_800px_hackday_outubro.png)
 
 O próximo Hackday acontece já no dia 11 de outubro. Vai ser um dia dedicado à [Central de Dados](http://centraldedados.pt), sobre o mote ***Datasets, vamos apanhá-los todos***.
 

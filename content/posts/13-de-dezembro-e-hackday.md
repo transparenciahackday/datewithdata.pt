@@ -5,8 +5,7 @@ Category: Blog
 Tags: hackday
 Slug: 13-de-dezembro-e-hackday
 Status: published
-
-[![2014-12-13\_Thackday-gatodado\_semtexto](http://www.transparenciahackday.org/wp-content/uploads/2014/12/2014-12-13_Thackday-gatodado_semtexto.png){.alignnone .size-full .wp-image-771 width="744" height="818"}](http://www.transparenciahackday.org/wp-content/uploads/2014/12/2014-12-13_Thackday-gatodado.png)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/12/2014-12-13_Thackday-gatodado_semtexto.png
 
 Vamos continuar na procura e extração de mais fontes de dados, desde o Parlamento até ao Banco de Portugal.
 

@@ -5,10 +5,9 @@ Category: Blog
 Tags: datewithdata
 Slug: proximo-date-with-data-13-de-fevereiro
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/02/2016-fev-dwd_big.png
 
 Na véspera do dia dos amores, queremos expressar a nossa paixão pelos dados livres e continuar o esforço do último encontro para alimentar e completar a nossa [Central de Dados](http://centraldedados.pt).
-
-![2016-fev-dwd\_big](http://www.transparenciahackday.org/wp-content/uploads/2016/02/2016-fev-dwd_big.png){.alignnone .size-full .wp-image-995 width="800" height="600"}
 
 A Central de Dados é o nosso repositório de dados públicos, tal como gostaríamos que eles fossem disponibilizados originalmente: com documentação, licenças de uso livres e uma estrutura clara para facilitar a sua re-utilização. Como temos pouca paciência para esperar que os dados públicos sejam disponibilizados no formato que queremos, tratamos nós disso: uma das linhas deste encontro será juntar tijolos ao edifício que já construímos, na forma de novos tutoriais, procurar e preencher lacunas, encontrar novos datasets e aprender em conjunto a convertê-los para formatos livres.
 

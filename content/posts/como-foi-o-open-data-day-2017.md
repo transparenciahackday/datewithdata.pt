@@ -4,11 +4,10 @@ Author: admin
 Category: Blog
 Slug: como-foi-o-open-data-day-2017
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2017/03/bolos-1024x768.jpg
 
 Manhã: Mapping party
 --------------------
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2017/03/bolos-1024x768.jpg){.alignnone .size-large .wp-image-1214 width="584" height="438"}
 
 O Open Data Day começou em cheio, com uma **mapping party** orientada pelo [Open Street Map Portugal](http://openstreetmap.pt/). Estreámos o [site de Tarefas](https://tarefas.openstreetmap.pt/), onde já estavam definidas as áreas da cidade a mapear nesta manhã. A ideia central era encher o mapa de informação útil: números de polícia (vulgarmente conhecidos como números de porta), comércio local, e outros dados — multibancos, paragens de autocarro, ecopontos, ciclovias, árvores... — uma vez que o traçado das ruas já existe.
 

@@ -5,10 +5,7 @@ Category: Blog
 Tags: hackathon, opendataday
 Slug: ja-so-faltam-dois-dias-para-o-opendataday
 Status: published
-
-![opendataday\_porto2014](http://www.transparenciahackday.org/wp-content/uploads/2014/02/opendataday_porto2014-1024x572.jpg){.alignnone .size-large .wp-image-508 width="584" height="326"}
-
-<!--more-->
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/02/opendataday_porto2014-1024x572.jpg
 
 [Link para o pad](http://piratepad.be/p/opendataday-pt "Pad colaborativo do Open Data Day 2014 Porto")
 

@@ -4,8 +4,7 @@ Author: joao
 Category: Blog
 Slug: date-with-data-32-historias-com-mapas
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2019/01/dwd-janeiro2019.png){.alignnone .size-full .wp-image-1417 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2019/01/dwd-janeiro2019.png
 
 Para o primeiro Date With Data do ano, voltamos ao mui caro tema dos mapas.
 

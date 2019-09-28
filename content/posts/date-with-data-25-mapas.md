@@ -4,8 +4,7 @@ Author: joao
 Category: Blog, Destaque, Newsletter
 Slug: date-with-data-25-mapas
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/02/dwd25.jpg){.alignnone .size-full .wp-image-1311 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/02/dwd25.jpg
 
 Numa sociedade cada vez mais móvel, a informação geográfica assume um papel predominante no nosso quotidiano, sendo essencial para o funcionamento de utilitários como mapas, navegação e pesquisas.  
 O Date with Data deste Sábado, a 10 de Fevereiro, será uma introdução leve ao tema que será o foco do [Open Data Day 2018](http://opendataday.org/): Open Mapping, a acontecer já no dia 3 de Março.

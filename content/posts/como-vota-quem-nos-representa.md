@@ -4,8 +4,9 @@ Author: saritamoreira
 Category: Blog
 Slug: como-vota-quem-nos-representa
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/03/abertura.png
 
-![abertura](http://www.transparenciahackday.org/wp-content/uploads/2014/03/abertura.png){.aligncenter .size-full .wp-image-543 width="800" height="475"}Tornar público e acessível o sentido de voto de cada um dos deputados na Assembleia da República. É esta a reivindicação de uma [petição](http://peticaopublica.com/pview.aspx?pi=PT72816) lançada no início do mês de Março, que pede concretamente
+Tornar público e acessível o sentido de voto de cada um dos deputados na Assembleia da República. É esta a reivindicação de uma [petição](http://peticaopublica.com/pview.aspx?pi=PT72816) lançada no início do mês de Março, que pede concretamente
 
 > à Assembleia da República, que tome as devidas diligências no sentido de fornecer publicamente um registo electrónico, gratuito, em formato aberto, apropriado em termos de acessibilidade, e claro no seu conteúdo, do sentido de voto de cada deputado e deputada sobre cada decisão tomada.
 >
@@ -19,11 +20,10 @@ Geralmente os cidadãos só se apercebem do sentido de voto dos seus representa
 
 Foi exactamente a votação em plenário do [Projecto de Lei n.º 278/XII (PS)](http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c3246795a5868774d546f334e7a67774c325276593342734c576c756156684a5358526c65433977616d77794e7a677457456c4a4c6d527659773d3d&fich=pjl278-XII.doc&Inline=true) da co-adopção por casais homossexuais, em Maio de 2013, que levou António Balbino Caldeira, do blogue Do Portugal Profundo, a fazer uma longa [análise sobre as dificuldades](http://doportugalprofundo.blogspot.pt/2013/05/projeto-de-lei-de-coadocao-por-casais.html) que assombram este "exercício legítimo de escrutínio democrático: saber quem votou no quê e quem faltou e o motivo":
 
-> <div>
 >
 > De Herodes para Pilatos, o cidadão eleitor, interessado no escrutínio das votações, percorre um calvário de caminhos e chamadas, no [labirinto](http://www.parlamento.pt/), até obter informação que, depois de concatenada, permite chegar ao resultado pretendido sobre a votação: quantos, como, quem. Em alternativa, o cidadão ativo pode conformar-se com o [relato dos jornais](http://expresso.sapo.pt/parlamento-aprova-coadocao-por-casais-homossexuais=f807709#ixzz2TeDMvxEq) (ver também o [*JN*, de 17-5-2013](http://www.jn.pt/PaginaInicial/Politica/Interior.aspx?content_id=3225400)), com a visualização da [emissão arquivada do canal Parlamento desse dia 17 de maio de 2013 (que inclui também a discussão... sumária)](http://srvvideo2.parlamento.pt/videos-canal/XII/SL2/01_pln/20130517pln.wmv) ou, cerca de duas semanas depois do ato dada a necessidade de transcrever os debates e votações, o [Diário da Assembleia da República](http://www.parlamento.pt/DAR/Paginas/DAR1Serie.aspx) (consultada a página, hoje 24 de maio, verifica-se que o diário mais próximo já publicado é o do dia 11 de maio). Mas daqui a duas semanas, quando ficar disponível o Diário da Assembleia da República, já as figuras da opacidade e do disfarce emendaram a mão, vista a atirar pedras à estrutura da sociedade portuguesa. Agora, ainda há tempo para emendar o mal.
 >
-> </div>
+>
 
 **Pela abertura e transparência parlamentar**
 

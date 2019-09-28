@@ -5,8 +5,7 @@ Category: Blog
 Tags: hackday
 Slug: datasets-o-que-veio-a-rede
 Status: published
-
-[![CIMG0559](http://www.transparenciahackday.org/wp-content/uploads/2014/10/CIMG0559-1024x768.jpg){.alignnone .size-large .wp-image-736 width="584" height="438"}](http://www.transparenciahackday.org/wp-content/uploads/2014/10/CIMG0559.jpg)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2014/10/CIMG0559-1024x768.jpg
 
 Dia 11 de outubro aconteceu o hackday em que as 8 pessoas presentes estiveram focadas em procurar e compilar datasets de todo o género!
 

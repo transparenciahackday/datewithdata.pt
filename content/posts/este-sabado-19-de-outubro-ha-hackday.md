@@ -4,8 +4,7 @@ Author: Ana
 Category: Blog, Newsletter
 Slug: este-sabado-19-de-outubro-ha-hackday
 Status: published
-
-[![thackday\_out2013](http://www.transparenciahackday.org/wp-content/uploads/2013/10/thackday_out2013.jpg){.alignnone .size-full .wp-image-391 width="595" height="842"}](http://www.transparenciahackday.org/wp-content/uploads/2013/10/thackday_out2013.jpg)
+Image: http://www.transparenciahackday.org/wp-content/uploads/2013/10/thackday_out2013.jpg
 
 Amanhã voltamos à carga com mais um Transparência Hackday.  
 Vamos combater a chuva com mãos na massa e trilhar caminho nos dados abertos.  

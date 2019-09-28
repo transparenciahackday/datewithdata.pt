@@ -5,10 +5,9 @@ Category: Blog
 Tags: datewithdata, opendata, opendataday
 Slug: vem-ai-o-open-data-day
 Status: published
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/02/opendataday-2016_updated.png
 
 Sábado, 5 de março, comemoramos o quinto [Open Data Day](http://opendataday.org/) organizado na cidade do Porto. Será uma edição especial do [Date With Data](http://datewithdata.pt).
-
-![opendataday-2016\_updated](http://www.transparenciahackday.org/wp-content/uploads/2016/02/opendataday-2016_updated.png){.alignnone .size-full .wp-image-1015 width="600" height="849"}
 
 O Open Data Day é um evento internacional dedicado ao ativismo pelos Dados Abertos. No mesmo dia, em vários locais do mundo, coletivos e organizações dedicados ao trabalho nesta área juntam-se para assinalar a data com iniciativas locais. O ano de 2016 conta com mais de 190 eventos.
 

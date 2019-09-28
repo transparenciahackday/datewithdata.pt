@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata
 Slug: date-with-data-10-sabado-9-de-julho
 Status: published
-
-![datewithdata-julho2016](http://www.transparenciahackday.org/wp-content/uploads/2016/07/datewithdata-julho2016.png){.alignnone .size-full .wp-image-1098 width="800" height="622"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2016/07/datewithdata-julho2016.png
 
 Sábado dia 9 há mais [Date With Data](http://datewithdata.pt)!
 --------------------------------------------------------------

@@ -5,8 +5,7 @@ Category: Blog
 Tags: datewithdata, opendata
 Slug: date-with-data-27-por-entre-os-dados-do-parlamento
 Status: published
-
-![](http://www.transparenciahackday.org/wp-content/uploads/2018/05/datewithdata27.jpg){.alignnone .size-full .wp-image-1371 width="1200" height="800"}
+Image: http://www.transparenciahackday.org/wp-content/uploads/2018/05/datewithdata27.jpg
 
 No Date With Data [anterior](http://www.transparenciahackday.org/2018/04/date-with-data-26-parlamento/) começamos a organizar os dados do Parlamento e este Sábado vamos continuar o processo, também agora efetuando algumas análises e visualizações.
 
