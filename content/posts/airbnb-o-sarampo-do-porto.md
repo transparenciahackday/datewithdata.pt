@@ -5,8 +5,7 @@ Category: Blog
 Tags: Ensaio
 Slug: airbnb-o-sarampo-do-porto
 Status: published
-Image:
-
+Image: http://www.transparenciahackday.org/wp-content/uploads/2019/07/aribnb-varicela-loop.gif
 
 ## Novos alojamentos por data de início de funcionamento
 

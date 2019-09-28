@@ -24,9 +24,6 @@ Gerador de nomes próprios
 
 Já nos aventurámos antes no mundo dos nomes com o [Totonome](http://totonome.transparenciahackday.org/). Desta feita, juntámos apelidos e alinhámos um gerador de nomes a partir de fontes oficiais, incluindo nomes próprios recônditos e pouco comuns, resultando em combinações bastante reveladoras sobre a diversidade onomástica em Portugal.  
 
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
 
 Workshop de mapas interativos
 -----------------------------
@@ -120,9 +117,6 @@ Começámos a molhar o pé no tema com um conjunto de dados sobre temperatura, h
 Coisas que começámos e havemos de acabar
 ========================================
 
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
 
 **Filtro de nomes das ruas**  
 <https://github.com/transparenciahackday/filtro-de-ruas>
