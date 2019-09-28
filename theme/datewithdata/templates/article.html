@@ -9,14 +9,13 @@
   <meta property="og:title" content="{{ SITENAME }} — {{ article.title }}">
   <meta property="og:description" content="{{ article.summary|striptags }}">
   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
-  <meta property="og:image" content="http://datewithdata.pt/theme/images/cover-800x500.png">
-  <meta property="fb:app_id" content="297433590661569">
+  <meta property="og:image" content="{{ SITEURL }}/theme/images/cover-800x500.png">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ SITENAME }} — {{ article.title }}">
   <meta name="twitter:description" content="{{ article.summary|striptags }}">
   <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
-  <meta name="twitter:image" content="http://datewithdata.pt/theme/images/cover-800x500.png">
+  <meta name="twitter:image" content="{{ SITEURL }}/theme/images/cover-800x500.png">
 
   {% for keyword in article.keywords %}
     <meta name="keywords" content="{{keyword}}">
@@ -30,28 +29,26 @@
 {% block content %}
 
 <div class="row expanded small-collapse">
-  <div class="small-12 columns">
-    <article>
-      {% if article.image %}
-      <div class="image row">
-        <p class="small-12 columns"><img class="u-photo" src="{{ article.image }}" alt="{{ article.title }}"></p>
-      </div>
-      {% endif %}
-      <header class="row">
-        <h2 class="small-12 columns">{{ article.title }}</h2>
-        <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime("%A, %d de %B de %Y") }} </time>
-        <address class="vcard author">por
-          {% for author in article.authors %}
-          <strong>{{ author }}</strong>
-          {% endfor %}
-        </address>
-      </header>
-      <div class="row">
-        <div class="small-12 columns">
-          {{ article.content }}
+    <article class="hentry row">
+        <header class="medium-4 small-12 columns">
+            <h2>{{ article.title }}</h2>
+            <p class="date">
+                <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.date|strftime("%A, %d de %B de %Y") }} </time>
+                <span class="author">por
+                  {% for author in article.authors %}
+                  <strong>{{ author }}</strong>
+                  {% endfor %}
+                </span>
+            </p>
+        </header>
+        <div class="medium-8 small-12 columns">
+            {% if article.image %}
+                <p><img class="u-photo" src="{{ article.image }}" alt="{{ article.title }}"></p>
+            {% endif %}
+            <div class="entry-content">
+                {{ article.content }}
+            </div>
         </div>
-      </div>
     </article>
-  </div>
 </div>
 {% endblock %}

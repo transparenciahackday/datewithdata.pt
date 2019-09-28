@@ -13,13 +13,13 @@
             <meta property="og:title" content="{{ SITENAME }}">
             <meta property="og:description" content="{{ SITE_DESCRIPTION }}">
             <meta property="og:url" content="{{ SITEURL }}">
-    	    <meta property="og:image" content="http://datewithdata.pt/images/datewithdata-share.png">
+    	    <meta property="og:image" content="{{ SITEURL }}/theme/images/datewithdata-share.png">
 
             <meta name="twitter:card" content="summary">
             <meta name="twitter:title" content="{{ SITENAME }}">
             <meta name="twitter:description" content="{{ SITE_DESCRIPTION }}">
             <meta name="twitter:url" content="{{ SITEURL }}">
-            <meta name="twitter:image" content="/theme/images/datewithdata-share.png">
+            <meta name="twitter:image" content="{{ SITEURL }}/theme/images/datewithdata-share.png">
 
             <meta name="theme-color" content="#3ad0d0">
 
@@ -164,9 +164,11 @@
     </nav>
     </div>
 
-    {% block content %}
-    {% endblock %}
-
+    <section id="content">
+        {% block content %}
+        {% endblock %}
+    </section>
+    
     <div class="about" id="about" data-magellan-destination="about">
         <div class="row">
           <div class="medium-4 small-12 columns text-left">

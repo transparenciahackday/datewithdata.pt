@@ -2,20 +2,24 @@
 {% block title %}{{ SITENAME }} - {{ category }}{% endblock %}
 
 {% block content %}
-<section id="content">
 	<div class="row text-center">
 		<h2>{{ category }}</h2>
 	</div>
 	<div class="row">
         <div id="post-list">
 	    {% for article in articles_page.object_list %}
-		    <div class="medium-4 small-12 columns"><article class="hentry">
-		            <header> <h3 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h3> </header>
+		    <article class="hentry">
+    		    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
 		            <footer class="post-info">
-		                <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+		                <p><img src="{{ article.image }}" alt="{{ article.title }}"></p>
 		            </footer><!-- /.post-info -->
-		            <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
-		    </article></div>
+		            <header>
+		                <h3 class="entry-title">{{ article.title }}</h3>
+		                <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+		            </header>
+		            <div class="entry-summary"> {{ article.summary | striptags }} </div><!-- /.entry-summary -->
+		        </a>
+		    </article>
 	    {% endfor %}
 	    </div><!-- /#posts-list -->
     </div>
@@ -24,5 +28,4 @@
         {% include 'pagination.html' %}
 	</div>
 {% endif %}
-</section><!-- /#content -->
 {% endblock content %}

@@ -37,11 +37,23 @@
 
 
 
-body { font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif; }
+body {
+	font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 400;
+}
 
-h1, h2 { font-family: 'SinkinSans Light', 'DejaVu Sans', Arial, sans-serif; }
-h3, h4, h5, h6 { font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif; }
-h4 { font-size: 1rem; }
+h1, h2 {
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 200;
+}
+h3, h4, h5, h6 {
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 1rem;
+}
 
 /* Pixel Font */
 .home h1, .top-bar .name h1 { font-family: 'victors-pixel-font', DejaVu Sans, Arial, sans-serif; }
@@ -51,7 +63,8 @@ h4 { font-size: 1rem; }
 .top-bar .name h3, .top-bar .name h4, { font-size: 16px; }
 
 .top-bar-section ul li > a {
-    font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif;
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -88,6 +101,10 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     width: 225px;
 }*/
 
+.row.expanded {
+    max-width: 80rem;
+}
+
 .hero, .next-dwd, .projects, .collaborate, .about, .supportedBy, .copyright {
     padding-top: 5rem;
     padding-bottom: 2rem;
@@ -107,7 +124,7 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 .hero .row h1 { margin-bottom: 2rem; }
 
 .hero .next h2 em {
-    font-family: 'SinkinSans Bold', 'DejaVu Sans', Arial, sans-serif;
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
     font-weight: 700;
     font-size: 0.85rem;
     text-transform: uppercase;
@@ -169,39 +186,97 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 /* Blog
 */
 
-#post-list .hentry h3.entry-title {
-    font-size: 1.5rem;
+#content {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#post-list .hentry a {
+    display: grid;
+    grid-template-columns: 0.8fr 1.6fr 1.6fr;
+    grid-gap: 0 1.5rem;
+    gap: 0 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    align-items: center;
+    color: $dwd-darkblue;
+}
+
+#post-list .hentry a:hover,
+#post-list .hentry a:focus,
+#post-list .hentry a:hover h3,
+#post-list .hentry a:focus h3 {
+    color: $dwd-red;
+}
+
+#post-list .hentry a img {
+    filter: grayscale(0%);
+}
+
+#post-list .hentry a:hover img {
+    filter: grayscale(100%);
+}
+
+#post-list .hentry header,
+#post-list .hentry footer.post-info,
+#post-list .hentry .entry-summary {
+    display: block;
+    margin-top: 0;
+}
+
+.hentry header h3.entry-title {
+    font-size: 1.25rem;
     font-weight: 400;
     line-height: 1.2;
+    margin-bottom: 0.5rem;
+}
+
+#post-list .hentry .published {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-top: 1px solid $dwd-red;
+    padding-top: 0.5rem;
+}
+
+.hentry header .date {
+    font-size: 0.75rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-top: 1px solid $dwd-red;
+    padding-top: 0.5rem;
+}
+
+.hentry header .date .author {
+    opacity: 0.5;
+}
+
+
+#post-list .hentry footer.post-info p {
     margin-bottom: 0;
 }
 
-.post-info {
-    font-size: 75%;
-    text-align: right;
-    text-transform: uppercase;
-    border-top: 3px solid $dwd-blue;
-    margin-top: 0.25rem;
-    padding-top: 0.25rem;
-}
-
-#post-list .hentry .entry-content {
+#post-list .hentry .entry-summary {
     font-size: 0.875rem;
     line-height: 1.3;
 }
 
-#post-list .hentry .entry-content h1,
-#post-list .hentry .entry-content h2,
-#post-list .hentry .entry-content h3,
-#post-list .hentry .entry-content h4,
-#post-list .hentry .entry-content h5,
-#post-list .hentry .entry-content h6 {
-    font-size: 100%;
+#post-list .hentry .entry-summary * {
+    font-size: 90% !important;
     line-height: 1.3;
-    font-weight: 700;
-    margin-bottom: 0.25rem;
+    font-weight: 400;
+    margin-bottom: 0;
 }
 
-#post-list .hentry .entry-content p {
+#post-list .hentry .entry-summary p {
     margin-bottom: 0.15rem;
 }
+
+.hentry .entry-content p {
+    font-size: 1rem;
+    line-height: 1,4;
+}
+
+
+
