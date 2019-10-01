@@ -333,12 +333,16 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 }
 
 .hentry.longform header {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid $dwd-red;
-    margin-bottom: 2rem;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
+.hentry.longform header h2 {
+    border-bottom: 1px solid $dwd-red;
+    padding-bottom: 1rem;
+}
 
 .hentry.longform h1 { font-size: 2.25rem; }
 .hentry.longform h2 { font-size: 1.95rem; }
@@ -347,11 +351,6 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 .hentry.longform h5 { font-size: 1.25rem; font-weight: 700;}
 .hentry.longform h6 { font-size: 1rem; font-weight: 700;}
 
-.hentry.longform header div:first-child {
-    text-align: center;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
-}
 
 .hentry.longform .date {
     border-top: 0;
@@ -388,4 +387,54 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     font-weight: 700;
     font-style: normal;
 }
+
+.hentry.longform .main-image iframe {
+    width: 100%;
+}
+
+.hentry.longform .entry-content .boxes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0 2rem;
+    gap: 0 2rem;
+    align-items: center;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.hentry .entry-content .boxes .card {
+    font-size: 1.5rem;
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #ddd;
+    padding: 0.75rem 1rem;
+}
+
+.hentry .entry-content .boxes .card strong {
+    color: $dwd-red;
+    font-size: 2rem;
+    font-weight: 700;
+    display: block;
+}
+
+.hentry .entry-content .boxes .card small {
+    font-size: 0.875rem;
+    font-weight: 200;
+    display: block;
+}
+
+.hentry .entry-content .boxes .card em {
+    font-style: normal;
+}
+
+.hentry .entry-content span.caption {
+    font-size: 0.875rem;
+    font-weight: 700;
+    display: block;
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+}
+
+
+
 

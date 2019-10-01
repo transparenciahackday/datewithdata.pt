@@ -4,18 +4,11 @@ Author: João Bernardo Sousa
 Category: Blog
 Tags: Ensaio
 Slug: airbnb-o-sarampo-do-porto
-Status: draft
-Image: http://www.transparenciahackday.org/wp-content/uploads/2019/07/aribnb-varicela-loop.gif
+Status: published
+Image:
+Ensaiohighlight: <iframe src="https://whiskas123.carto.com/builder/9651d97d-a9f4-446c-854d-8e40f3b43fe8/embed" width="100%" height="520" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-
-# Airbnb - o sarampo do Porto
-
-<iframe src="https://whiskas123.carto.com/builder/9651d97d-a9f4-446c-854d-8e40f3b43fe8/embed" 
-        width="100%" height="520" frameborder="0" 
-        allowfullscreen webkitallowfullscreen mozallowfullscreen 
-        oallowfullscreen msallowfullscreen></iframe>
-
-_Novos alojamentos por data de início de funcionamento_
+<span class="caption">Novos alojamentos por data de início de funcionamento</span>
 
 A plataforma de alojamento local Airbnb chegou ao Porto em 2009 e
 desde essa altura não parou de crescer. É de longe a plataforma mais
@@ -26,17 +19,15 @@ Em junho de 2019 contavam-se 5115 alojamentos ativos - ou seja, que
 receberam gente no ano de 2019 - no concelho do Porto, estando 3181 -
 quase dois terços - localizados no centro histórico da cidade.
 
-<div class="column">
+<div class="boxes">
   <div class="card">
     <strong>5115</strong>
     Anuncios Airbnb no concelho do Porto
     <small> <em>90%</em> dos anúncios de AL online</small>
   </div>
-</div>
-<div class="column">
   <div class="card"><strong>3181</strong>
     Anuncios Airbnb no centro histórico
-    <small> <em>62%</em> dos anúncios no Porto</small></div>
+    <small> <em>62%</em> dos anúncios no Porto</small>
   </div>
 </div>
 
@@ -82,10 +73,8 @@ A Airbnb apresenta-se como uma plataforma facilitadora da economia
 de partilha, que ajuda pessoas comuns - chamados anfitriões - a
 arrendar um quartinho vazio e, com isso, ganhar algum dinheiro extra.
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/VdpqdAt.png" style="max-height:100%; max-width:100%">
-  <span>Marketing presente na página da Airbnb</span>
-</div>
+<img src="https://i.imgur.com/VdpqdAt.png">
+<span class="caption">Marketing presente na página da Airbnb</span>
 
 Na verdade, a escala do negócio é outra. A economia de partilha existe,
 mas o peso de anúncios referentes a alojamentos ou quartos partilhados
@@ -128,7 +117,7 @@ utilizadores com mais de um anúncio.
   width="100%" height="520" frameborder="0" 
   allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-_Azul - Anúncios cujos proprietários têm mais de um anúncio; Magenta - Anúncios singulares_
+<span class="caption">Azul - Anúncios cujos proprietários têm mais de um anúncio; Magenta - Anúncios singulares</span>
 
 Existem ainda utilizadores com números particularmente altos de
 anúncios publicados. Ao averiguar os nomes desses utilizadores, podemos
