@@ -32,6 +32,9 @@ DRAFT_SAVE_AS = 'private/{slug}/index.html'
 DRAFT_LANG_URL = 'private/{slug}-{lang}/'
 DRAFT_LANG_SAVE_AS = 'private/{slug}-{lang}/index.html'
 
+STATIC_PATHS = ['extra/htaccess']
+EXTRA_PATH_METADATA = {'extra/htaccess': {'path': '.htaccess'}}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
