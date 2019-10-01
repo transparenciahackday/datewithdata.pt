@@ -8,6 +8,8 @@ Status: published
 Image:
 Ensaiohighlight: <iframe src="https://whiskas123.carto.com/builder/9651d97d-a9f4-446c-854d-8e40f3b43fe8/embed" width="100%" height="520" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>
+
 <span class="caption">Novos alojamentos por data de início de funcionamento</span>
 
 A plataforma de alojamento local Airbnb chegou ao Porto em 2009 e
@@ -239,3 +241,4 @@ TODO
 ## Autoria
 
 TODO
+
