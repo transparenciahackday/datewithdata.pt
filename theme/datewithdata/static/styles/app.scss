@@ -35,11 +35,12 @@
     src: local('SinkinSans Light'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
+
 @font-face {
-    font-family: 'Bitter';
-    font-weight: 400;
+    font-family: 'SinkinSans';
+    font-weight: 600;
     font-style: normal;
-    src: local('Bitter Regular'), url('/theme/fonts/Bitter/Bitter-Regular.ttf') format('truetype');
+    src: local('SinkinSans Semibold'), url('/theme/fonts/SinkinSans/SinkinSans-600SemiBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -50,52 +51,24 @@
 }
 
 @font-face {
-    font-family: 'Lora';
-    font-weight: 400;
-    font-style: normal;
-    src: local('Lora Regular'), url('/theme/fonts/Lora/Lora-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Fanwood';
-    font-weight: 400;
-    font-style: normal;
-    src: local('Fanwood Regular'), url('/theme/fonts/Fanwood/fanwood.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Vollkorn';
-    font-weight: 400;
-    font-style: normal;
-    src: local('Vollkorn Regular'), url('/theme/fonts/Vollkorn/Vollkorn-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Amiri';
-    font-weight: 400;
-    font-style: normal;
-    src: local('Amiri Regular'), url('/theme/fonts/Amiri/Amiri-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Amiri';
+    font-family: 'Libre Baskerville';
     font-weight: 400;
     font-style: italic;
-    src: local('Amiri Italic'), url('/theme/fonts/Amiri/Amiri-Italic.ttf') format('truetype');
+    src: local('Libre Baskerville Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Amiri';
+    font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: normal;
-    src: local('Amiri Bold'), url('/theme/fonts/Amiri/Amiri-Bold.ttf') format('truetype');
+    src: local('Libre Baskerville Bold'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Amiri';
+    font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: italic;
-    src: local('Amiri Bold Italic'), url('/theme/fonts/Amiri/Amiri-BoldItalic.ttf') format('truetype');
+    src: local('Libre Baskerville Bold Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
 }
 
 body {
@@ -326,6 +299,15 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     line-height: 1.4;
 }
 
+.hentry .main-image span.caption {
+    color: rgba($dwd-darkblue, 0.6);
+    font-size: 0.75rem;
+    text-align: right;
+    display: block;
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+}
+
 .hentry.longform header {
     text-align: center;
     padding-top: 3rem;
@@ -338,35 +320,60 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     padding-bottom: 1rem;
 }
 
-.hentry.longform h1 { font-size: 2.25rem; }
-.hentry.longform h2 { font-size: 1.95rem; }
-.hentry.longform h3 { font-size: 1.75rem; font-weight: 700; }
-.hentry.longform h4 { font-size: 1.5rem; font-weight: 700;}
-.hentry.longform h5 { font-size: 1.25rem; font-weight: 700;}
-.hentry.longform h6 { font-size: 1rem; font-weight: 700;}
+.hentry.longform h1 {
+    font-size: 2rem;
+}
+.hentry.longform h2 {
+    font-size: 1.75rem;
+}
+.hentry.longform h3 { 
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.hentry.longform h4 {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+.hentry.longform h5 {
+    font-size: 1rem;
+    font-weight: 700;
+}
+.hentry.longform h6 {
+    font-size: 0.875rem;
+    font-weight: 700;
+}
 
+.hentry.longform h2:not(:first-child),
+.hentry.longform h3:not(:first-child),
+.hentry.longform h5:not(:first-child),
+.hentry.longform h6:not(:first-child) {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+}
 
 .hentry.longform .date {
     border-top: 0;
     padding-top: 0;
+    font-size: 0.75rem;
+    font-weight: 600;
 }
 
 .hentry.longform .date .author {
     opacity: 1;
+    font-size: 0.875rem;
 }
 
 .hentry.longform .post-info time {
     display: block;
-    font-size: 0.75rem;
-    font-weight: 700;
+    font-size: 0.65rem;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
-.hentry.longform .entry-content {
+.hentry .entry-content {
+	font-family: 'Libre Baskerville', 'DejaVu Serif', Georgia, serif;
     font-size: 1.25rem;
     line-height: 1.4;
-	font-family: 'Libre Baskerville', 'DejaVu Serif', Georgia, serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -382,9 +389,22 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     font-style: normal;
 }
 
+.hentry .entry-content blockquote {
+	margin-left: 1.5rem;
+    font-size: 0.85rem;
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
 .hentry.longform .main-image iframe {
     width: 100%;
 }
+
+.hentry.longform .main-image canvas {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
 
 .hentry.longform .entry-content .boxes {
     display: grid;
@@ -407,7 +427,8 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
     text-align: center;
     background-color: #ddd;
-    padding: 0.75rem 1rem;
+    padding: 2rem 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .hentry .entry-content .boxes .card strong {
@@ -417,17 +438,26 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     display: block;
 }
 
+.hentry .entry-content .boxes .card span {
+    font-size: 1rem;
+    line-height: 1.2;
+    display: block;
+    padding: 0.5rem 0;
+    
+}
+
 .hentry .entry-content .boxes .card small {
     font-size: 0.875rem;
-    font-weight: 200;
     display: block;
 }
 
 .hentry .entry-content .boxes .card em {
     font-style: normal;
+    font-weight: 700;
 }
 
 .hentry .entry-content span.caption {
+    color: rgba($dwd-darkblue, 0.6);
     font-size: 0.875rem;
     font-weight: 700;
     display: block;

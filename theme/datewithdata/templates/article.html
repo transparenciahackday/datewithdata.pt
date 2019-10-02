@@ -33,14 +33,16 @@
 
 
         {%  if 'Ensaio' in article.tags %}
+            <script src="{{ article.externalscripts1 }}"></script>
             <article class="hentry longform">
                 <div class="row expanded">
                     <div class="main-image">
                         {% if article.image %}
                             <p><img src="{{ article.image }}" alt="{{ article.title }}"></p>
                         {% endif %}
-                        {% if article.ensaiohighlight %}
-                            {{ article.ensaiohighlight }}
+                        {% if article.openingimage %}
+                            {{ article.openingimage }}
+                            <span class="caption">{{ article.openingcaption }}</span>
                         {% endif %}
                     </div>
                 </div>
@@ -65,6 +67,7 @@
                     </div>
                 </div>
             </article>
+            <script src="{{ SITEURL }}/theme/scripts/{{ article.extrascripts }}"></script>
         {% else %}
             <div class="row expanded small-collapse">
                 <article class="hentry row">
