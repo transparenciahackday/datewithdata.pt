@@ -237,8 +237,10 @@ Esperamos que este relato possa dar alento a outras explorações semelhantes, e
 
 ## Metodologia
 
-TODO
+Os números presentes foram determinados a partir do cruzamento de três fontes de dados:
 
-## Autoria
+- Inside AirBnb
+- Registo Nacional do Alojamento Local
+- Códigos Postais
 
-TODO
+TODO: Links de código fonte
