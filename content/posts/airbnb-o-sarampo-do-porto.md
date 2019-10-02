@@ -1,6 +1,7 @@
 Title: Airbnb — o sarampo do Porto
 Date: 2019-09-28 10:00
 Author: João Bernardo Sousa
+Editor: Ana Isabel Carvalho, João Antunes & Ricardo Lafuente
 Category: Blog
 Tags: Ensaio
 Slug: airbnb-o-sarampo-do-porto
@@ -23,12 +24,12 @@ quase dois terços - localizados no centro histórico da cidade.
 <div class="boxes">
   <div class="card">
     <strong>5115</strong>
-    <span>Anuncios Airbnb no concelho do Porto</span>
+    <span>Anúncios Airbnb no concelho do Porto</span>
     <small> <em>90%</em> dos anúncios de AL online</small>
   </div>
   <div class="card"><strong>3181</strong>
-    <span>Anuncios Airbnb no centro histórico</span>
-    <small> <em>62%</em> dos anúncios no Porto</small>
+    <span>Anúncios Airbnb no centro histórico</span>
+    <small> <em>90%</em> dos anúncios de AL online</small>
   </div>
 </div>
 
@@ -51,14 +52,14 @@ arrendar um quartinho vazio e, com isso, ganhar algum dinheiro extra.
 <img src="https://i.imgur.com/VdpqdAt.png">
 <span class="caption">Marketing presente na página da Airbnb</span>
 
-Na verdade, a escala do negócio é outra. A economia de partilha existe,
-mas o peso de anúncios referentes a alojamentos ou quartos partilhados
-é muitíssimo reduzida - pouco mais de 10%. 
+Na verdade, a escala do negócio é outra. Os alugueres de quartos estão por lá,
+mas o peso de anúncios referentes a alojamentos ou quartos partilhados é
+muitíssimo reduzida - pouco mais de 10%. 
 
 <canvas id="myChart2" width="400" height="100"></canvas>
 
-A esmagadora maioria dos anúncios referem-se a apartamentos
-completos, casas que ficam vazias assim que os turistas as deixam.
+A enorme maioria dos anúncios referem-se a apartamentos completos, casas que
+ficam vazias assim que os turistas as deixam.
 
 ## Objetivo: "Volume de faturação"
 
@@ -86,24 +87,29 @@ contagens.
 Consultar a lista de serviços de uma destas empresas dá-nos uma boa
 pista sobre o tipo de proprietário que a elas recorre:
 
-> Proprietários:
-> —   Estudo de rentabilidade estimada do seu imóvel;
-> —   Gestão do seu imóvel 365 dias por ano (check-in, check-out, gestão
->     de reservas e optimização de preços, limpeza, apoio aos hóspedes,
->     etc.);
-> —   Comunicação forte e criativa. Criação de conteúdo fotográfico e
->     videográfico para posterior divulgação nos vários canais de
->     comunicação (redes sociais, website e plataformas digitais).
->   Objectivo: Aumentar a sua taxa de ocupação e consequente volume de facturação.
-> 
->   Hóspedes:
-> —   Recepção de boas-vindas à sua estadia;
-> —   Limpeza;
-> —   Apoio durante toda a estadia (compras no supermercado, sugestão de
->     restaurantes, programas especiais, actividades a realizar, etc.);
-> —   Serviço de guia e transfers exclusivos;
-> 
->   Objectivo: Proporcionar uma estadia especial e inesquecível a todos os que visitam os nossos imóveis.
+<blockquote>
+<p>Proprietários:</p>
+<ul>
+<li>Estudo de rentabilidade estimada do seu imóvel;</li>
+<li>Gestão do seu imóvel 365 dias por ano (check-in, check-out, gestão
+de reservas e optimização de preços, limpeza, apoio aos hóspedes,
+etc.);</li>
+<li>Comunicação forte e criativa. Criação de conteúdo fotográfico e
+videográfico para posterior divulgação nos vários canais de
+comunicação (redes sociais, website e plataformas digitais).</li>
+</ul>
+<p>Objectivo: Aumentar a sua taxa de ocupação e consequente volume de facturação.</p>
+
+<p>Hóspedes:</p>
+<ul>
+<li>Recepção de boas-vindas à sua estadia;</li>
+<li>Limpeza;</li>
+<li>Apoio durante toda a estadia (compras no supermercado, sugestão de
+>     restaurantes, programas especiais, actividades a realizar, etc.);</li>
+<li>Serviço de guia e transfers exclusivos;</li>
+</ul>
+<p>Objectivo: Proporcionar uma estadia especial e inesquecível a todos os que visitam os nossos imóveis.</p>
+</blockquote>
 
 <span class="caption">Fonte: Página de Serviços do site da [Liiiving](https://www.liiiving.pt/pt/Servicos).</span>
 
@@ -133,25 +139,20 @@ registados no Registo Nacional de Alojamento Local (RNAL).
 Cada AL tem um número de registo que deve ser indicado na página do
 anúncio na Airbnb.
 
-No entanto, encontramos 607 anúncios - 12% - em aparente situação irregular.
+No entanto, encontramos 607 anúncios - 12% - em aparente situação irregular:
 
-- XX (yy%) que não apresentam esse número
-- XX (yy%) que dizem estar isentos de registo
-- XX (yy%) que indicam um número que não existe no RNAL
-- XX (yy%) que indicam um número correspondente não à morada do anúncio, mas a um registo fora da cidade
+- **530** anúncios que não apresentam esse número ou dizem estar isentos de registo
+- **77** anúncios que indicam um número correspondente não à morada do anúncio, mas a um registo fora da cidade
 
 Outra informação importante presente no registo é a data de abertura
 do Alojamento Local. No entanto, há 650 ALs presentes na Airbnb que não
-apresentam esse dado, e mais relevante ainda, existem 1350 anúncios que
-à partida terão começado a operar antes da data de abertura que
-apresentam no registo, uma vez que receberam alguma avaliação antes
-dessa data.
+apresentam esse dado.
+
+Mais relevante ainda, existem 1350 anúncios que aparentam ter começado a operar antes da data de abertura que apresentam no registo, uma vez que receberam alguma avaliação (_review_) no site da Airbnb antes dessa data.
 
 ## Para terminar
 
 TODO: isto são só pontos soltos e ainda me falta cortar e ligar partes
-
-O fenómeno do Alojamento Local continua a ser um tema imensamente presente no nosso dia-a-dia. 
 
 É prejudicial que o acesso a este tipo de detalhes esteja limitado a quem sabe esmiuçar bases de dados
 
@@ -162,9 +163,10 @@ Esperamos que este relato possa dar alento a outras explorações semelhantes, e
 
 ## Metodologia
 
-TODO
+Os números presentes foram determinados a partir do cruzamento de três fontes de dados:
 
-## Autoria
+- Inside AirBnb
+- Registo Nacional do Alojamento Local
+- Códigos Postais
 
-TODO
-
+TODO: Links de código fonte
