@@ -226,8 +226,6 @@ Mais relevante ainda, existem 1350 anúncios que aparentam ter começado a opera
 
 TODO: isto são só pontos soltos e ainda me falta cortar e ligar partes
 
-O fenómeno do Alojamento Local continua a ser um tema imensamente presente no nosso dia-a-dia. 
-
 É prejudicial que o acesso a este tipo de detalhes esteja limitado a quem sabe esmiuçar bases de dados
 
 Apelamos à publicação das fontes de dados detidas pelas autarquias que permitam um maior esclarecimento sobre o papel e as consequências do alastramento do Alojamento Local.
