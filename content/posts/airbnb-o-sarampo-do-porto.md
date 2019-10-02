@@ -185,8 +185,9 @@ descobrir e contar. Por isso, o apelo de publicação da informação pública
 relevante estende-se a todas as autarquias.
 
 Esperamos que este relato possa dar alento a outras explorações semelhantes, e
-para isso colocamos à disposição todo o código-fonte que conduziu aos
-resultados que aqui apresentamos.
+para isso [colocamos à disposição o
+código-fonte](https://github.com/Whiskas123/InvasaoAirbnbPorto) que conduziu
+aos resultados que aqui apresentamos.
 
 
 ## Metodologia
