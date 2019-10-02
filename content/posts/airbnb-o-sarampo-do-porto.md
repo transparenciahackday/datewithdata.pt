@@ -61,6 +61,7 @@ muitíssimo reduzida - pouco mais de 10%.
 A enorme maioria dos anúncios referem-se a apartamentos completos, casas que
 ficam vazias assim que os turistas as deixam.
 
+
 ## Objetivo: "Volume de faturação"
 
 Segundo os números, proprietários individuais com um anúncio único
@@ -150,6 +151,7 @@ apresentam esse dado.
 
 Mais relevante ainda, existem 1350 anúncios que aparentam ter começado a operar antes da data de abertura que apresentam no registo, uma vez que receberam alguma avaliação (_review_) no site da Airbnb antes dessa data.
 
+
 ## Para terminar
 
 Este relato é o resultado de uma exploração extensa dos números a que temos
@@ -163,6 +165,12 @@ Alojamento Local. Em particular, parece-nos fazer todo o sentido que a Câmara
 do Porto possa publicar as informações que detém sobre o Alojamento Local na
 cidade dentro do seu [portal de dados
 abertos](https://dadosabertos.cm-porto.pt/).
+
+E se nos focamos no Porto, é porque somos de cá. É fundamental podermos olhar
+para outras localidades -- particularmente as mais pequenas, longe do litoral
+-- porque estamos certos que aí também existirão histórias que é importante
+descobrir e contar. Por isso, o apelo de publicação da informação pública
+relevante estende-se a todas as autarquias.
 
 Esperamos que este relato possa dar alento a outras explorações semelhantes, e
 para isso colocamos à disposição todo o código-fonte que conduziu aos
