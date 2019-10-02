@@ -152,13 +152,21 @@ Mais relevante ainda, existem 1350 anúncios que aparentam ter começado a opera
 
 ## Para terminar
 
-TODO: isto são só pontos soltos e ainda me falta cortar e ligar partes
+Este relato é o resultado de uma exploração extensa dos números a que temos
+acesso. Mas há muitas outras histórias por contar: algumas que apenas exigem
+mais tempo, e outras que vão ficar enterradas enquanto as entidades públicas
+não facilitarem o acesso a este tipo de informação.
 
-É prejudicial que o acesso a este tipo de detalhes esteja limitado a quem sabe esmiuçar bases de dados
+Apelamos à publicação das fontes de dados detidas pelas autarquias que permitam
+um maior esclarecimento sobre o papel e as consequências do alastramento do
+Alojamento Local. Em particular, parece-nos fazer todo o sentido que a Câmara
+do Porto possa publicar as informações que detém sobre o Alojamento Local na
+cidade dentro do seu [portal de dados
+abertos](https://dadosabertos.cm-porto.pt/).
 
-Apelamos à publicação das fontes de dados detidas pelas autarquias que permitam um maior esclarecimento sobre o papel e as consequências do alastramento do Alojamento Local.
-
-Esperamos que este relato possa dar alento a outras explorações semelhantes, e para isso colocamos à disposição todo o código-fonte que conduziu aos resultados que aqui apresentamos.
+Esperamos que este relato possa dar alento a outras explorações semelhantes, e
+para isso colocamos à disposição todo o código-fonte que conduziu aos
+resultados que aqui apresentamos.
 
 
 ## Metodologia
