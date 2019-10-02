@@ -186,7 +186,7 @@ relevante estende-se a todas as autarquias.
 
 Esperamos que este relato possa dar alento a outras explorações semelhantes, e
 para isso [colocamos à disposição o
-código-fonte](https://github.com/Whiskas123/InvasaoAirbnbPorto) que conduziu
+código-fonte](https://github.com/Whiskas123/SarampoDoPorto) que conduziu
 aos resultados que aqui apresentamos.
 
 
