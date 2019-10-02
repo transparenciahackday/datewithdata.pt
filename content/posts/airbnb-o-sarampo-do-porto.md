@@ -143,8 +143,16 @@ anúncio na Airbnb.
 
 No entanto, encontramos 607 anúncios - 12% - em aparente situação irregular:
 
-- **530** anúncios que não apresentam esse número ou dizem estar isentos de registo
-- **77** anúncios que indicam um número correspondente não à morada do anúncio, mas a um registo fora da cidade
+<div class="boxes">
+  <div class="card">
+    <strong>530</strong>
+    <span>Anúncios que não apresentam esse número ou dizem estar isentos de registo</span>
+  </div>
+  <div class="card">
+    <strong>77</strong>
+    <span>Anúncios que indicam um número correspondente não à morada do anúncio, mas a um registo fora da cidade</span>
+  </div>
+</div>
 
 Outra informação importante presente no registo é a data de abertura
 do Alojamento Local. No entanto, há 650 ALs presentes na Airbnb que não
@@ -153,17 +161,6 @@ apresentam esse dado.
 Mais relevante ainda, existem 1350 anúncios que aparentam ter começado a operar 
 antes da data de abertura que apresentam no registo, uma vez que receberam 
 alguma avaliação (_review_) no site da Airbnb antes dessa data.
-
-<div class="boxes">
-  <div class="card">
-    <strong>607</strong>
-    <span>Anúncios que apresentam número de licença irregular</span>
-  </div>
-  <div class="card">
-    <strong>1350</strong>
-    <span>Anúncios que terão começado a operar antes da data de abertura no registo</span>
-  </div>
-</div>
 
 ## Para terminar
 
