@@ -7,32 +7,32 @@
 
 @font-face {
     font-family: 'victors-pixel-font';
-    src: url('../fonts/victor/victors.eot');
-    src: url('../fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/victor/victors.woff') format('woff'),
-         url('../fonts/victor/victors.ttf') format('truetype'),
-         url('../fonts/victor/victors.svg#victors-pixel-font') format('svg');
+    src: url('/theme/fonts/victor/victors.eot');
+    src: url('/theme/fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
+         url('/theme/fonts/victor/victors.woff') format('woff'),
+         url('/theme/fonts/victor/victors.ttf') format('truetype'),
+         url('/theme/fonts/victor/victors.svg#victors-pixel-font') format('svg');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 400;
     font-style: normal;
-    src: local('SinkinSans'), url('../fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
+    src: local('SinkinSans'), url('/theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 700;
     font-style: normal;
-    src: local('SinkinSans Bold'), url('../fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
+    src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 200;
     font-style: normal;
-    src: local('SinkinSans Light'), url('../fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
+    src: local('SinkinSans Light'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
 
@@ -40,35 +40,35 @@
     font-family: 'SinkinSans';
     font-weight: 600;
     font-style: normal;
-    src: local('SinkinSans Semibold'), url('../fonts/SinkinSans/SinkinSans-600SemiBold.ttf') format('truetype');
+    src: local('SinkinSans Semibold'), url('/theme/fonts/SinkinSans/SinkinSans-600SemiBold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 400;
     font-style: normal;
-    src: local('Libre Baskerville Regular'), url('../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+    src: local('Libre Baskerville Regular'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 400;
     font-style: italic;
-    src: local('Libre Baskerville Italic'), url('../fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
+    src: local('Libre Baskerville Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: normal;
-    src: local('Libre Baskerville Bold'), url('../fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
+    src: local('Libre Baskerville Bold'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: italic;
-    src: local('Libre Baskerville Bold Italic'), url('../fonts/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
+    src: local('Libre Baskerville Bold Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
 }
 
 body {
