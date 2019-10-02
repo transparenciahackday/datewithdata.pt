@@ -211,19 +211,16 @@ registados no Registo Nacional de Alojamento Local (RNAL).
 Cada AL tem um número de registo que deve ser indicado na página do
 anúncio na Airbnb.
 
-No entanto, encontramos 607 anúncios - 12% - em aparente situação irregular.
+No entanto, encontramos 607 anúncios - 12% - em aparente situação irregular:
 
-- XX (yy%) que não apresentam esse número
-- XX (yy%) que dizem estar isentos de registo
-- XX (yy%) que indicam um número que não existe no RNAL
-- XX (yy%) que indicam um número correspondente não à morada do anúncio, mas a um registo fora da cidade
+- **530** anúncios que não apresentam esse número ou dizem estar isentos de registo
+- **77** anúncios que indicam um número correspondente não à morada do anúncio, mas a um registo fora da cidade
 
 Outra informação importante presente no registo é a data de abertura
 do Alojamento Local. No entanto, há 650 ALs presentes na Airbnb que não
-apresentam esse dado, e mais relevante ainda, existem 1350 anúncios que
-à partida terão começado a operar antes da data de abertura que
-apresentam no registo, uma vez que receberam alguma avaliação antes
-dessa data.
+apresentam esse dado.
+
+Mais relevante ainda, existem 1350 anúncios que aparentam ter começado a operar antes da data de abertura que apresentam no registo, uma vez que receberam alguma avaliação (_review_) no site da Airbnb antes dessa data.
 
 ## Para terminar
 
