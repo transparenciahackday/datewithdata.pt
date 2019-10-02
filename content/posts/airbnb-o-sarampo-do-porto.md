@@ -177,7 +177,9 @@ um maior esclarecimento sobre o papel e as consequências do alastramento do
 Alojamento Local. Em particular, parece-nos fazer todo o sentido que a Câmara
 do Porto possa publicar as informações que detém sobre o Alojamento Local na
 cidade dentro do seu [portal de dados
-abertos](https://dadosabertos.cm-porto.pt/).
+abertos](https://dadosabertos.cm-porto.pt/). O registo de AL é obrigatório para
+a [coleta da taxa turística](http://www.cm-porto.pt/turismo/taxa-turistica_17),
+o que demonstra que estes dados existem.
 
 E se nos focamos no Porto, é porque somos de cá. É fundamental podermos olhar
 para outras localidades — particularmente as mais pequenas, longe do litoral
