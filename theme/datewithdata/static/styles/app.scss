@@ -7,32 +7,32 @@
 
 @font-face {
     font-family: 'victors-pixel-font';
-    src: url('/theme/fonts/victor/victors.eot');
-    src: url('/theme/fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
-         url('/theme/fonts/victor/victors.woff') format('woff'),
-         url('/theme/fonts/victor/victors.ttf') format('truetype'),
-         url('/theme/fonts/victor/victors.svg#victors-pixel-font') format('svg');
+    src: url('../fonts/victor/victors.eot');
+    src: url('../fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/victor/victors.woff') format('woff'),
+         url('../fonts/victor/victors.ttf') format('truetype'),
+         url('../fonts/victor/victors.svg#victors-pixel-font') format('svg');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 400;
     font-style: normal;
-    src: local('SinkinSans'), url('/theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
+    src: local('SinkinSans'), url('../fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 700;
     font-style: normal;
-    src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
+    src: local('SinkinSans Bold'), url('../fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 200;
     font-style: normal;
-    src: local('SinkinSans Light'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
+    src: local('SinkinSans Light'), url('../fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
 
@@ -40,35 +40,35 @@
     font-family: 'SinkinSans';
     font-weight: 600;
     font-style: normal;
-    src: local('SinkinSans Semibold'), url('/theme/fonts/SinkinSans/SinkinSans-600SemiBold.ttf') format('truetype');
+    src: local('SinkinSans Semibold'), url('../fonts/SinkinSans/SinkinSans-600SemiBold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 400;
     font-style: normal;
-    src: local('Libre Baskerville Regular'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+    src: local('Libre Baskerville Regular'), url('../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 400;
     font-style: italic;
-    src: local('Libre Baskerville Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
+    src: local('Libre Baskerville Italic'), url('../fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: normal;
-    src: local('Libre Baskerville Bold'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
+    src: local('Libre Baskerville Bold'), url('../fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: italic;
-    src: local('Libre Baskerville Bold Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
+    src: local('Libre Baskerville Bold Italic'), url('../fonts/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
 }
 
 body {
@@ -133,12 +133,12 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 }
 
 .hero { background: $dwd-lightgray; }
-.next-dwd { background: $dwd-red url('/images/transition-04.png') repeat-x 0 0; }
-.projects { background: $dwd-lightgray url('/images/transition-01.png') repeat-x 0 0; }
-.collaborate { background: $dwd-blue url('/images/transition-02.png') repeat-x 0 0; }
-.about { background: $dwd-lightgray url('/images/transition-03.png') repeat-x 0 0; }
-.supportedBy { background: $dwd-red url('/images/transition-04.png') repeat-x 0 0; }
-.copyright { background: $dwd-lightgray url('/images/transition-01.png') repeat-x 0 0; }
+.next-dwd { background: $dwd-red url('../images/transition-04.png') repeat-x 0 0; }
+.projects { background: $dwd-lightgray url('../images/transition-01.png') repeat-x 0 0; }
+.collaborate { background: $dwd-blue url('../images/transition-02.png') repeat-x 0 0; }
+.about { background: $dwd-lightgray url('../images/transition-03.png') repeat-x 0 0; }
+.supportedBy { background: $dwd-red url('../images/transition-04.png') repeat-x 0 0; }
+.copyright { background: $dwd-lightgray url('../images/transition-01.png') repeat-x 0 0; }
 
 .next-dwd a,
 .supportedBy a { color: #fff; }
@@ -389,8 +389,10 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     font-style: normal;
 }
 
-.hentry .entry-content blockquote {
+.hentry .entry-content blockquote,
+.hentry .entry-content blockquote > * {
 	margin-left: 1.5rem;
+    color: rgba($dwd-darkblue, 0.5);
     font-size: 0.85rem;
     font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
     font-weight: 600;
@@ -400,11 +402,10 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     width: 100%;
 }
 
-.hentry.longform .entry-content canvas {
-    margin-top: 1rem;
-    margin-bottom: 2rem;
+.hentry.longform .entry-content .chartjs-render-monitor {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
 }
-
 
 .hentry.longform .entry-content .boxes {
     display: grid;
@@ -414,12 +415,6 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     align-items: center;
     margin-top: 0.5rem;
     margin-bottom: 1.5rem;
-}
-
-.hentry .entry-content .myChart {
-    font-size: 0.85rem;
-    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
-    line-height: 1.6;
 }
 
 .hentry .entry-content .boxes .card {
@@ -447,8 +442,8 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 }
 
 .hentry .entry-content .boxes .card small {
-    font-size: 0.875rem;
     display: block;
+    font-size: 0.75rem;
 }
 
 .hentry .entry-content .boxes .card em {
@@ -466,6 +461,10 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     margin-top: 0.25rem;
 }
 
+.hentry .main-image span.caption, {
+    text-align: right;
+}
+
 .hentry .entry-content span.caption {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
