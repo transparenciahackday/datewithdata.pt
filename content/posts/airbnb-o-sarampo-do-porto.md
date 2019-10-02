@@ -40,7 +40,7 @@ A rua com mais alojamentos é a de Santa Catarina, com 179,
 seguindo-se a Rua da Alegria e a Rua do Almada com cerca de 130 cada.
 
 
-<canvas id="myChart" width="400" height="100"></canvas>
+<canvas id="myChart" width="600" height="300"></canvas>
 
 
 ## Quartos para alugar são uma pequena minoria
@@ -56,7 +56,7 @@ Na verdade, a escala do negócio é outra. Os alugueres de quartos estão por l�
 mas o peso de anúncios referentes a alojamentos ou quartos partilhados é
 muitíssimo reduzida - pouco mais de 10%. 
 
-<canvas id="myChart2" width="400" height="100"></canvas>
+<canvas id="myChart2" width="600" height="300"></canvas>
 
 A enorme maioria dos anúncios referem-se a apartamentos completos, casas que
 ficam vazias assim que os turistas as deixam.
@@ -77,7 +77,7 @@ Existem ainda utilizadores com números particularmente altos de
 anúncios publicados. Ao averiguar os nomes desses utilizadores, podemos
 constatar que a maioria são empresas de gestão de AL:
 
-<canvas id="myChart3" width="400" height="100"></canvas>
+<canvas id="myChart3" width="600" height="300"></canvas>
 
 O sucesso deste tipo de mediação dá-nos um bom indício da dimensão
 do fenómeno: não estamos a falar apenas de um nicho "premium" dentro

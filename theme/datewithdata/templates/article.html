@@ -57,6 +57,7 @@
                             {% for author in article.authors %}
                                 por <strong class="author">{{ author }}</strong>
                             {% endfor %}
+                            <span>Edição de {{ article.editor }}</span>
                             <time class="published" datetime="{{ article.date.isoformat() }}">
                             {{ article.date|strftime("%d de %B de %Y") }}
                             </time>  

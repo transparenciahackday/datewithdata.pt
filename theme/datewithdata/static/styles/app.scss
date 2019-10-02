@@ -299,15 +299,6 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     line-height: 1.4;
 }
 
-.hentry .main-image span.caption {
-    color: rgba($dwd-darkblue, 0.6);
-    font-size: 0.75rem;
-    text-align: right;
-    display: block;
-    margin-top: 0.25rem;
-    margin-bottom: 1rem;
-}
-
 .hentry.longform header {
     text-align: center;
     padding-top: 3rem;
@@ -355,19 +346,28 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     border-top: 0;
     padding-top: 0;
     font-size: 0.75rem;
-    font-weight: 600;
 }
 
 .hentry.longform .date .author {
     opacity: 1;
     font-size: 0.875rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.hentry.longform .date span {
+    display: block;
+    line-height: 1.4;
+    margin-top: 0.5rem;
 }
 
 .hentry.longform .post-info time {
     display: block;
     font-size: 0.65rem;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
+    margin-top: 0.5rem;
 }
 
 .hentry .entry-content {
@@ -400,7 +400,7 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     width: 100%;
 }
 
-.hentry.longform .main-image canvas {
+.hentry.longform .entry-content canvas {
     margin-top: 1rem;
     margin-bottom: 2rem;
 }
@@ -456,15 +456,16 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     font-weight: 700;
 }
 
+.hentry .main-image span.caption,
 .hentry .entry-content span.caption {
-    color: rgba($dwd-darkblue, 0.6);
-    font-size: 0.875rem;
-    font-weight: 700;
+    color: rgba($dwd-darkblue, 0.7);
+    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
     display: block;
     margin-top: 0.25rem;
-    margin-bottom: 1rem;
 }
 
-
-
-
+.hentry .entry-content span.caption {
+    margin-bottom: 1rem;
+}

@@ -10,9 +10,9 @@ var myChart = new Chart(ctx, {
       datasets: [{
           label: 'Número de Anúncios',
           data: [179,130,126,116,105,101,98,97,94],
-          backgroundColor: 
-              'rgba(255, 90, 95, 1)'
-          
+          backgroundColor: 'rgba(255, 105, 89, 1)',
+          borderWidth: 1
+          //'rgba(255, 90, 95, 1)'          
       }]
   },
   options: {
@@ -22,6 +22,10 @@ var myChart = new Chart(ctx, {
                   beginAtZero: true
               }
           }]
+      },
+      responsive: true,
+      legend: {
+	      position: 'bottom',
       }
   }
 });
@@ -37,7 +41,7 @@ var myChart = new Chart(ctx, {
         label: 'Número de Alojamentos',
         data: [4002,494,14],
         backgroundColor: [
-          'rgba(255, 90, 95, 1)',
+          'rgba(255, 105, 89, 1)',
           'rgba(0,166,153,1)',
           'rgba(252,100,45,1)'
         ]
@@ -45,7 +49,10 @@ var myChart = new Chart(ctx, {
       }]
     },
     options: {
-
+      responsive: true,
+      legend: {
+	      position: 'bottom',
+      }
     }
   });
 
@@ -73,6 +80,10 @@ var myChart = new Chart(ctx, {
             beginAtZero: true
           }
         }]
+      },
+      responsive: true,
+      legend: {
+	      position: 'bottom',
       }
     }
   });
