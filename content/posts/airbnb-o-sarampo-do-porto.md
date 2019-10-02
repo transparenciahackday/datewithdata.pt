@@ -159,23 +159,29 @@ contagens.
 Consultar a lista de serviços de uma destas empresas dá-nos uma boa
 pista sobre o tipo de proprietário que a elas recorre:
 
-> Proprietários:
->   - Estudo de rentabilidade estimada do seu imóvel;
->   - Gestão do seu imóvel 365 dias por ano (check-in, check-out, gestão
->     de reservas e optimização de preços, limpeza, apoio aos hóspedes,
->     etc.);
->   - Comunicação forte e criativa. Criação de conteúdo fotográfico e
->     videográfico para posterior divulgação nos vários canais de
->     comunicação (redes sociais, website e plataformas digitais).
->   Objectivo: Aumentar a sua taxa de ocupação e consequente volume de facturação.
-> 
->   Hóspedes:
->   - Recepção de boas-vindas à sua estadia;
->   - Limpeza;
->   - Apoio durante toda a estadia (compras no supermercado, sugestão de
->     restaurantes, programas especiais, actividades a realizar, etc.);
->   - Serviço de guia e transfers exclusivos;
->   Objectivo: Proporcionar uma estadia especial e inesquecível a todos os que visitam os nossos imóveis.
+<blockquote>
+<p>Proprietários:</p>
+<ul>
+<li>Estudo de rentabilidade estimada do seu imóvel;</li>
+<li>Gestão do seu imóvel 365 dias por ano (check-in, check-out, gestão
+de reservas e optimização de preços, limpeza, apoio aos hóspedes,
+etc.);</li>
+<li>Comunicação forte e criativa. Criação de conteúdo fotográfico e
+videográfico para posterior divulgação nos vários canais de
+comunicação (redes sociais, website e plataformas digitais).</li>
+</ul>
+<p>Objectivo: Aumentar a sua taxa de ocupação e consequente volume de facturação.</p>
+
+<p>Hóspedes:</p>
+<ul>
+<li>Recepção de boas-vindas à sua estadia;</li>
+<li>Limpeza;</li>
+<li>Apoio durante toda a estadia (compras no supermercado, sugestão de
+>     restaurantes, programas especiais, actividades a realizar, etc.);</li>
+<li>Serviço de guia e transfers exclusivos;</li>
+</ul>
+<p>Objectivo: Proporcionar uma estadia especial e inesquecível a todos os que visitam os nossos imóveis.</p>
+</blockquote>
 
 _Fonte: Página de Serviços do site da [Liiiving](https://www.liiiving.pt/pt/Servicos)._
 
