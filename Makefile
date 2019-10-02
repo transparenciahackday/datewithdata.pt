@@ -85,12 +85,12 @@ endif
 publish:
 	$(LOADVENV); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	./lib/sass --style compressed --no-source-map --quiet theme/datewithdata/static/styles/app.scss output/theme/styles/app.min.css
+	cp content/extrascripts/*.js output/theme/scripts/
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 deploy: rsync_upload   
-	cp content/extrascripts/*.js output/theme/scripts/
 
 rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --cvs-exclude --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
