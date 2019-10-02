@@ -1,3 +1,8 @@
+
+Chart.defaults.global.defaultFontColor = '#333844';
+Chart.defaults.global.defaultFontFamily = 'SinkinSans';
+Chart.defaults.global.defaultFontSize = 10;
+
 // Ruas com mais alojamentos
 
 var ctx = document.getElementById('myChart').getContext('2d');
@@ -11,8 +16,7 @@ var myChart = new Chart(ctx, {
           label: 'Número de Anúncios',
           data: [179,130,126,116,105,101,98,97,94],
           backgroundColor: 'rgba(255, 105, 89, 1)',
-          borderWidth: 1
-          //'rgba(255, 90, 95, 1)'          
+          borderWidth: 1         
       }]
   },
   options: {
@@ -21,11 +25,19 @@ var myChart = new Chart(ctx, {
               ticks: {
                   beginAtZero: true
               }
+          }],
+          xAxes: [{
+              ticks: {
+                  beginAtZero: true
+              }
           }]
       },
       responsive: true,
       legend: {
 	      position: 'bottom',
+          labels: {
+            fontSize: 13
+          },
       }
   }
 });
@@ -42,7 +54,7 @@ var myChart = new Chart(ctx, {
         data: [4002,494,14],
         backgroundColor: [
           'rgba(255, 105, 89, 1)',
-          'rgba(0,166,153,1)',
+          'rgba(24, 235, 198, 1)',
           'rgba(252,100,45,1)'
         ]
 
@@ -52,6 +64,9 @@ var myChart = new Chart(ctx, {
       responsive: true,
       legend: {
 	      position: 'bottom',
+	      labels: {
+            fontSize: 13
+          },
       }
     }
   });
@@ -70,7 +85,7 @@ var myChart = new Chart(ctx, {
         label: 'Número de Anúncios',
         data: [53,49,45,42,39,35,28,28,27,26],
         backgroundColor: 
-        'rgba(0, 166, 153, 1)'
+        'rgba(24, 235, 198, 1)'
       }]
     },
     options: {
@@ -79,11 +94,19 @@ var myChart = new Chart(ctx, {
           ticks: {
             beginAtZero: true
           }
-        }]
+        }],
+          xAxes: [{
+              ticks: {
+                  beginAtZero: true
+              }
+          }]
       },
       responsive: true,
       legend: {
 	      position: 'bottom',
+          labels: {
+            fontSize: 13
+          },
       }
     }
   });

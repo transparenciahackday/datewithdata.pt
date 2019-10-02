@@ -150,6 +150,17 @@ apresentam esse dado.
 
 Mais relevante ainda, existem 1350 anúncios que aparentam ter começado a operar antes da data de abertura que apresentam no registo, uma vez que receberam alguma avaliação (_review_) no site da Airbnb antes dessa data.
 
+
+<div class="boxes">
+  <div class="card">
+    <strong>607</strong>
+    <span>Anúncios que apresentam número de licença irregular</span>
+  </div>
+  <div class="card"><strong>1350</strong>
+    <span>Anúncios que terão começado a operar antes da data de abertura no registo</span>
+  </div>
+</div>
+
 ## Para terminar
 
 TODO: isto são só pontos soltos e ainda me falta cortar e ligar partes
