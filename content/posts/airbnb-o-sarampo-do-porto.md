@@ -194,8 +194,7 @@ resultados que aqui apresentamos.
 
 Os números presentes foram determinados a partir do cruzamento de três fontes de dados:
 
-- Inside AirBnb
-- Registo Nacional do Alojamento Local
-- Códigos Postais
+- [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+- [Registo Nacional do Alojamento Local](https://rnt.turismodeportugal.pt/RNAL/)
+- [Códigos Postais](http://centraldedados.pt/codigos_postais/)
 
-TODO: Links de código fonte
