@@ -1,6 +1,6 @@
 
 Chart.defaults.global.defaultFontColor = '#333844';
-Chart.defaults.global.defaultFontFamily = 'SinkinSans';
+Chart.defaults.global.defaultFontFamily = '"SinkinSans", Helvetica, sans-serif';
 Chart.defaults.global.defaultFontSize = 11;
 
 // Ruas com mais alojamentos
