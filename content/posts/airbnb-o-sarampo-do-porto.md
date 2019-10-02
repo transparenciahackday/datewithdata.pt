@@ -22,11 +22,11 @@ quase dois terços - localizados no centro histórico da cidade.
 <div class="boxes">
   <div class="card">
     <strong>5115</strong>
-    Anuncios Airbnb no concelho do Porto
+    Anúncios Airbnb no concelho do Porto
     <small> <em>90%</em> dos anúncios de AL online</small>
   </div>
   <div class="card"><strong>3181</strong>
-    Anuncios Airbnb no centro histórico
+    Anúncios Airbnb no centro histórico
     <small> <em>62%</em> dos anúncios no Porto</small>
   </div>
 </div>
@@ -76,9 +76,9 @@ arrendar um quartinho vazio e, com isso, ganhar algum dinheiro extra.
 <img src="https://i.imgur.com/VdpqdAt.png">
 <span class="caption">Marketing presente na página da Airbnb</span>
 
-Na verdade, a escala do negócio é outra. A economia de partilha existe,
-mas o peso de anúncios referentes a alojamentos ou quartos partilhados
-é muitíssimo reduzida - pouco mais de 10%. 
+Na verdade, a escala do negócio é outra. Os alugueres de quartos estão por lá,
+mas o peso de anúncios referentes a alojamentos ou quartos partilhados é
+muitíssimo reduzida - pouco mais de 10%. 
 
 <canvas id="myChart2" width="400" height="100"></canvas>
 <script>
@@ -104,8 +104,8 @@ mas o peso de anúncios referentes a alojamentos ou quartos partilhados
   });
 </script>
 
-A esmagadora maioria dos anúncios referem-se a apartamentos
-completos, casas que ficam vazias assim que os turistas as deixam.
+A enorme maioria dos anúncios referem-se a apartamentos completos, casas que
+ficam vazias assim que os turistas as deixam.
 
 ## Objetivo: "Volume de faturação"
 
