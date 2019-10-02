@@ -30,7 +30,7 @@ quase dois terços - localizados no centro histórico da cidade.
   <div class="card">
     <strong>3181</strong>
     <span>Anúncios Airbnb no centro histórico</span>
-    <small> <em>90%</em> dos anúncios de AL online</small>
+    <small> <em>62%</em> dos anúncios no Porto</small>
   </div>
 </div>
 
