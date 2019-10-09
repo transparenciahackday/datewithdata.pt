@@ -31,9 +31,8 @@
         {%  if 'Ensaio' in article.tags %}
             <script src="{{ article.externalscripts1 }}"></script>
             
-            <!-- Nomad URL Preview -->
-            <img class="hidden" src="{{ article.image }}" alt="{{ article.title }}">
-
+            <!-- For nomad URL preview -->
+            <img src="{{ article.shareimage }}" class="hide">
             
             <article class="hentry longform">
                 <div class="row expanded">
