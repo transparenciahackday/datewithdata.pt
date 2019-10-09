@@ -10,7 +10,6 @@
   <meta property="og:description" content="{{ article.summary|striptags }}">
   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
   <meta property="og:image" content="{{ SITEURL }}/theme/images/cover-800x500.png">
-  <meta property="fb:app_id" content="297433590661569">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ SITENAME }} — {{ article.title }}">
@@ -29,11 +28,13 @@
 
 {% block content %}
 
-
-
-
         {%  if 'Ensaio' in article.tags %}
             <script src="{{ article.externalscripts1 }}"></script>
+            
+            <!-- Nomad URL Preview -->
+            <img class="hidden" src="{{ article.image }}" alt="{{ article.title }}">
+
+            
             <article class="hentry longform">
                 <div class="row expanded">
                     <div class="main-image">
