@@ -1,7 +1,7 @@
 Title: Airbnb — o sarampo do Porto
 Date: 2019-09-28 10:00
 Author: João Bernardo Sousa
-Editor: Ana Isabel Carvalho, João Antunes & Ricardo Lafuente
+Editor: Ana Isabel Carvalho & Ricardo Lafuente
 Category: Blog
 Tags: Ensaio
 Slug: airbnb-o-sarampo-do-porto
@@ -116,8 +116,7 @@ comunicação (redes sociais, website e plataformas digitais).</li>
 <ul>
 <li>Recepção de boas-vindas à sua estadia;</li>
 <li>Limpeza;</li>
-<li>Apoio durante toda a estadia (compras no supermercado, sugestão de
->     restaurantes, programas especiais, actividades a realizar, etc.);</li>
+<li>Apoio durante toda a estadia (compras no supermercado, sugestão de restaurantes, programas especiais, actividades a realizar, etc.);</li>
 <li>Serviço de guia e transfers exclusivos;</li>
 </ul>
 <p>Objectivo: Proporcionar uma estadia especial e inesquecível a todos os que visitam os nossos imóveis.</p>
