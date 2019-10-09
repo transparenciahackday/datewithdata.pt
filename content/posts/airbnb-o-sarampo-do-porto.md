@@ -1,11 +1,11 @@
 Title: Airbnb — o sarampo do Porto
-Date: 2019-09-28 10:00
+Date: 2019-10-09 13:00
 Author: João Bernardo Sousa
 Editor: Ana Isabel Carvalho & Ricardo Lafuente
 Category: Blog
 Tags: Ensaio
 Slug: airbnb-o-sarampo-do-porto
-Status: draft
+Status: published
 Image:
 Openingimage: <iframe src="https://whiskas123.carto.com/builder/9651d97d-a9f4-446c-854d-8e40f3b43fe8/embed" width="100%" height="520" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 Openingcaption: Novos alojamentos por data de início de funcionamento
