@@ -14,12 +14,14 @@ Externalscripts1: https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js
 
 A plataforma de alojamento local Airbnb chegou ao Porto em 2009 e
 desde essa altura não parou de crescer. É de longe a plataforma mais
-popular do seu género, uma vez que 90% dos AL anunciados pela internet
-nesta cidade estão no Airbnb.
+popular do seu género, uma vez que 90% dos AL portuenses que têm anúncios
+publicados na internet estão no Airbnb.
 
-Em junho de 2019 contavam-se 5115 alojamentos ativos - ou seja, que
-receberam gente no ano de 2019 - no concelho do Porto, estando 3181 -
-quase dois terços - localizados no centro histórico da cidade.
+Decidimos olhar para os dados que existem à disposição. Concentrámo-nos nos
+alojamentos que tiveram _reviews_ no ano de 2019. E em junho de 2019
+contavam-se 5115 alojamentos ativos - ou seja, que receberam gente no ano de
+2019 - no concelho do Porto, estando 3181 - quase dois terços - localizados no
+centro histórico da cidade.
 
 <div class="boxes">
   <div class="card">
@@ -34,6 +36,14 @@ quase dois terços - localizados no centro histórico da cidade.
   </div>
 </div>
 
+Esta é uma realidade em evolução constante: por exemplo, se olharmos para os
+números de agosto no Inside Airbnb, já aparecem 7092 alojamentos com _reviews_
+em 2019 -- facilmente explicáveis pelo turismo de verão.
+
+E atualmente, o Registo Nacional de Alojamento Local regista 8317
+propriedades no concelho do Porto. Ou seja, o universo dos Alojamentos Locais
+no Porto vai bem para além dos números de alojamentos ativos em 2019 que aqui
+analisamos.
 
 ## O top 10 das ruas com alojamentos no Airbnb
 
