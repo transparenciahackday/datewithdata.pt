@@ -2,6 +2,7 @@ Title: OKcafé #1
 Date: 2017-06-15 15:04
 Author: admin
 Category: Blog
+Tags: OKcafe
 Slug: okcafe-1
 Status: published
 image: http://www.transparenciahackday.org/wp-content/uploads/2017/06/banner-okcafe-01.png

@@ -1,7 +1,8 @@
 Title: 1 de outubro: Date With Data #12
 Date: 2016-09-26 18:38
 Author: admin
-Category: Blog, Newsletter
+Category: Blog
+Tags: Newsletter
 Tags: datewithdata
 Slug: 1-de-outubro-date-with-data-12
 Status: published

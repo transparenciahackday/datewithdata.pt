@@ -2,6 +2,7 @@ Title: Date With Data #31: Date With Wikidata!
 Date: 2018-10-30 15:32
 Author: joao
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata, Wikidata
 Slug: date-with-data-31-date-with-wikidata
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/10/dwd-novembro2018.png

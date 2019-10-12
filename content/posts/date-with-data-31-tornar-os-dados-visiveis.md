@@ -2,6 +2,7 @@ Title: Evento Cancelado: Date With Data #31: Tornar os dados visíveis
 Date: 2018-10-18 14:29
 Author: joao
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-31-tornar-os-dados-visiveis
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/09/datewithdata_31.jpg

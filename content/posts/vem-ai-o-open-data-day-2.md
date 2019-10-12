@@ -2,7 +2,7 @@ Title: Vem aí o Open Data Day!
 Date: 2017-02-08 12:35
 Author: admin
 Category: Blog
-Tags: opendata, opendataday
+Tags: Opendataday, Opendata
 Slug: vem-ai-o-open-data-day-2
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/02/Opendataday-banner-1024x513.jpeg

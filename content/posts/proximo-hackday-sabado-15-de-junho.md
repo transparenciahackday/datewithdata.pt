@@ -2,7 +2,7 @@ Title: Próximo Hackday: sábado, 15 de junho
 Date: 2013-06-13 22:03
 Author: Ana
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: proximo-hackday-sabado-15-de-junho
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2013/06/15junho-cartaz.png)

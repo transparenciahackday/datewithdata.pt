@@ -2,7 +2,7 @@ Title: Open Data Day 2015: o rescaldo!
 Date: 2015-03-01 22:47
 Author: admin
 Category: Blog
-Tags: central de dados, opendataday
+Tags: Central de dados, Opendataday
 Slug: open-data-day-2015-o-rescaldo
 Status: published
 
@@ -18,15 +18,15 @@ Para abrir o dia, começámos com o workshop dedicado ao tema *linked data* (dad
 -   Qual é o panorama nos Dados Abertos desde 2000 até hoje? E nos Dados em geral?
 -   O que gostávamos que acontecesse nos próximos 15 anos?
 
-![](https://farm9.staticflickr.com/8590/16013097604_113c187a71_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8590/16013097604_113c187a71_z_d.jpg)
 
 Em grupos, os post-its saíram a voar para os flipboards com ideias, sugestões e palpites sobre o que existe e sobre o que aí vem. As implicações do tema “dados” ramificaram-se para assuntos como a privacidade online, o envolvimento cidadão na governação, o estonteante ritmo da evolução tecnológica e, sobretudo, uma incerteza entusiasmada quanto a um futuro que se sabe promissor mas, também, repleto de dilemas.
 
-![](https://farm9.staticflickr.com/8592/16634178921_cb0a1c7851_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8592/16634178921_cb0a1c7851_z_d.jpg)
 
 Daí, partiu-se para uma concretização sobre a natureza, valor e potencial dos dados interligados. Exploraram-se as tecnologias específicas que vão dar que falar nos próximos tempos, com uma introdução teórica ao RDF e exercícios práticos na forma de um registo pessoal em formato FOAF e algumas experiências com SPARQL.
 
-![](https://farm9.staticflickr.com/8635/16635248875_6b4133ecc0_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8635/16635248875_6b4133ecc0_z_d.jpg)
 
 Finalmente, com os conhecimentos obtidos, voltou-se ao domínio da especulação produtiva com o desafio de responder, novamente em grupos, a quatro cenários onde os dados interligados poderão ser um elemento potenciador: a gestão e compreensão da afluência às unidades de urgência médica, o poder de fiscalização cidadã dos dados públicos, a idealização de novos planos de negócio para PME, e a forma possível para um portal europeu de dados abertos em 2020.
 
@@ -37,7 +37,7 @@ Os slides do workshop estão [disponíveis](http://transparenciahackday.org/file
 Totonome
 --------
 
-![](https://farm9.staticflickr.com/8641/16015540893_3c09b67bf2_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8641/16015540893_3c09b67bf2_z_d.jpg)
 
 O [Tiago Vieira](http://tiagovieira.pt/), coder residente do Transparência Hackday, abriu a tarde para mostrar a mais recente aventura do nosso coletivo com bases de dados onomásticas, materializada no projeto Totonome -- um jogo para testar os palpites de cada pessoa sobre que nomes foram ou não aceites pelo [IRN](http://www.irn.mj.pt/IRN/sections/inicio) como aceitáveis para dar a um recém-nascido em Portugal. Os slides desta apresentação foram [postos à disposição pelo Tiago](http://tiagovieira.pt/opendata "Slides da apresentação do Totonome").
 
@@ -45,22 +45,22 @@ Foi explicada a maior dificuldade no arranque de projetos de apps ou sites que u
 
 A partir daí, foi criado um protótipo em 3 horas com recurso ao [AngularJS](https://angularjs.org "AngularJS") para testar a ideia que parecia mais adequada para uma primeira experiência: um jogo que nos mostra dois nomes, um que foi aceite no IRN e outro que não foi. O objetivo é encontrar o nome que foi aceite.
 
-![2015-03-01-180857\_1440x900\_scrot](http://www.transparenciahackday.org/wp-content/uploads/2015/03/2015-03-01-180857_1440x900_scrot.png){.alignleft .wp-image-874 width="640" height="400"}
+![2015-03-01-180857\_1440x900\_scrot](http://www.transparenciahackday.org/wp-content/uploads/2015/03/2015-03-01-180857_1440x900_scrot.png)
 
-Tal como demonstrado pelo Tiago, [o jogo é surpreendentemente envolvente](http://transparenciahackday.org/totonome "Totonome"); bastou uma pequena demo para nos vermos todos a mandar os nossos palpites num jogo coletivo de adivinhação sobre quais eram os nomes mais plausíveis.
+Tal como demonstrado pelo Tiago, [o jogo é surpreendentemente envolvente](http://totonome.transparenciahackday.org/ "Totonome"); bastou uma pequena demo para nos vermos todos a mandar os nossos palpites num jogo coletivo de adivinhação sobre quais eram os nomes mais plausíveis.
 
 Foram também enumerados os próximos passos para o Totonome: assentar num interface simples, bonito e funcional; melhorar o feedback visual dos resultados, que não é ainda ideal; e facilitar a partilha dos resultados em redes sociais.
 
 Eduardo Nunes
 -------------
 
-![](https://farm9.staticflickr.com/8641/16634649312_de893cd934_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8641/16634649312_de893cd934_z_d.jpg)
 
 O [Eduardo Nunes](http://eduardonunes.me "Eduardo Nunes") é um designer baseado em Coimbra, dividindo a sua atenção pela docência na Universidade de Coimbra e pela atividade como designer cross-media.
 
 Foi-nos dada uma visão geral do percurso do Eduardo pelos ofícios gráficos. No seu percurso, encontrámos experiências de [visualização do tempo e dos hábitos](http://eduardonunes.me/#project.php?id=88days "88 days"), numa manifestação premonitória do *quantified self*.
 
-![88days](http://www.transparenciahackday.org/wp-content/uploads/2015/03/88days-e1425233549444.jpg){.alignleft .wp-image-875 width="640" height="427"}
+![88days](http://www.transparenciahackday.org/wp-content/uploads/2015/03/88days-e1425233549444.jpg)
 
 A seguir, vimos alguns exemplos da vertente de animação 3D. Foi mostrada uma fantástica [visualização do Orçamento de Estado](http://eduardonunes.me/#project.php?id=budget "Orçamento"), num estilo idiossincrático e revelador.
 
@@ -77,7 +77,7 @@ No entanto, evidenciaram-se os desafios de sustentar projetos independentes como
 Central de Dados
 ----------------
 
-![](https://farm9.staticflickr.com/8573/16635294545_56874aa318_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8573/16635294545_56874aa318_z_d.jpg)
 
 Na última apresentação do dia, [a Ana Isabel Carvalho e o Ricardo Lafuente](http://jplusplus.pt "Journalism++") mostraram o estado atual do seu trabalho na Central de Dados, uma plataforma de distribuição de datasets em formatos standard.
 
@@ -92,7 +92,7 @@ A Central de Dados é a solução proposta para o caso específico do Transparê
 Conclusão
 ---------
 
-![](https://farm9.staticflickr.com/8577/16609343446_5af641015d_z_d.jpg){width="640" height="612"}
+![](https://farm9.staticflickr.com/8577/16609343446_5af641015d_z_d.jpg)
 
 O dia foi pontuado com momentos de entusiasmado networking por entre coffee breaks e almoço -- apercebemo-nos da importância destes momentos na condução de um evento aberto ao público, uma vez que um dos objetivos principais era aproximar e pôr em contato várias pessoas interessadas pelo tema dos dados abertos.
 
@@ -100,7 +100,7 @@ O dia foi pontuado com momentos de entusiasmado networking por entre coffee brea
 
 Podemos afirmar que foi um sucesso: com a maior participação de um hackday até ao momento: 23 pessoas, com mais de 1/3 de mulheres. Este sucesso só foi alcançável graças ao fundamental e generoso apoio da [Open Knowledge](http://okfn.org "Open Knowledge"), da [ADDICT](http://addict.pt "ADDiCT") e da [UPTEC](http://uptec.up.pt). Faz assim sentido pontuar este relato com um profundo agradecimento a estas entidades, bem como a todas as pessoas que participaram no Open Data Day, para juntos integrarmos a nossa vontade comum de trocar impressões e opiniões sobre o que foi e pode ser feito para avançar as agendas dos dados abertos, tecnologia livre e cidadania envolvida.
 
-![](https://farm9.staticflickr.com/8612/16635298705_04d112e1e7_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8612/16635298705_04d112e1e7_z_d.jpg)
 
 Todas as fotos do dia (incluindo as deste post) foram feitas pela Mariana Santos e estão disponíveis no [Flickr do Transparência Hackday](https://www.flickr.com/photos/130761347@N02/with/16634649312/).
 
@@ -121,15 +121,15 @@ We started the day with a workshop around the subject of linked data, led by [Jo
 -   What does the open data landscape look like since 2000 until today?
 -   What will we see happen in the next 15 years?
 
-![](https://farm9.staticflickr.com/8590/16013097604_113c187a71_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8590/16013097604_113c187a71_z_d.jpg)
 
 Divided in groups, people got the post-its flying towards the flipboards with ideas, hunches and insights about what's there and what's coming. The implications of the broad theme of "data" branched to issues such as online privacy, citizen engagement in governance, the dizzying pace of technological progress and, overall, an excited uncertainty about a future that looks both promising and packed with dilemmas.
 
-![](https://farm9.staticflickr.com/8592/16634178921_cb0a1c7851_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8592/16634178921_cb0a1c7851_z_d.jpg)
 
 From there, we went on to a more specific account of the nature, value and potential of linked data. This was followed by an exposé of existing technologies with an introduction to RDF and practical exercises: a personal FOAF record and a set of SPARQL experiments.
 
-![](https://farm9.staticflickr.com/8635/16635248875_6b4133ecc0_z_d.jpg){.alignnone width="640" height="427"}
+![](https://farm9.staticflickr.com/8635/16635248875_6b4133ecc0_z_d.jpg)
 
 Finally, with the knowledge obtained, we went back to productive speculation with the challenge of providing answers, again in groups, to 4 scenarios where linked data might help:
 

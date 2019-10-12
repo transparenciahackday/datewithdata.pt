@@ -2,7 +2,7 @@ Title: Este Sábado: Date With Data!
 Date: 2015-09-09 22:34
 Author: Ana
 Category: Blog
-Tags: datewithdata, dwd
+Tags: Datewithdata
 Slug: este-sabado-date-with-data
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/09/datewithdata-set2015-bigger.png

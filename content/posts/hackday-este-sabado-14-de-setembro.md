@@ -2,6 +2,7 @@ Title: Hackday este sábado, 14 de setembro!
 Date: 2013-09-12 17:07
 Author: admin
 Category: Blog
+Tags: Hackday
 Slug: hackday-este-sabado-14-de-setembro
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2013/09/cartaz-web-1024x827.png

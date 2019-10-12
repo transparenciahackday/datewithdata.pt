@@ -2,6 +2,7 @@ Title: Sobre Hackathons e Solucionismo
 Date: 2013-02-20 16:34
 Author: saritamoreira
 Category: Blog
+Tags; Hackathons
 Slug: sobre-hackathons-e-solucionismo
 Status: published
 

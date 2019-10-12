@@ -2,6 +2,7 @@ Title: Vem daí para o primeiro Transparência Hackday em Lisboa!The first Trans
 Date: 2012-11-28 12:20
 Author: saritamoreira
 Category: Blog
+Tags: Hackday, Lisboa
 Slug: vem-dai-para-o-primeiro-transparencia-hackday-em-lisboa
 Status: published
 

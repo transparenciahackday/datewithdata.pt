@@ -2,6 +2,7 @@ Title: Hackday: sessão #13
 Date: 2012-05-28 14:31
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-sessao-13
 Status: published
 

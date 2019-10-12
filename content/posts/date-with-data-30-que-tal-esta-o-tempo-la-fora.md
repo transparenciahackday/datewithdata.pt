@@ -2,6 +2,7 @@ Title: Date With Data #30: Que tal está o tempo lá fora?
 Date: 2018-09-06 13:14
 Author: joao
 Category: Blog
+Tags; Newsletter, Datewithdata, Opendata, Tempo
 Slug: date-with-data-30-que-tal-esta-o-tempo-la-fora
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/09/datewithdata30.jpg

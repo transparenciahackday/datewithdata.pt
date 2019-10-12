@@ -1,17 +1,45 @@
-@import 'foundation/settings';
-@import 'foundation/foundation';
+@import url("foundation.css");
+
+/* Remove dotted border
+*/
+
+a { outline: 0; }
+input::-moz-focus-inner {  border: 0;  }
+
+
+/* Colours
+*/
+
+$dwd-darkblue: #333844;
+$dwd-blue: #18ebc6;
+$dwd-red: #ff6959;
+$dwd-darkred: #e06355;
+$dwd-lightgray: #fbfbfb;
+
+/* Override foundation colours
+*/
+
+a {
+    color: $dwd-red;
+}
+
+a:hover,
+a:focus {
+    color: $dwd-darkred;
+}
+
+.button,
+button {
+    background-color: $dwd-red;
+}
+
+.button:hover, .button:focus,
+button:hover, button:focus {
+    background-color: $dwd-darkred;
+}
 
 /* Type
 */
-
-@font-face {
-    font-family: 'victors-pixel-font';
-    src: url('/theme/fonts/victor/victors.eot');
-    src: url('/theme/fonts/victor/victors.eot?#iefix') format('embedded-opentype'),
-         url('/theme/fonts/victor/victors.woff') format('woff'),
-         url('/theme/fonts/victor/victors.ttf') format('truetype'),
-         url('/theme/fonts/victor/victors.svg#victors-pixel-font') format('svg');
-}
 
 @font-face {
     font-family: 'SinkinSans';
@@ -88,73 +116,65 @@ h4 {
     font-size: 1rem;
 }
 
-/* Pixel Font */
-.home h1, .top-bar .name h1 { font-family: 'victors-pixel-font', DejaVu Sans, Arial, sans-serif; }
-.home h1 { font-size: 64px; line-height: 66px; }
-
-.top-bar .name h1, .top-bar .name h2,
-.top-bar .name h3, .top-bar .name h4, { font-size: 16px; }
-
-.top-bar-section ul li > a {
-    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.row > h2:first-child { margin-bottom: 1.45rem; }
-
-/* Colours
-
-replaced primary and seconday in settings
-and added
-$dwd-darkblue: #333844;
-*/
-
-$dwd-blue: #18ebc6;
-$dwd-red: #ff6959;
-$dwd-lightgray: #fbfbfb;
-
 h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
-
-.top-bar { background-color: $dwd-darkblue; }
 
 /* Layout
 */
 
-.row.expanded {
-    max-width: 80rem;
+.top-bar {
+    font-size: 0.65rem;
+    font-family: "SinkinSans", "DejaVu Sans", Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: $dwd-darkblue;
+    ul {    background-color: $dwd-darkblue; }
+    .menu li {
+        a { color: #fff; }
+        &.name img {
+            height: 8px;
+            width: auto;
+        }
+    }
 }
 
-.hero, .next-dwd, .projects, .collaborate, .about, .supportedBy, .copyright {
+.section {
     padding-top: 5rem;
     padding-bottom: 2rem;
+    h2:first-child {
+        text-align: center;
+        margin-bottom: 1.45rem;
+    }
 }
 
-.hero { background: $dwd-lightgray; }
-.next-dwd { background: $dwd-red url('../images/transition-04.png') repeat-x 0 0; }
-.projects { background: $dwd-lightgray url('../images/transition-01.png') repeat-x 0 0; }
-.collaborate { background: $dwd-blue url('../images/transition-02.png') repeat-x 0 0; }
-.about { background: $dwd-lightgray url('../images/transition-03.png') repeat-x 0 0; }
-.supportedBy { background: $dwd-red url('../images/transition-04.png') repeat-x 0 0; }
-.copyright { background: $dwd-lightgray url('../images/transition-01.png') repeat-x 0 0; }
+#hero { background: $dwd-lightgray; }
+#next-dwd { background: $dwd-red url('../img/transition-04.png') repeat-x 0 0; }
+#projects { background: $dwd-lightgray url('../img/transition-01.png') repeat-x 0 0; }
+#collaborate { background: $dwd-blue url('../img/transition-02.png') repeat-x 0 0; }
+#about { background: $dwd-lightgray url('../img/transition-03.png') repeat-x 0 0; }
+#supportedBy { background: $dwd-red url('../img/transition-04.png') repeat-x 0 0; }
+#copyright { background: $dwd-lightgray url('../img/transition-01.png') repeat-x 0 0; }
 
-.next-dwd a,
-.supportedBy a { color: #fff; }
+#next-dwd a,
+#supportedBy a { color: #fff; }
 
-.hero .row h1 { margin-bottom: 2rem; }
-
-.hero .next h2 em {
-    font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
-    font-weight: 700;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    font-style: normal;
-    border-bottom: 3px solid $dwd-darkblue;
+#hero { 
+    h1 { margin-bottom: 2rem; }
+    .next em {
+        font-family: 'SinkinSans', 'DejaVu Sans', Arial, sans-serif;
+        font-weight: 700;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        font-style: normal;
+        border-bottom: 3px solid $dwd-darkblue;
+    }
+    .subscribe {
+        input { display: block; }
+    }
 }
 
-.next-dwd {
-  .row .columns  {
+#next-dwd {
+  .cell  {
       h3 { margin-bottom: 1rem; }
       
       .text-left span {
@@ -171,8 +191,19 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     }
 }
 
-#projects a[target=_blank] {
-    white-space: nowrap;  
+#projects {
+    .cell {
+        & > a {
+            display: block;
+            color: $dwd-darkblue;
+            border: 1px solid transparent;
+            margin-bottom: 0.5rem;
+            &:hover {
+                border: 1px solid rgba($dwd-red, 0.3);
+                background-color: rgba($dwd-red, 0.3);
+            }
+        }
+    }
 }
 
 #about {
@@ -193,10 +224,12 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
     }
 }
 
-.supportedBy .row a {  display: block; }
-.supportedBy .row .columns p { margin-bottom: 0; }
+#supportedBy {
+    a {  display: block; }
+    .cell p { margin-bottom: 0; }
+}
 
-.copyright {
+#copyright {
   p {
     margin-bottom: 0;
     i { font-size: 1.5rem; padding: 0 0.5rem; }
@@ -207,7 +240,7 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 /* Blog
 */
 
-#content {
+.other #content {
     padding-top: 2rem;
     padding-bottom: 2rem;
 }

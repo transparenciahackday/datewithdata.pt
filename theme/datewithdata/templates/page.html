@@ -4,21 +4,15 @@
 
 {% block content %}
 
-    <header class="row expanded column">
+    <header class="grid-container fluid">
             <h2 class="plus-separator-title"><span>{{ page.title }}</span></h2>
     </header>
 
-    <div class="row expanded">
-        {% if page.slug == 'contact' %}
-            {{ page.content }}
-        {% elif page.slug == 'manifesto' %}
-            <div id="manifesto" class="large-6 large-centered medium-8 medium-centered small-12 columns">
+    <div class="grid-container fluid">
+        <div class="grid-x grid-margin-x align-center">
+            <div class="large-6 medium-8 small-12 cell">
                 {{ page.content }}
             </div>
-        {% else %}
-            <div class="large-6 large-centered medium-8 medium-centered small-12 columns">
-                {{ page.content }}
-            </div>
-        {% endif %}
+        </div>
     </div><!-- /.entry-content -->
 {% endblock %}

@@ -1,7 +1,8 @@
 Title: Este sábado, 19 de outubro, há Hackday!
 Date: 2013-10-18 15:11
 Author: Ana
-Category: Blog, Newsletter
+Category: Blog
+Tags: Newsletter
 Slug: este-sabado-19-de-outubro-ha-hackday
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2013/10/thackday_out2013.jpg

@@ -2,7 +2,7 @@ Title: Date With Data #9: 11 de junho
 Date: 2016-06-08 15:50
 Author: Ana
 Category: Blog
-Tags: datewithdata
+Tags: Datewithdata
 Slug: date-with-data-11-de-junho
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/06/datewithdata-junho2016.png

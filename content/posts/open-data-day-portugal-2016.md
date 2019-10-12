@@ -2,7 +2,7 @@ Title: Open Data Day Portugal 2016
 Date: 2016-03-21 18:20
 Author: admin
 Category: Blog
-Tags: datewithdata, opendata, opendataday
+Tags: Datewithdata, Opendata, Opendataday
 Slug: open-data-day-portugal-2016
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/03/CIMG2871.jpg

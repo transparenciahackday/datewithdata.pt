@@ -2,6 +2,7 @@ Title: Quarenta anos de Abstenção
 Date: 2015-10-03 21:35
 Author: Ana
 Category: Blog
+Tags: Visualização, Projetos
 Slug: quarenta-anos-de-abstencao
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/10/40-Anos-de-Abstencao-1024x751.png

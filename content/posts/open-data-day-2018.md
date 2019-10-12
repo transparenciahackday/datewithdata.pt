@@ -2,6 +2,7 @@ Title: Open Data Day Portugal 2018
 Date: 2018-02-22 15:26
 Author: joao
 Category: Blog
+Tags: Opendataday
 Slug: open-data-day-2018
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/02/cartaz-eventbrite-1024x512.png

@@ -1,8 +1,8 @@
 Title: Date With Data #23: Pôr coisas no ar
 Date: 2017-12-05 17:43
 Author: joao
-Category: Blog, Newsletter
-Tags: datewithdata, opendata
+Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-23-por-coisas-no-ar
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/12/dwd-dezembro2017.png

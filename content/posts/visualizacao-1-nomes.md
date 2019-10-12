@@ -2,7 +2,7 @@ Title: Visualização #1 – Nomes
 Date: 2010-08-09 12:00
 Author: vsilva
 Category: Blog
-Tags: visualizações
+Tags: Visualização
 Slug: visualizacao-1-nomes
 Status: published
 Image: http://transparencia.hacklaviva.net/wp-content/uploads/2010/08/manel_e_maria.png

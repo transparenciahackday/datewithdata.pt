@@ -2,7 +2,7 @@ Title: Date With Data #27: Por entre os dados do Parlamento
 Date: 2018-05-09 17:18
 Author: joao
 Category: Blog
-Tags: datewithdata, opendata
+Tags: Newsletter, Datewithdata, Opendata, Parlamento
 Slug: date-with-data-27-por-entre-os-dados-do-parlamento
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/05/datewithdata27.jpg

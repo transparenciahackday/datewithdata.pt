@@ -2,6 +2,7 @@ Title: Hackday - sessão #9
 Date: 2011-01-10 14:01
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-sessao-9
 Status: published
 

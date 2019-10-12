@@ -2,7 +2,7 @@ Title: Próximo Date With Data: 13 de fevereiro
 Date: 2016-02-09 21:46
 Author: Ana
 Category: Blog
-Tags: datewithdata
+Tags: Newsletter, Datewithdata, Opendata
 Slug: proximo-date-with-data-13-de-fevereiro
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/02/2016-fev-dwd_big.png

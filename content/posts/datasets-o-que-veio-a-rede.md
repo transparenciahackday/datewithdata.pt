@@ -2,7 +2,7 @@ Title: Datasets: o que veio à rede
 Date: 2014-10-15 11:39
 Author: linkarte
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: datasets-o-que-veio-a-rede
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/10/CIMG0559-1024x768.jpg

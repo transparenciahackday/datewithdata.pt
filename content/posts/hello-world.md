@@ -2,6 +2,7 @@ Title: Hackday - sessão #1
 Date: 2010-07-17 14:46
 Author: admin
 Category: Blog
+Tags: Hackday
 Slug: hello-world
 Status: published
 

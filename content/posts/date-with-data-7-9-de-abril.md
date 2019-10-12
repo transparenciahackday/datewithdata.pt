@@ -1,8 +1,8 @@
-Title: Date With Data #7:  9 de abril
+Title: Date With Data #7: 9 de abril
 Date: 2016-04-06 09:19
 Author: Ana
 Category: Blog
-Tags: datewithdata
+Tags: Datewithdata
 Slug: date-with-data-7-9-de-abril
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/04/dwd-abril2016.png

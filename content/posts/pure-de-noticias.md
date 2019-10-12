@@ -2,6 +2,7 @@ Title: Puré de Notícias
 Date: 2015-05-09 16:04
 Author: admin
 Category: Blog
+Tags: Projetos
 Slug: pure-de-noticias
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/05/screenshot-twitter.png

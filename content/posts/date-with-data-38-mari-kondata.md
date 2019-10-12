@@ -2,6 +2,7 @@ Title: Date With Data #38: Mari Kondata
 Date: 2019-07-10 13:59
 Author: admin
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-38-mari-kondata
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/07/dwd-julho2019-1024x683.png

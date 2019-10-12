@@ -1,7 +1,8 @@
 Title: Este sábado Date With Data #19: ABC das folhas de cálculo
 Date: 2017-07-10 10:15
 Author: admin
-Category: Blog, Newsletter
+Category: Blog
+Tags: Newsletter, Datewithdata, Folhas de cálculo
 Slug: este-sabado-date-with-data-19-abc-das-folhas-de-calculo
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/07/dwd-julho2017-1024x724.png

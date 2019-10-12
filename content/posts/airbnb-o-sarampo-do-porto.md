@@ -6,7 +6,7 @@ Category: Blog
 Tags: Ensaio
 Slug: airbnb-o-sarampo-do-porto
 Status: published
-Image: 
+Image: https://i.imgur.com/w49iS5m.png
 PreviewImage: https://i.imgur.com/w49iS5m.png
 Openingimage: <iframe src="https://whiskas123.carto.com/builder/9651d97d-a9f4-446c-854d-8e40f3b43fe8/embed" width="100%" height="520" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 Openingcaption: Novos alojamentos por data de início de funcionamento

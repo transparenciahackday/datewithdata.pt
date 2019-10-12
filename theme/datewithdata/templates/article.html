@@ -9,13 +9,13 @@
   <meta property="og:title" content="{{ SITENAME }} — {{ article.title }}">
   <meta property="og:description" content="{{ article.summary|striptags }}">
   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
-  <meta property="og:image" content="{{ SITEURL }}/theme/images/cover-800x500.png">
+  <meta property="og:image" content="{{ SITEURL }}/theme/img/datewithdata-share.png">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ SITENAME }} — {{ article.title }}">
   <meta name="twitter:description" content="{{ article.summary|striptags }}">
   <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
-  <meta name="twitter:image" content="{{ SITEURL }}/theme/images/cover-800x500.png">
+  <meta name="twitter:image" content="{{ SITEURL }}/theme/img/datewithdata-share.png">
 
   {% for keyword in article.keywords %}
     <meta name="keywords" content="{{keyword}}">
@@ -28,14 +28,14 @@
 
 {% block content %}
 
-        {%  if 'Ensaio' in article.tags %}
-            <script src="{{ article.externalscripts1 }}"></script>
-            
-            <!-- For nomad URL preview -->
-            <img src="{{ article.shareimage }}" class="hide">
-            
-            <article class="hentry longform">
-                <div class="row expanded">
+        <div class="grid-container">
+            {%  if 'Ensaio' in article.tags %}
+                <script src="{{ article.externalscripts1 }}"></script>
+                
+                <!-- For nomad URL preview -->
+                <img src="{{ article.shareimage }}" class="hide">
+                
+                <article class="hentry longform">
                     <div class="main-image">
                         {% if article.image %}
                             <p><img src="{{ article.image }}" alt="{{ article.title }}"></p>
@@ -45,34 +45,30 @@
                             <span class="caption">{{ article.openingcaption }}</span>
                         {% endif %}
                     </div>
-                </div>
-                <header class="row">
-                    <div class="small-12 column">
+                    <header class="entry-header">
                         <h2>{{ article.title }}</h2>
+                    </header>
+                    <div class="grid-x grid-margin-x">
+                        <div class="post-info large-3 medium-2 small-12 cell">
+                            <p class="date">
+                                {% for author in article.authors %}
+                                    por <strong class="author">{{ author }}</strong>
+                                {% endfor %}
+                                <span>Edição de {{ article.editor }}</span>
+                                <time class="published" datetime="{{ article.date.isoformat() }}">
+                                {{ article.date|strftime("%d de %B de %Y") }}
+                                </time>  
+                            </p>
+                        </div>
+                        <div class="entry-content large-8 medium-10 small-12 end cell">
+                            {{ article.content }}
+                        </div>
                     </div>
-                </header>
-                <div class="row">
-                    <div class="post-info large-3 medium-2 small-12 column">
-                        <p class="date">
-                            {% for author in article.authors %}
-                                por <strong class="author">{{ author }}</strong>
-                            {% endfor %}
-                            <span>Edição de {{ article.editor }}</span>
-                            <time class="published" datetime="{{ article.date.isoformat() }}">
-                            {{ article.date|strftime("%d de %B de %Y") }}
-                            </time>  
-                        </p>
-                    </div>
-                    <div class="entry-content large-8 medium-10 small-12 end column">
-                        {{ article.content }}
-                    </div>
-                </div>
-            </article>
-            <script src="{{ SITEURL }}/theme/scripts/{{ article.extrascripts }}"></script>
-        {% else %}
-            <div class="row expanded small-collapse">
-                <article class="hentry row">
-                    <header class="medium-4 small-12 columns">
+                </article>
+                <script src="{{ SITEURL }}/theme/js/{{ article.extrascripts }}"></script>
+            {% else %}
+                <article class="hentry grid-x grid-margin-x">
+                    <header class="medium-4 small-12 cell">
                         <h2>{{ article.title }}</h2>
                         <p class="date">
                           <time class="published" datetime="{{ article.date.isoformat() }}">
@@ -83,7 +79,7 @@
                           {% endfor %}
                         </p>
                     </header>
-                    <div class="medium-8 small-12 columns">
+                    <div class="medium-8 small-12 cell">
                         {% if article.image %}
                             <p><img src="{{ article.image }}" alt="{{ article.title }}"></p>
                         {% endif %}

@@ -2,6 +2,7 @@ Title: Hackday – sessão #3
 Date: 2010-09-13 08:52
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-sessao-3
 Status: published
 Image: 

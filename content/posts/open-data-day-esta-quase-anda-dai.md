@@ -1,8 +1,8 @@
 Title: Open Data Day: está quase! Anda daí
 Date: 2017-02-24 17:03
 Author: admin
-Category: Blog, Newsletter
-Tags: opendata, opendataday
+Category: Blog
+Tags: Newsletter, Opendata, Opendataday
 Slug: open-data-day-esta-quase-anda-dai
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/02/cartaz-odd2017.jpg

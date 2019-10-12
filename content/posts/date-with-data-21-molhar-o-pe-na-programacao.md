@@ -1,8 +1,8 @@
 Title: Date With Data #21: Molhar o pé na programação
 Date: 2017-10-09 11:53
 Author: Ana
-Category: Blog, Newsletter
-Tags: datewithdata, opendata, programação
+Category: Blog
+Tags: Newsletter, Datewithdata, Opendata, Programação
 Slug: date-with-data-21-molhar-o-pe-na-programacao
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/10/dwd-outubro2017.png

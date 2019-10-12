@@ -2,7 +2,7 @@ Title: Safari dos dados abertos
 Date: 2015-01-17 19:49
 Author: linkarte
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: safari-dos-dados-abertos
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/01/CIMG0740.jpg

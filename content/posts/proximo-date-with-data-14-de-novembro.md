@@ -2,7 +2,7 @@ Title: Próximo Date With Data: 14 de novembro!
 Date: 2015-11-12 12:44
 Author: Ana
 Category: Blog
-Tags: datewithdata
+Tags: Newsletter, Datewithdata, Opendata
 Slug: proximo-date-with-data-14-de-novembro
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/11/datewithdata-nov20151.png

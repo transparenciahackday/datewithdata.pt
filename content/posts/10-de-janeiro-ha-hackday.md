@@ -2,7 +2,7 @@ Title: 10 de janeiro há Hackday!
 Date: 2015-01-04 23:02
 Author: Ana
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: 10-de-janeiro-ha-hackday
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/01/cartaz_web_800px_hackday_janeiro.png

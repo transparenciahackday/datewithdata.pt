@@ -1,7 +1,8 @@
 Title: 13 de julho é dia de Transparência Hackday
 Date: 2013-07-07 17:04
 Author: Ana
-Category: Blog, Na estrada
+Category: Blog
+Tags: Na estrada
 Slug: 13-de-julho-e-dia-de-transparencia-hackday
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2013/07/cartaz-thd-contrastes-output1.png)

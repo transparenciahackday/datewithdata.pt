@@ -2,7 +2,7 @@ Title: Este sábado Date With Data #15: Vamos construir o dadosabertos.pt
 Date: 2017-02-08 12:32
 Author: admin
 Category: Blog
-Tags: datew
+Tags: Datewithdata
 Slug: este-sabado-date-with-data-15-vamos-construir-o-dadosabertos-pt
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/02/dwd-fevereiro2017-2.png

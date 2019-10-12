@@ -2,7 +2,7 @@ Title: Preparar a Hackathon (Skype)
 Date: 2010-11-18 11:37
 Author: camorim
 Category: Blog
-Tags: hackathon, tarefas
+Tags: Hackathon,Tarefas
 Slug: preparar-a-hackathon-skype
 Status: published
 

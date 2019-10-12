@@ -2,7 +2,7 @@ Title: Notas do Hackday de setembro
 Date: 2014-09-23 21:18
 Author: Ana
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: notas-do-hackday-de-setembro
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/09/flyer_hackday-01.png

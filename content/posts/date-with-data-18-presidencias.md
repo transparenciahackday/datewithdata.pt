@@ -1,7 +1,8 @@
 Title: Date With Data #18: Presidências
 Date: 2017-06-15 15:10
 Author: admin
-Category: Blog, Newsletter
+Category: Blog
+Tags: Newsletter
 Slug: date-with-data-18-presidencias
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/06/dwd-junho2017-1024x700.png

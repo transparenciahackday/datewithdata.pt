@@ -2,7 +2,7 @@ Title: 11 de outubro há mais Hackday: Datasets, vamos apanhá-los todos
 Date: 2014-10-03 22:25
 Author: Ana
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: 11-de-outubro-ha-mais-hackday-datasets-vamos-apanha-los-todos
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/10/cartaz_800px_hackday_outubro.png)

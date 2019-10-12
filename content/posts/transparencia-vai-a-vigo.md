@@ -1,7 +1,8 @@
 Title: Transparência vai a Vigo
 Date: 2011-05-04 08:03
 Author: camorim
-Category: Na estrada
+Category: Blog
+Tags: Na estrada
 Slug: transparencia-vai-a-vigo
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2011/05/IMG_7250.jpg

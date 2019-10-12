@@ -2,7 +2,7 @@ Title: Date With Data #39: Alojamento Local
 Date: 2019-09-12 00:46
 Author: joao
 Category: Blog
-Tags: Teste
+Tags: Newsletter, Datewithdata, Opendata, Alojamento local
 Slug: date-with-data-39-alojamento-local
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/09/dwd-setembro2019-1024x683.png

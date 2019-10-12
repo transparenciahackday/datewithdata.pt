@@ -2,7 +2,7 @@ Title: Hackday - sessão #2
 Date: 2010-08-15 08:22
 Author: camorim
 Category: Blog
-Tags: case studies, drupal, feeds, notícias, parsing, visualização, wiki
+Tags: Case studies, Drupal, Feeds, Notícias, Parsing, Visualização, Wiki
 Slug: hackday-sessao-2
 Status: published
 Image: 

@@ -2,6 +2,7 @@ Title: Date With Data #37: Datas
 Date: 2019-06-04 22:08
 Author: admin
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata, Datas
 Slug: date-with-data-37-datas
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/06/dwd-junho2019-1024x683.png

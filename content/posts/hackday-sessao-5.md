@@ -2,6 +2,7 @@ Title: Hackday – sessão #5
 Date: 2010-10-03 15:40
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-sessao-5
 Status: published
 

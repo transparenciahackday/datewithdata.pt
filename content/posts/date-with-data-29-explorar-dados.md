@@ -2,6 +2,7 @@ Title: Date With Data #29: Explorar Dados
 Date: 2018-07-11 11:15
 Author: joao
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-29-explorar-dados
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/07/dwd-julho2018_web.jpg

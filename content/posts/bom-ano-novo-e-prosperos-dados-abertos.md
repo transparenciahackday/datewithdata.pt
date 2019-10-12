@@ -1,7 +1,8 @@
 Title: Bom ano novo e prósperos dados abertos!
 Date: 2013-01-15 13:41
 Author: saritamoreira
-Category: Blog, Newsletter
+Category: Blog
+Tags: Newsletter
 Slug: bom-ano-novo-e-prosperos-dados-abertos
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2013/01/open-data-international.jpg

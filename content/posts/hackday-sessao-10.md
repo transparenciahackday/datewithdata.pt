@@ -2,6 +2,7 @@ Title: Hackday – sessão #10
 Date: 2011-02-26 23:21
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-sessao-10
 Status: published
 

@@ -1,7 +1,8 @@
 Title: Date With Data #24: Ano Novo, Dados Novos
 Date: 2018-01-12 14:12
 Author: joao
-Category: Blog, Destaque, Newsletter
+Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-24-ano-novo-dados-novos
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/01/datewithdata24.png

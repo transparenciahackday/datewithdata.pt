@@ -2,6 +2,7 @@ Title: Fortalecer laços entre a comunidade Open Data em Portugal
 Date: 2014-03-04 15:15
 Author: saritamoreira
 Category: Blog
+Tags: Opendataday
 Slug: opendataday-odd14
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/03/maushabitos-opendataday.jpg

@@ -2,7 +2,7 @@ Title: Como usar o serviço informacaoDeputado
 Date: 2010-08-08 14:47
 Author: vsilva
 Category: Blog
-Tags: deputados, opendata, opengov, portugal, recursos, transparência
+Tags: Deputados, Opendata, Opengov, Portugal, Recursos, Transparência
 Slug: como-usar-o-servico-informacaodeputado
 Status: published
 

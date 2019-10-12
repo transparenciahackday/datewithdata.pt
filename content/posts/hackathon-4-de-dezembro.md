@@ -2,6 +2,7 @@ Title: Hackathon - 4 e 5 de Dezembro
 Date: 2010-11-28 20:34
 Author: admin
 Category: Blog
+Tags: Opendataday
 Slug: hackathon-4-de-dezembro
 Status: published
 Image: http://transparenciahackday.org/wp-content/uploads/2010/11/hackathon.png

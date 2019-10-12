@@ -2,7 +2,7 @@ Title: Open Data Day 2018: como foi
 Date: 2018-04-11 16:03
 Author: admin
 Category: Blog
-Tags: odd, opendataday
+Tags: Opendataday, ODD
 Slug: odd-2018-como-foi
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/04/IMG_3289-1024x768.jpg

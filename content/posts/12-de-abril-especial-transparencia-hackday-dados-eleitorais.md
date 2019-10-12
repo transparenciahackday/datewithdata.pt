@@ -2,7 +2,7 @@ Title: 12 de Abril: Especial Transparência Hackday Dados Eleitorais
 Date: 2014-04-08 16:54
 Author: Ana
 Category: Blog
-Tags: eleições, hackday, opendata
+Tags: Eleições, Hackday, Opendata
 Slug: 12-de-abril-especial-transparencia-hackday-dados-eleitorais
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/04/2014-04-11_THackday-dados-eleitorais_cartaz.png)

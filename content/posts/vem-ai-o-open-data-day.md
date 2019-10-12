@@ -2,7 +2,7 @@ Title: Vem aí o Open Data Day!
 Date: 2016-02-29 11:53
 Author: Ana
 Category: Blog
-Tags: datewithdata, opendata, opendataday
+Tags: Opendataday, Datewithdata, Opendata
 Slug: vem-ai-o-open-data-day
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/02/opendataday-2016_updated.png

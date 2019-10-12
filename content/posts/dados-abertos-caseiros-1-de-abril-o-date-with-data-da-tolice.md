@@ -2,7 +2,7 @@ Title: Dados abertos caseiros 1 de abril: o Date With Data da tolice
 Date: 2017-03-25 17:30
 Author: admin
 Category: Blog
-Tags: datewithdata, opendata
+Tags: Datewithdata, Opendata
 Slug: dados-abertos-caseiros-1-de-abril-o-date-with-data-da-tolice
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/03/dwd-abril2017_newsletter.png

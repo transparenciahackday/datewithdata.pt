@@ -2,6 +2,7 @@ Title: Hackday – sessão #4
 Date: 2010-09-19 21:16
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-sessao-4
 Status: published
 Image: 

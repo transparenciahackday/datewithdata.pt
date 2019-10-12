@@ -2,7 +2,7 @@ Title: Date with Data #4: o primeiro de 2016!
 Date: 2016-01-07 12:26
 Author: Ana
 Category: Blog
-Tags: datewithdata
+Tags: Datewithdata
 Slug: date-with-data-4-o-primeiro-de-2016
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/01/datewithdata-janeiro2016_big.png

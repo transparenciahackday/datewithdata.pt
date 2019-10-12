@@ -2,7 +2,7 @@ Title: 13 de dezembro é Hackday!
 Date: 2014-12-07 23:07
 Author: Ana
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: 13-de-dezembro-e-hackday
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/12/2014-12-13_Thackday-gatodado_semtexto.png

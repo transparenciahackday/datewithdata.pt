@@ -1,7 +1,8 @@
 Title: Date With Data #25: Mapas
 Date: 2018-02-07 13:26
 Author: joao
-Category: Blog, Destaque, Newsletter
+Category: Blog
+Tags: Newsletter, Datewithdata, Opendata, Mapas
 Slug: date-with-data-25-mapas
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/02/dwd25.jpg

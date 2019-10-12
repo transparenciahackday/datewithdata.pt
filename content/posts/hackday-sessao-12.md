@@ -2,11 +2,11 @@ Title: Hackday: sessão #12
 Date: 2012-05-28 14:17
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-sessao-12
 Status: published
 
 Transparência Hackday volta em grande com nova dinâmica e mais projectos.  
-  
 Com programa previamente delineado, o encontro na GESTO, foi preenchido com algumas apresentações e discussão de próximos passos.
 
 Apresentações

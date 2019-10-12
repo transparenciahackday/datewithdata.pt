@@ -2,6 +2,7 @@ Title: Date With Data #36: Vamos a votos
 Date: 2019-05-09 14:12
 Author: joao
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata, Eleições
 Slug: date-with-data-36-vamos-a-votos
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/05/dwd_maio-1024x683.jpg

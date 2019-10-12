@@ -2,7 +2,7 @@ Title: 10 de maio: Transparência Hackday no jardim
 Date: 2014-05-07 14:03
 Author: Ana
 Category: Blog
-Tags: hackday, opendata
+Tags: Hackday, Opendata
 Slug: 9-de-maio-transparencia-hackday-no-jardim
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/05/thackday-maio2014.png

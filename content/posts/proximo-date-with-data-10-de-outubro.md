@@ -2,7 +2,7 @@ Title: Próximo Date With Data: 10 de outubro
 Date: 2015-10-03 23:33
 Author: Ana
 Category: Blog
-Tags: datewithdata
+Tags: Newsletter, Datewithdata, Opendata
 Slug: proximo-date-with-data-10-de-outubro
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/10/datewithdata-out2015.png

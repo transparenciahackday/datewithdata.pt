@@ -1,8 +1,8 @@
 Title: Como foi 2016 e o que aí vem em 2017!
 Date: 2016-12-30 17:09
 Author: admin
-Category: Blog, Newsletter
-Tags: balanço, datewithdata, opendata, visualização
+Category: Blog
+Tags: Newsletter, Balanço, Datewithdata, Opendata, Visualização
 Slug: como-foi-2016-e-o-que-ai-vem-em-2017
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/12/dwd-balanco2016.png

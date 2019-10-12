@@ -1,8 +1,8 @@
 Title: Open Data Day 2015, está ao virar da esquina
 Date: 2015-02-13 11:29
 Author: Ana
-Category: Blog, Destaque
-Tags: hackday, opendataday
+Category: Blog
+Tags: Hackday, Opendataday
 Slug: open-data-day-2015
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/02/5wKbdAH.png)

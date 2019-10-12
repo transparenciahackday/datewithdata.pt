@@ -2,7 +2,7 @@ Title: Abstenção nas eleições europeias 2009 e 2014, em Portugal
 Date: 2014-06-21 23:04
 Author: Ana
 Category: Blog
-Tags: eleições, estatísticas oficiais, europa, infografia, portugal
+Tags: Eleições, Estatísticas oficiais, Europa, Infografia, Portugal
 Slug: abstencao-nas-eleicoes-europeias-2009-e-2014-em-portugal
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/06/abstencao_final-03.png

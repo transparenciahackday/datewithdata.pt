@@ -2,7 +2,7 @@ Title: Date With Data #26: Parlamento
 Date: 2018-04-12 13:31
 Author: joao
 Category: Blog
-Tags: datewithdata, opendata
+Tags: Newsletter, Datewithdata, Opendata, Parlamento
 Slug: date-with-data-26-parlamento
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2018/04/dwd-abril2018.png

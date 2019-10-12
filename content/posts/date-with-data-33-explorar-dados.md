@@ -2,6 +2,7 @@ Title: Date With Data #33: Explorar Dados
 Date: 2019-02-07 14:23
 Author: joao
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-33-explorar-dados
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/02/dwd-janeiro2019.jpg

@@ -2,6 +2,7 @@ Title: Último hackday da época, a festejar 5 anos!
 Date: 2015-06-18 14:23
 Author: admin
 Category: Blog
+Tags: Hackday
 Slug: ultimo-hackday-da-epoca-a-festejar-5-anos
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/06/2015-06-20_THackday-5Anos-724x1024.png

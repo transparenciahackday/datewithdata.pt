@@ -1,7 +1,8 @@
 Title: 1 de dezembro, 1º Transparência Hackday em LisboaDecember 1st Dezembro, 1st Transparência Hackday in Lisbon
 Date: 2012-12-06 23:31
 Author: Ana
-Category: Blog, Na estrada
+Category: Blog
+Tags: Na estrada
 Slug: 1-de-dezembro-1o-transparencia-hackday-em-lisboa
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2012/12/20121201-thackdaylx_04.jpg

@@ -2,7 +2,7 @@ Title: Hackday: sessão #11
 Date: 2011-07-25 13:15
 Author: camorim
 Category: Blog
-Tags: europa, opendata challenge
+Tags: Europa, Opendata challenge, Hackday
 Slug: hackday-sessao-11
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2011/07/publicdataeu.png

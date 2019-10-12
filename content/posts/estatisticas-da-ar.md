@@ -2,7 +2,7 @@ Title: ﻿﻿﻿﻿Estatísticas da AR
 Date: 2010-07-27 07:58
 Author: camorim
 Category: Blog
-Tags: estatísticas oficiais
+Tags: Estatísticas oficiais
 Slug: estatisticas-da-ar
 Status: published
 Image:

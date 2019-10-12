@@ -2,6 +2,7 @@ Title: Date With Data #32: Histórias com mapas
 Date: 2019-01-16 15:08
 Author: joao
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata, Mapas
 Slug: date-with-data-32-historias-com-mapas
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/01/dwd-janeiro2019.png

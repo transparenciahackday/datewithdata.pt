@@ -1,7 +1,8 @@
 Title: Date With Data invade Lisboa!
 Date: 2017-04-17 10:44
 Author: admin
-Category: Blog, Na estrada, Newsletter
+Category: Blog
+Tags: Na estrada, Newsletter, Datewithdata, Opendata, Lisboa
 Tags: datewithdata, Lisboa, opendata
 Slug: date-with-data-invade-lisboa
 Status: published

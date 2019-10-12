@@ -2,7 +2,7 @@ Title: Date With Data #14: Ano novo, dados novos
 Date: 2017-01-13 10:20
 Author: admin
 Category: Blog
-Tags: datewithdata, opendata
+Tags: Datewithdata, Opendata
 Slug: date-with-data-14-ano-novo-dados-novos
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/01/dwd-janeiro2017.png

@@ -2,6 +2,7 @@ Title: Próximo Hackday: 12 de Maio!
 Date: 2012-05-10 21:35
 Author: ricardo
 Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: proximo-hackday-12-de-maio
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2012/05/IMG_20111020_183549.jpg

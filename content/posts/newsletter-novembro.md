@@ -1,7 +1,8 @@
 Title: News#07/11: Plataformas desvendadas | Hackdays Porto [24/11] & Nacional [01/12] | Hackathons Internacionais
 Date: 2012-11-07 12:00
 Author: saritamoreira
-Category: Newsletter
+Category: Blog
+Tags: Newsletter
 Slug: newsletter-novembro
 Status: published
 

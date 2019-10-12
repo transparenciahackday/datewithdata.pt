@@ -2,7 +2,7 @@ Title: Dia 11 de abril, o Hackday é ao contrário
 Date: 2015-04-04 15:12
 Author: admin
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: dia-11-de-abril-o-hackday-e-ao-contrario
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/04/2015-04-11_THackday-cartaz-723x1024.png

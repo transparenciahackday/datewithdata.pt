@@ -1,8 +1,8 @@
 Title: Este sábado Date With Data #20: Queridos Dados & uma convidada especial
 Date: 2017-08-28 17:32
 Author: admin
-Category: Blog, Newsletter
-Tags: datewithdata, opendata
+Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: este-sabado-date-with-data-20-queridos-dados-uma-convidada-especial
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/08/dwd-setembro2017.jpg

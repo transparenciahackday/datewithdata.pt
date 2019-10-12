@@ -2,6 +2,7 @@ Title: Webinário europeu sobre dados eleitorais: 11 de abril
 Date: 2014-03-13 17:28
 Author: saritamoreira
 Category: Blog
+Tags: Webinário, Hackday, Eleições
 Slug: webinario-europeu-sobre-dados-eleitorais-11-de-abril
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/03/epsi_webinar2014_pt.png

@@ -2,6 +2,7 @@ Title: Hackday - sessão #7
 Date: 2010-11-13 19:28
 Author: camorim
 Category: Blog
+Tags: Hackday
 Slug: hackday-7-sessao
 Status: published
 Image: 

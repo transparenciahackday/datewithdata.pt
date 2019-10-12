@@ -2,7 +2,7 @@ Title: Hackday – sessão #6
 Date: 2010-11-01 09:11
 Author: camorim
 Category: Blog
-Tags: gitorious
+Tags: Gitorious, Hackday
 Slug: hackday-sessao-6
 Status: published
 Image: http://transparencia.hacklaviva.net/wp-content/uploads/2010/11/IMAG0009_a-300x179.jpg

@@ -2,7 +2,7 @@ Title: Dia 14 há mais Hackday
 Date: 2015-03-08 22:14
 Author: Ana
 Category: Blog
-Tags: hackday
+Tags: Hackday
 Slug: dia-14-ha-mais-hackday
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/03/pre-vis.png

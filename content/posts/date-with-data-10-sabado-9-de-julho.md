@@ -2,7 +2,7 @@ Title: Date With Data #10: sábado, 9 de julho!
 Date: 2016-07-04 18:35
 Author: Ana
 Category: Blog
-Tags: datewithdata
+Tags: Datewithdata
 Slug: date-with-data-10-sabado-9-de-julho
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2016/07/datewithdata-julho2016.png

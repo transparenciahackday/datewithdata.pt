@@ -2,7 +2,7 @@ Title: Junta-te à Open Food Hunt!
 Date: 2015-02-23 17:40
 Author: marianamagalhaesmota
 Category: Blog
-Tags: opendataday, openfoodfacts
+Tags: Opendataday, Openfoodfacts
 Slug: junta-te-a-open-food-hunt
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2015/02/open-food-hunt-2015.652x4461.png

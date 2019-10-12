@@ -2,7 +2,7 @@ Title: Hackathon fervilhante e produtiva!
 Date: 2010-12-06 00:09
 Author: camorim
 Category: Blog
-Tags: hackathon
+Tags: Hackathon
 Slug: hackhaton-fervilhante-e-produtiva
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2010/12/p1010722-300x200.jpg

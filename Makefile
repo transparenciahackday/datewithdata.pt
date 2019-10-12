@@ -44,8 +44,9 @@ help:
 	@echo '                                                                          '
 
 build: html
-	./lib/sass --style compressed --no-source-map --quiet theme/datewithdata/static/styles/app.scss output/theme/styles/app.min.css
-	cp content/extrascripts/*.js output/theme/scripts/
+	./lib/sass --style compressed --no-source-map --quiet theme/datewithdata/static/css/app.scss output/theme/css/app.min.css
+	cp content/extrascripts/*.js output/theme/js/
+	cp -r content/media output/
 
 html:
 	$(LOADVENV); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -84,8 +85,9 @@ endif
 
 publish:
 	$(LOADVENV); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	./lib/sass --style compressed --no-source-map --quiet theme/datewithdata/static/styles/app.scss output/theme/styles/app.min.css
-	cp content/extrascripts/*.js output/theme/scripts/
+	./lib/sass --style compressed --no-source-map --quiet theme/datewithdata/static/css/app.scss output/theme/css/app.min.css
+	cp content/extrascripts/*.js output/theme/js/
+	cp -r content/media output/
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)

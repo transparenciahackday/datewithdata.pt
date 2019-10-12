@@ -2,6 +2,7 @@ Title: Open Data Day 2019
 Date: 2019-03-04 15:43
 Author: joao
 Category: Blog
+Tags: Opendataday
 Slug: open-data-day-2019
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2019/03/odd19-03.png

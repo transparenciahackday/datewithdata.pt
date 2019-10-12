@@ -2,7 +2,7 @@ Title: 21 de junho: Transparência Hackday do solstício
 Date: 2014-06-19 22:04
 Author: Ana
 Category: Blog
-Tags: hackday, opendata
+Tags: Hackday, Opendata
 Slug: 21-de-junho-transparencia-hackday-do-solsticio
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/06/2014-06-21_ThackdayUptec.png

@@ -1,7 +1,8 @@
 Title: #opendata / dia internacional / 22-02 / anda daí!
 Date: 2014-02-13 19:08
 Author: saritamoreira
-Category: Blog, Newsletter
+Category: Blog
+Tags: Newsletter
 Slug: opendata-dia-internacional-22-02-anda-dai
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/02/opendataday2014_newsletter.png

@@ -1,8 +1,8 @@
 Title: Date With Data #22: Twitterbots!
 Date: 2017-11-06 18:48
 Author: joao
-Category: Blog, Newsletter
-Tags: datewithdata, opendata
+Category: Blog
+Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-22-twitterbots
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2017/11/unnamed.png

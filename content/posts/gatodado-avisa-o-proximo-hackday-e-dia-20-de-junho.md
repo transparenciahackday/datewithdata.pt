@@ -2,6 +2,7 @@ Title: GatoDado avisa: o próximo hackday é dia 20 de junho
 Date: 2015-05-25 10:25
 Author: admin
 Category: Blog
+Tags: Hackday
 Slug: gatodado-avisa-o-proximo-hackday-e-dia-20-de-junho
 Status: published
 Image: http://40.media.tumblr.com/56e13bd4c99dff59b4a79b0ba4ce0419/tumblr_no9awyUvF01sebpbwo4_500.jpg

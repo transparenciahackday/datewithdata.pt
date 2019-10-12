@@ -2,7 +2,7 @@ Title: O que tem o meu iogurte?
 Date: 2014-11-15 18:31
 Author: marianamagalhaesmota
 Category: Blog
-Tags: iogurtes-abertos, openfoodfacts
+Tags: Iogurtes abertos, Openfoodfacts
 Slug: o-que-tem-o-meu-iogurte
 Status: published
 Image: http://www.transparenciahackday.org/wp-content/uploads/2014/11/iogurte.png
