@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} &mdash; Archive{% endblock title %}
+{% block content %}
+<section id="content" class="archive-page">
+
+    <div class="row column">
+      <h3>Archive</h3>
+    </div>
+
+    <div class="row collapse small-up-2 medium-up-4"> 
+      {% for article in dates %}
+        {% if article.category.name in ['Work', 'Workshops'] %}
+          {% if not 'undocumented' in article.tags %}
+            <div class="column">        
+              <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                <h3 class="entry-title">{{ article.title }}</h3>
+                {% if article.featured_image %}
+                  <p><img src="{{ article.featured_image }}"></p>
+                {% else %}
+                  <!-- empty paragraph to align layout; remove when all entries have images! -->
+                  <p>&nbsp;</p>
+                {% endif %}
+              </a>
+          </div>
+          {% else %}
+            <div class="column">
+              <h3 class="entry-title">{{ article.title }}</h3>
+              {% if article.featured_image %}
+                <p><img src="{{ article.featured_image }}"></p>
+              {% else %}
+                <!-- empty paragraph to align layout; remove when all entries have images! -->
+                <p>&nbsp;</p>
+              {% endif %}
+            </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  
+</section><!-- /#content -->
+{% endblock content %}

@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} &mdash; {{ article.title }}{% endblock title %}
+
+{% block meta %}
+  <meta name="description" content="{{ article.summary|striptags }}">
+
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ SITENAME }} — {{ article.title }}">
+  <meta property="og:description" content="{{ article.summary|striptags }}">
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta property="og:image" content="{{ SITEURL }}/theme/images/cover-800x500.png">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ SITENAME }} — {{ article.title }}">
+  <meta name="twitter:description" content="{{ article.summary|striptags }}">
+  <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta name="twitter:image" content="{{ SITEURL }}/theme/images/cover-800x500.png">
+
+  {% for keyword in article.keywords %}
+    <meta name="keywords" content="{{keyword}}">
+  {% endfor %}
+
+  {% for tag in article.tags %}
+    <meta name="tags" content="{{tag}}">
+  {% endfor %}
+{% endblock meta %}
+
+{% block content %}
+
+        {%  if 'Ensaio' in article.tags %}
+            <script src="{{ article.externalscripts1 }}"></script>
+            
+            <!-- For nomad URL preview -->
+            <img src="{{ article.shareimage }}" class="hide">
+            
+            <article class="hentry longform">
+                <div class="row expanded">
+                    <div class="main-image">
+                        {% if article.image %}
+                            <p><img src="{{ article.image }}" alt="{{ article.title }}"></p>
+                        {% endif %}
+                        {% if article.openingimage %}
+                            {{ article.openingimage }}
+                            <span class="caption">{{ article.openingcaption }}</span>
+                        {% endif %}
+                    </div>
+                </div>
+                <header class="row">
+                    <div class="small-12 column">
+                        <h2>{{ article.title }}</h2>
+                    </div>
+                </header>
+                <div class="row">
+                    <div class="post-info large-3 medium-2 small-12 column">
+                        <p class="date">
+                            {% for author in article.authors %}
+                                por <strong class="author">{{ author }}</strong>
+                            {% endfor %}
+                            <span>Edição de {{ article.editor }}</span>
+                            <time class="published" datetime="{{ article.date.isoformat() }}">
+                            {{ article.date|strftime("%d de %B de %Y") }}
+                            </time>  
+                        </p>
+                    </div>
+                    <div class="entry-content large-8 medium-10 small-12 end column">
+                        {{ article.content }}
+                    </div>
+                </div>
+            </article>
+            <script src="{{ SITEURL }}/theme/scripts/{{ article.extrascripts }}"></script>
+        {% else %}
+            <div class="row expanded small-collapse">
+                <article class="hentry row">
+                    <header class="medium-4 small-12 columns">
+                        <h2>{{ article.title }}</h2>
+                        <p class="date">
+                          <time class="published" datetime="{{ article.date.isoformat() }}">
+                            {{ article.date|strftime("%d de %B de %Y") }}
+                          </time>
+                          {% for author in article.authors %}
+                          por <strong class="author">{{ author }}</strong>
+                          {% endfor %}
+                        </p>
+                    </header>
+                    <div class="medium-8 small-12 columns">
+                        {% if article.image %}
+                            <p><img src="{{ article.image }}" alt="{{ article.title }}"></p>
+                        {% endif %}
+                        <div class="entry-content">
+                            {{ article.content }}
+                        </div>
+                    </div>
+                </article>
+            {% endif %}
+    </div>
+{% endblock %}
