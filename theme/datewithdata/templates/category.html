@@ -22,9 +22,7 @@
 	        {% endfor %}
 	        </div><!-- /#posts-list -->
             {% if articles_page.has_other_pages() %}
-	            <div class="cell">
-                    {% include 'pagination.html' %}
-	            </div>
+                {% include 'pagination.html' %}
             {% endif %}
         </div>
     </div>

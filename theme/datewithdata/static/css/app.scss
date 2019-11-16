@@ -45,21 +45,21 @@ button:hover, button:focus {
     font-family: 'SinkinSans';
     font-weight: 400;
     font-style: normal;
-    src: local('SinkinSans'), url('/theme/fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
+    src: local('SinkinSans'), url('../fonts/SinkinSans/SinkinSans-400Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 700;
     font-style: normal;
-    src: local('SinkinSans Bold'), url('/theme/fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
+    src: local('SinkinSans Bold'), url('../fonts/SinkinSans/SinkinSans-700Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'SinkinSans';
     font-weight: 200;
     font-style: normal;
-    src: local('SinkinSans Light'), url('/theme/fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
+    src: local('SinkinSans Light'), url('../fonts/SinkinSans/SinkinSans-200XLight.ttf') format('truetype');
 }
 
 
@@ -67,35 +67,35 @@ button:hover, button:focus {
     font-family: 'SinkinSans';
     font-weight: 600;
     font-style: normal;
-    src: local('SinkinSans Semibold'), url('/theme/fonts/SinkinSans/SinkinSans-600SemiBold.ttf') format('truetype');
+    src: local('SinkinSans Semibold'), url('../fonts/SinkinSans/SinkinSans-600SemiBold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 400;
     font-style: normal;
-    src: local('Libre Baskerville Regular'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+    src: local('Libre Baskerville Regular'), url('../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 400;
     font-style: italic;
-    src: local('Libre Baskerville Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
+    src: local('Libre Baskerville Italic'), url('../fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: normal;
-    src: local('Libre Baskerville Bold'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
+    src: local('Libre Baskerville Bold'), url('../fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Libre Baskerville';
     font-weight: 700;
     font-style: italic;
-    src: local('Libre Baskerville Bold Italic'), url('/theme/fonts/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
+    src: local('Libre Baskerville Bold Italic'), url('../fonts/Libre_Baskerville/LibreBaskerville-BoldItalic.ttf') format('truetype');
 }
 
 body {
@@ -151,9 +151,18 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 #next-dwd { background: $dwd-red url('../img/transition-04.png') repeat-x 0 0; }
 #projects { background: $dwd-lightgray url('../img/transition-01.png') repeat-x 0 0; }
 #collaborate { background: $dwd-blue url('../img/transition-02.png') repeat-x 0 0; }
-#about { background: $dwd-lightgray url('../img/transition-03.png') repeat-x 0 0; }
+#about { /* no blog */
+    background: #e1e1e1;
+    background-image: url('../img/transition-06.png');
+    background-image: url('../img/transition-06.png'), linear-gradient(0deg, rgba(251,251,251,1) 0%, rgba(225,225,225,1) 100%);
+    background-repeat: repeat-x, repeat;
+    background-position: 0 0, 0 40px;
+
+}
+.home #about { background: $dwd-lightgray url('../img/transition-03.png') repeat-x 0 0; }
 #supportedBy { background: $dwd-red url('../img/transition-04.png') repeat-x 0 0; }
 #copyright { background: $dwd-lightgray url('../img/transition-01.png') repeat-x 0 0; }
+
 
 #next-dwd a,
 #supportedBy a { color: #fff; }
@@ -498,3 +507,32 @@ h1, h2, h3, h4, h5, h6 { color: $dwd-darkblue; }
 .hentry .entry-content span.caption {
     margin-bottom: 1.5rem;
 }
+
+/* Paginação dos posts */
+
+#content nav {
+    width: 100%;
+}
+
+.pagination {
+    font-size: 0.875rem;
+    font-weight: 600;
+    width: 100%;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+    color: $dwd-darkblue;
+    border-top: 1px solid rgba($dwd-darkblue, 0.2);
+}
+
+.pagination .current {
+    background-color: transparent;
+    color: $dwd-red;
+}
+
+.pagination a:hover {
+    background-color: transparent;
+    color: $dwd-darkred;
+}
+
+

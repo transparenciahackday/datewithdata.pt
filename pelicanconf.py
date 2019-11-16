@@ -13,7 +13,10 @@ DEFAULT_LANG = 'pt'
 PATH = 'content'
 THEME = 'theme/datewithdata'
 
-DEFAULT_PAGINATION = False
+# Pagination
+DEFAULT_ORPHANS = 0
+DEFAULT_PAGINATION = True
+PAGINATED_TEMPLATES = {'tag': 12, 'category': 12}
 # limitar palavras no resumo do índice de posts
 SUMMARY_MAX_LENGTH = 30
 
@@ -41,4 +44,3 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-

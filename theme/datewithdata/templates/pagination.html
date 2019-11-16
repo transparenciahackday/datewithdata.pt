@@ -1,0 +1,18 @@
+{% if DEFAULT_PAGINATION %}
+    <nav aria-label="Pagination">
+      <ul class="pagination">      
+        {% if articles_page.has_previous() %}
+            <li class="pagination-previous"><span class="show-for-sr">página</span> <a href="{{ SITEURL }}/{{ articles_previous_page.url }}">Anterior</a></li>
+        {% else %}
+            <li class="pagination-previous disabled"><span class="show-for-sr">página</span> Anterior</li>
+        {% endif %}
+        <li class="current"><span class="show-for-sr">Está na</span> Página {{ articles_page.number }} / {{ articles_paginator.num_pages }}</li>
+        {% if articles_page.has_next() %}
+            <li class="pagination-next"><a href="{{ SITEURL }}/{{ articles_next_page.url }}">Próxima</a><span class="show-for-sr">página</span></li>
+        {% else %}
+            <li class="pagination-next disabled">Próxima <span class="show-for-sr">página</span></li>
+        {% endif %}
+
+      </ul>
+    </nav>
+{% endif %}
