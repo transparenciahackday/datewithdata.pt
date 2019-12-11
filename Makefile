@@ -8,10 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=dh
+SSH_HOST=opal
 SSH_PORT=22
-SSH_USER=rlaf
-SSH_TARGET_DIR=/home/rlaf/www/datewithdata.pt/
+SSH_USER=rlafuente
+SSH_TARGET_DIR=/home/rlafuente/apps/datewithdata/
 
 LOADVENV=. `pwd`/.env/bin/activate
 
