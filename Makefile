@@ -8,10 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=opal
+SSH_HOST=opal5.opalstack.com
 SSH_PORT=22
-SSH_USER=rlafuente
-SSH_TARGET_DIR=/home/rlafuente/apps/datewithdata/
+SSH_USER=thd
+SSH_TARGET_DIR=/home/thd/apps/static-datewithdata/
 
 LOADVENV=. `pwd`/.env/bin/activate
 
@@ -89,13 +89,11 @@ publish:
 	cp content/extrascripts/*.js output/theme/js/
 	cp -r content/media output/
 
-ssh_upload: publish
-	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-
-deploy: rsync_upload   
-
-rsync_upload: publish
+deploy: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --cvs-exclude --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+
+dry-deploy: publish
+	rsync -n -e "ssh -p $(SSH_PORT)" -P -rvzc --cvs-exclude --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload deploy
