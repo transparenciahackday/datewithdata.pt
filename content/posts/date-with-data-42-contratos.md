@@ -5,7 +5,7 @@ Category: Blog
 Tags: Newsletter, Datewithdata, Opendata
 Slug: date-with-data-42-contratos
 Status: published
-Image: https://datewithdata.pt/media/dwd-40.png
+Image: https://datewithdata.pt/media/dwd-42.png
 
 Vamos ter um novo dataset com que nos entreter: o base.gov.pt anunciou a publicação dos [dados dos contratos públicos](http://www.base.gov.pt/Base/pt/popup?A=433) no Dados.gov.pt, no formato [Open Contracting Standard](https://standard.open-contracting.org/latest/en/). São quase 500 megas de informação interessante que vai dar para peneirar q.b. e ver o que encontramos.
 
