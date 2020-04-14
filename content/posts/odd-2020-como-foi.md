@@ -7,10 +7,6 @@ Slug: odd-2020-como-foi
 Status: published
 Image: https://datewithdata.pt/media/odd2020-01.jpg
 
-# Open Data Day 2020 Portugal
-
-![ODD 2020 Portugal](https://datewithdata.pt/media/odd2020-01.jpg)
-
 On a sunny March 7th we celebrated yet another Open Data Day, a global festival dedicated to open data. Such a party should be fun but also productive, so our schedule included some good old hands-on work -- our kind of plan! Therefore, we started our day with an OpenStreetMap (OSM) editing workshop with a surprise presentation by Pedro Lima, a very prolific OSM contributor and editor. Pedro introduced everyone to OSM editing tools, both in the browser and in mobile platforms. Among other gems, he shared his experience with editing maps from a smartphone with applications that make it a breeze -- [OsmAnd](https://osmand.net/), [Vespucci](https://vespucci.io/) and [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) were showcased so that everyone could try their first edits on their phone.
 
 ![Pedro Lima, OSM contributor](https://datewithdata.pt/media/odd2020-02.jpg)
